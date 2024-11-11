@@ -1,14 +1,14 @@
 # Abstract
 
-Provide a brief overview of the project objhectives, approach, and results.
+LLMs, as language models, are known for their ability to generalize across various natural 
+language tasks. Existing works [1-3] have leveraged their world knowledge and pattern-matching abilities to perform 
+time series forecasting by incorporating adapters for numerical input and projection heads for output. However, there 
+has been little exploration into whether LLMs, with the addition of adapters or proper fine-tuning, can perform general 
+time series tasks—such as imputation, classification, and outlier detection—without task-specific fine-tuning. 
 
-# Team
+# Team - Vaibhav Malviya (UCLA ECE MS Student)
 
-* Name of team member \#1 
-* Name of team member \#2 (delete this if necessary)
-* Name of team member \#3 (delete this if necessary)
-
-# Required Submissions
+# Submissions
 
 * [Proposal](proposal)
 * [Midterm Checkpoint Presentation Slides](http://)
