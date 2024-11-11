@@ -1,3 +1,5 @@
+# Exploring LLMs (Llama3.2-1B) Ability to Process Sensor Time Series Data
+
 # Abstract
 
 LLMs, as language models, are known for their ability to generalize across various natural 
