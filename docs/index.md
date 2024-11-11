@@ -11,6 +11,6 @@ time series tasks—such as imputation, classification, and outlier detection—
 # Submissions
 
 * [Proposal](proposal)
-* [Midterm Checkpoint Presentation Slides](http://)
+* [Midterm Checkpoint Presentation Slides](https://docs.google.com/presentation/d/10kWvrLXxfz-bzX5cdHgTzIwtaByFaYedC41DMM_jEi8/edit#slide=id.p)
 * [Final Presentation Slides](http://)
 * [Final Report](report)
