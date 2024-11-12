@@ -15,7 +15,7 @@ LLMs, as Large language models, are recognized for their ability to generalize a
 This section should cover the following items:
 
 * Motivation & Objective:
-* Large Language Models (LLMs) are traditionally known for their prowess in handling text data, but their use in time series data analysis has yet to be explored much. Since these models excel at capturing sequential dependencies in text, they may also effectively model the sequential dependencies inherent in time series data. Taking that forward, we plan to enable LLM for time series forecasting on embedded systems. We chose the Llama 3.2 1B [4] LLM, which is a pre-trained model that can run on edge devices via inputs in the form of raw data as well as images.
+  - Large Language Models (LLMs) are traditionally known for their prowess in handling text data, but their use in time series data analysis has yet to be explored much. Since these models excel at capturing sequential dependencies in text, they may also effectively model the sequential dependencies inherent in time series data. Taking that forward, we plan to enable LLM for time series forecasting on embedded systems. We chose the Llama 3.2 1B [4] LLM, which is a pre-trained model that can run on edge devices via inputs in the form of raw data as well as images.
 * 
 * State of the Art & Its Limitations: 
 * Novelty & Rationale: 
