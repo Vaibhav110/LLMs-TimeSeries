@@ -9,21 +9,23 @@
 
 # Abstract
 
-Provide a brief overview of the project objhectives, approach, and results.
-
+LLMs, as Large language models, are recognized for their ability to generalize across a broad range of natural language tasks. Existing research has harnessed their extensive world knowledge and powerful pattern-recognition capabilities, often through the integration of specialized adapters and fine tuning for numerical input and projection layers for output generation. However, there remains limited exploration into whether LLMs can effectively handle more general time series tasks, either with or without task-specific fine-tuning applied to raw time series data or image-transformed representations. This study aims to assess LLM performance on edge devices by evaluating four different configurations: fine-tuning on raw data, no fine-tuning on raw data, fine-tuning on image-transformed data, and no fine-tuning on image-transformed data.
 # 1. Introduction
 
 This section should cover the following items:
 
-* Motivation & Objective: What are you trying to do and why? (plain English without jargon)
-* State of the Art & Its Limitations: How is it done today, and what are the limits of current practice?
-* Novelty & Rationale: What is new in your approach and why do you think it will be successful?
-* Potential Impact: If the project is successful, what difference will it make, both technically and broadly?
-* Challenges: What are the challenges and risks?
-* Requirements for Success: What skills and resources are necessary to perform the project?
-* Metrics of Success: What are metrics by which you would check for success?
+* Motivation & Objective:
+* Large Language Models (LLMs) are traditionally known for their prowess in handling text data, but their use in time series data analysis has yet to be explored much. Since these models excel at capturing sequential dependencies in text, they may also effectively model the sequential dependencies inherent in time series data. Taking that forward, we plan to enable LLM for time series forecasting on embedded systems. We chose the Llama 3.2 1B [4] LLM, which is a pre-trained model that can run on edge devices via inputs in the form of raw data as well as images.
+* 
+* State of the Art & Its Limitations: 
+* Novelty & Rationale: 
+* Potential Impact: 
+* Challenges: 
+* Requirements for Success: 
+* Metrics of Success: 
 
 # 2. Related Work
+
 
 # 3. Technical Approach
 
