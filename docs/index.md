@@ -2,7 +2,7 @@
 
 # Abstract
 
-LLMs, as language models, are known for their ability to generalize across various natural language tasks. Existing works have leveraged their world knowledge and pattern-matching abilities to perform time series forecasting by incorporating adapters for numerical input and projection heads for output. However, there has been little exploration into whether LLMs, with the addition of adapters or proper fine-tuning, can perform general time series tasks—such as imputation, classification, and outlier detection—without task-specific fine-tuning. 
+LLMs, as Large language models, are recognized for their ability to generalize across a broad range of natural language tasks. Existing research has harnessed their extensive world knowledge and powerful pattern-recognition capabilities, often through the integration of specialized adapters and fine tuning for numerical input and projection layers for output generation. However, there remains limited exploration into whether LLMs can effectively handle more general time series tasks, either with or without task-specific fine-tuning applied to raw time series data or image-transformed representations. This study aims to assess LLM performance on edge devices by evaluating four different configurations: fine-tuning on raw data, no fine-tuning on raw data, fine-tuning on image-transformed data, and no fine-tuning on image-transformed data.
 
 
 # Contributor:
