@@ -1,4 +1,4 @@
-# Exploring LLMs (Llama3.2-1B) Ability to Process Sensor Time Series Data
+# LLMs for Sensor Time Series Data
 
 # Abstract
 
