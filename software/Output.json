@@ -1,0 +1,2786 @@
+[
+    {
+        "user": "Average Night data of CO on 10/03/2004 is?",
+        "assistant": 1.9666666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 11/03/2004 is?",
+        "assistant": 1.9083333333333332
+    },
+    {
+        "user": "Average Night data of CO on 11/03/2004 is?",
+        "assistant": 2.6
+    },
+    {
+        "user": "Average Morning data of CO on 12/03/2004 is?",
+        "assistant": 2.527272727272727
+    },
+    {
+        "user": "Average Night data of CO on 12/03/2004 is?",
+        "assistant": 3.0818181818181816
+    },
+    {
+        "user": "Average Morning data of CO on 13/03/2004 is?",
+        "assistant": 2.6333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 13/03/2004 is?",
+        "assistant": 2.7636363636363637
+    },
+    {
+        "user": "Average Morning data of CO on 14/03/2004 is?",
+        "assistant": 2.025
+    },
+    {
+        "user": "Average Night data of CO on 14/03/2004 is?",
+        "assistant": 2.9545454545454546
+    },
+    {
+        "user": "Average Morning data of CO on 15/03/2004 is?",
+        "assistant": 3.641666666666666
+    },
+    {
+        "user": "Average Night data of CO on 15/03/2004 is?",
+        "assistant": 3.354545454545455
+    },
+    {
+        "user": "Average Morning data of CO on 16/03/2004 is?",
+        "assistant": 3.1999999999999997
+    },
+    {
+        "user": "Average Night data of CO on 16/03/2004 is?",
+        "assistant": 2.3000000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 17/03/2004 is?",
+        "assistant": 2.9416666666666664
+    },
+    {
+        "user": "Average Night data of CO on 17/03/2004 is?",
+        "assistant": 3.2181818181818183
+    },
+    {
+        "user": "Average Morning data of CO on 18/03/2004 is?",
+        "assistant": 2.9333333333333336
+    },
+    {
+        "user": "Average Night data of CO on 18/03/2004 is?",
+        "assistant": 2.4454545454545453
+    },
+    {
+        "user": "Average Morning data of CO on 19/03/2004 is?",
+        "assistant": 3.475
+    },
+    {
+        "user": "Average Night data of CO on 19/03/2004 is?",
+        "assistant": 2.409090909090909
+    },
+    {
+        "user": "Average Morning data of CO on 20/03/2004 is?",
+        "assistant": 2.041666666666667
+    },
+    {
+        "user": "Average Night data of CO on 20/03/2004 is?",
+        "assistant": 2.190909090909091
+    },
+    {
+        "user": "Average Morning data of CO on 21/03/2004 is?",
+        "assistant": 1.5333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 21/03/2004 is?",
+        "assistant": 2.4909090909090907
+    },
+    {
+        "user": "Average Morning data of CO on 22/03/2004 is?",
+        "assistant": 2.1333333333333337
+    },
+    {
+        "user": "Average Night data of CO on 22/03/2004 is?",
+        "assistant": 2.145454545454546
+    },
+    {
+        "user": "Average Morning data of CO on 23/03/2004 is?",
+        "assistant": 2.558333333333333
+    },
+    {
+        "user": "Average Night data of CO on 23/03/2004 is?",
+        "assistant": 1.4000000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 24/03/2004 is?",
+        "assistant": 2.3181818181818183
+    },
+    {
+        "user": "Average Night data of CO on 24/03/2004 is?",
+        "assistant": 1.8818181818181818
+    },
+    {
+        "user": "Average Morning data of CO on 25/03/2004 is?",
+        "assistant": 1.9249999999999998
+    },
+    {
+        "user": "Average Night data of CO on 25/03/2004 is?",
+        "assistant": 1.883333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 26/03/2004 is?",
+        "assistant": 2.2666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 26/03/2004 is?",
+        "assistant": 1.491666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 27/03/2004 is?",
+        "assistant": 1.8666666666666665
+    },
+    {
+        "user": "Average Night data of CO on 27/03/2004 is?",
+        "assistant": 1.8181818181818186
+    },
+    {
+        "user": "Average Morning data of CO on 28/03/2004 is?",
+        "assistant": 1.5416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 28/03/2004 is?",
+        "assistant": 1.583333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 29/03/2004 is?",
+        "assistant": 1.808333333333333
+    },
+    {
+        "user": "Average Night data of CO on 29/03/2004 is?",
+        "assistant": 1.1249999999999998
+    },
+    {
+        "user": "Average Morning data of CO on 30/03/2004 is?",
+        "assistant": 2.9499999999999997
+    },
+    {
+        "user": "Average Night data of CO on 30/03/2004 is?",
+        "assistant": 1.3818181818181818
+    },
+    {
+        "user": "Average Morning data of CO on 31/03/2004 is?",
+        "assistant": 2.4583333333333335
+    },
+    {
+        "user": "Average Night data of CO on 31/03/2004 is?",
+        "assistant": 1.3916666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 01/04/2004 is?",
+        "assistant": 2.8083333333333336
+    },
+    {
+        "user": "Average Night data of CO on 01/04/2004 is?",
+        "assistant": 2.2916666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 02/04/2004 is?",
+        "assistant": 3.0500000000000003
+    },
+    {
+        "user": "Average Night data of CO on 02/04/2004 is?",
+        "assistant": 2.5272727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 03/04/2004 is?",
+        "assistant": 2.25
+    },
+    {
+        "user": "Average Night data of CO on 03/04/2004 is?",
+        "assistant": 1.1
+    },
+    {
+        "user": "Average Morning data of CO on 05/04/2004 is?",
+        "assistant": 2.775
+    },
+    {
+        "user": "Average Night data of CO on 05/04/2004 is?",
+        "assistant": 2.733333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 06/04/2004 is?",
+        "assistant": 2.983333333333334
+    },
+    {
+        "user": "Average Night data of CO on 06/04/2004 is?",
+        "assistant": 1.4833333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 07/04/2004 is?",
+        "assistant": 1.8583333333333332
+    },
+    {
+        "user": "Average Night data of CO on 07/04/2004 is?",
+        "assistant": 1.4166666666666663
+    },
+    {
+        "user": "Average Morning data of CO on 08/04/2004 is?",
+        "assistant": 2.7916666666666665
+    },
+    {
+        "user": "Average Night data of CO on 08/04/2004 is?",
+        "assistant": 2.3454545454545457
+    },
+    {
+        "user": "Average Morning data of CO on 09/04/2004 is?",
+        "assistant": 2.9
+    },
+    {
+        "user": "Average Night data of CO on 09/04/2004 is?",
+        "assistant": 2.0083333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 10/04/2004 is?",
+        "assistant": 1.6916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 10/04/2004 is?",
+        "assistant": 1.8166666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 11/04/2004 is?",
+        "assistant": 1.2166666666666666
+    },
+    {
+        "user": "Average Night data of CO on 11/04/2004 is?",
+        "assistant": 1.1909090909090907
+    },
+    {
+        "user": "Average Morning data of CO on 12/04/2004 is?",
+        "assistant": 0.8999999999999999
+    },
+    {
+        "user": "Average Night data of CO on 12/04/2004 is?",
+        "assistant": 0.8250000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 13/04/2004 is?",
+        "assistant": 2.3000000000000003
+    },
+    {
+        "user": "Average Night data of CO on 13/04/2004 is?",
+        "assistant": 1.8083333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 14/04/2004 is?",
+        "assistant": 3.1000000000000005
+    },
+    {
+        "user": "Average Night data of CO on 14/04/2004 is?",
+        "assistant": 0.8
+    },
+    {
+        "user": "Average Morning data of CO on 15/04/2004 is?",
+        "assistant": 3.8000000000000003
+    },
+    {
+        "user": "Average Night data of CO on 15/04/2004 is?",
+        "assistant": 4.766666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 16/04/2004 is?",
+        "assistant": 3.6500000000000004
+    },
+    {
+        "user": "Average Night data of CO on 16/04/2004 is?",
+        "assistant": 2.9583333333333335
+    },
+    {
+        "user": "Average Night data of CO on 17/04/2004 is?",
+        "assistant": 2.233333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 23/04/2004 is?",
+        "assistant": 3.841666666666667
+    },
+    {
+        "user": "Average Night data of CO on 23/04/2004 is?",
+        "assistant": 3.0857142857142854
+    },
+    {
+        "user": "Average Morning data of CO on 24/04/2004 is?",
+        "assistant": 2.083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 24/04/2004 is?",
+        "assistant": 2.1
+    },
+    {
+        "user": "Average Morning data of CO on 25/04/2004 is?",
+        "assistant": 0.8750000000000001
+    },
+    {
+        "user": "Average Night data of CO on 25/04/2004 is?",
+        "assistant": 1.6454545454545455
+    },
+    {
+        "user": "Average Morning data of CO on 26/04/2004 is?",
+        "assistant": 1.5333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 26/04/2004 is?",
+        "assistant": 1.4545454545454544
+    },
+    {
+        "user": "Average Morning data of CO on 27/04/2004 is?",
+        "assistant": 2.5666666666666664
+    },
+    {
+        "user": "Average Night data of CO on 27/04/2004 is?",
+        "assistant": 1.8545454545454547
+    },
+    {
+        "user": "Average Morning data of CO on 28/04/2004 is?",
+        "assistant": 3.3083333333333336
+    },
+    {
+        "user": "Average Night data of CO on 28/04/2004 is?",
+        "assistant": 2.290909090909091
+    },
+    {
+        "user": "Average Morning data of CO on 29/04/2004 is?",
+        "assistant": 3.591666666666667
+    },
+    {
+        "user": "Average Night data of CO on 29/04/2004 is?",
+        "assistant": 2.627272727272727
+    },
+    {
+        "user": "Average Morning data of CO on 30/04/2004 is?",
+        "assistant": 3.15
+    },
+    {
+        "user": "Average Night data of CO on 30/04/2004 is?",
+        "assistant": 2.772727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 01/05/2004 is?",
+        "assistant": 1.616666666666667
+    },
+    {
+        "user": "Average Night data of CO on 01/05/2004 is?",
+        "assistant": 2.5363636363636366
+    },
+    {
+        "user": "Average Morning data of CO on 02/05/2004 is?",
+        "assistant": 1.258333333333333
+    },
+    {
+        "user": "Average Night data of CO on 02/05/2004 is?",
+        "assistant": 1.9909090909090912
+    },
+    {
+        "user": "Average Morning data of CO on 03/05/2004 is?",
+        "assistant": 2.508333333333333
+    },
+    {
+        "user": "Average Night data of CO on 03/05/2004 is?",
+        "assistant": 1.8
+    },
+    {
+        "user": "Average Morning data of CO on 04/05/2004 is?",
+        "assistant": 2.5083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 04/05/2004 is?",
+        "assistant": 2.0818181818181816
+    },
+    {
+        "user": "Average Morning data of CO on 05/05/2004 is?",
+        "assistant": 2.936363636363636
+    },
+    {
+        "user": "Average Night data of CO on 05/05/2004 is?",
+        "assistant": 1.2818181818181817
+    },
+    {
+        "user": "Average Morning data of CO on 06/05/2004 is?",
+        "assistant": 2.641666666666667
+    },
+    {
+        "user": "Average Night data of CO on 06/05/2004 is?",
+        "assistant": 1.2909090909090908
+    },
+    {
+        "user": "Average Morning data of CO on 07/05/2004 is?",
+        "assistant": 2.4833333333333334
+    },
+    {
+        "user": "Average Night data of CO on 07/05/2004 is?",
+        "assistant": 1.8727272727272728
+    },
+    {
+        "user": "Average Night data of CO on 08/05/2004 is?",
+        "assistant": 1.4000000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 10/05/2004 is?",
+        "assistant": 2.5222222222222226
+    },
+    {
+        "user": "Average Night data of CO on 10/05/2004 is?",
+        "assistant": 2.583333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 11/05/2004 is?",
+        "assistant": 3.158333333333333
+    },
+    {
+        "user": "Average Night data of CO on 11/05/2004 is?",
+        "assistant": 2.4
+    },
+    {
+        "user": "Average Morning data of CO on 12/05/2004 is?",
+        "assistant": 3.5916666666666663
+    },
+    {
+        "user": "Average Night data of CO on 12/05/2004 is?",
+        "assistant": 1.5818181818181818
+    },
+    {
+        "user": "Average Morning data of CO on 13/05/2004 is?",
+        "assistant": 2.4000000000000004
+    },
+    {
+        "user": "Average Night data of CO on 13/05/2004 is?",
+        "assistant": 2.409090909090909
+    },
+    {
+        "user": "Average Morning data of CO on 14/05/2004 is?",
+        "assistant": 2.4454545454545458
+    },
+    {
+        "user": "Average Night data of CO on 14/05/2004 is?",
+        "assistant": 2.409090909090909
+    },
+    {
+        "user": "Average Morning data of CO on 15/05/2004 is?",
+        "assistant": 1.7333333333333327
+    },
+    {
+        "user": "Average Night data of CO on 15/05/2004 is?",
+        "assistant": 1.8363636363636366
+    },
+    {
+        "user": "Average Morning data of CO on 16/05/2004 is?",
+        "assistant": 1.2500000000000002
+    },
+    {
+        "user": "Average Night data of CO on 16/05/2004 is?",
+        "assistant": 1.5636363636363635
+    },
+    {
+        "user": "Average Morning data of CO on 17/05/2004 is?",
+        "assistant": 1.8166666666666664
+    },
+    {
+        "user": "Average Night data of CO on 17/05/2004 is?",
+        "assistant": 1.5363636363636362
+    },
+    {
+        "user": "Average Morning data of CO on 18/05/2004 is?",
+        "assistant": 2.6999999999999997
+    },
+    {
+        "user": "Average Night data of CO on 18/05/2004 is?",
+        "assistant": 1.8363636363636362
+    },
+    {
+        "user": "Average Morning data of CO on 19/05/2004 is?",
+        "assistant": 2.816666666666667
+    },
+    {
+        "user": "Average Night data of CO on 19/05/2004 is?",
+        "assistant": 1.8727272727272726
+    },
+    {
+        "user": "Average Morning data of CO on 20/05/2004 is?",
+        "assistant": 2.65
+    },
+    {
+        "user": "Average Night data of CO on 20/05/2004 is?",
+        "assistant": 2.1818181818181817
+    },
+    {
+        "user": "Average Morning data of CO on 21/05/2004 is?",
+        "assistant": 2.5416666666666665
+    },
+    {
+        "user": "Average Night data of CO on 21/05/2004 is?",
+        "assistant": 1.9636363636363634
+    },
+    {
+        "user": "Average Morning data of CO on 22/05/2004 is?",
+        "assistant": 1.8583333333333336
+    },
+    {
+        "user": "Average Night data of CO on 22/05/2004 is?",
+        "assistant": 2.172727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 23/05/2004 is?",
+        "assistant": 0.9666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 23/05/2004 is?",
+        "assistant": 1.663636363636364
+    },
+    {
+        "user": "Average Morning data of CO on 24/05/2004 is?",
+        "assistant": 1.2916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 24/05/2004 is?",
+        "assistant": 0.9400000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 25/05/2004 is?",
+        "assistant": 2.0999999999999996
+    },
+    {
+        "user": "Average Night data of CO on 25/05/2004 is?",
+        "assistant": 0.26666666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 26/05/2004 is?",
+        "assistant": 1.9875
+    },
+    {
+        "user": "Average Morning data of CO on 28/05/2004 is?",
+        "assistant": 1.8333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 28/05/2004 is?",
+        "assistant": 1.6166666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 29/05/2004 is?",
+        "assistant": 0.5666666666666665
+    },
+    {
+        "user": "Average Night data of CO on 29/05/2004 is?",
+        "assistant": 1.1800000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 30/05/2004 is?",
+        "assistant": 0.2833333333333334
+    },
+    {
+        "user": "Average Night data of CO on 30/05/2004 is?",
+        "assistant": 1.0636363636363637
+    },
+    {
+        "user": "Average Morning data of CO on 31/05/2004 is?",
+        "assistant": 1.7583333333333335
+    },
+    {
+        "user": "Average Night data of CO on 31/05/2004 is?",
+        "assistant": 1.1625
+    },
+    {
+        "user": "Average Morning data of CO on 01/06/2004 is?",
+        "assistant": 1.9750000000000003
+    },
+    {
+        "user": "Average Night data of CO on 01/06/2004 is?",
+        "assistant": 2.2874999999999996
+    },
+    {
+        "user": "Average Night data of CO on 02/06/2004 is?",
+        "assistant": 0.8
+    },
+    {
+        "user": "Average Morning data of CO on 04/06/2004 is?",
+        "assistant": 3.1500000000000004
+    },
+    {
+        "user": "Average Night data of CO on 04/06/2004 is?",
+        "assistant": 2.766666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 05/06/2004 is?",
+        "assistant": 1.3916666666666668
+    },
+    {
+        "user": "Average Night data of CO on 05/06/2004 is?",
+        "assistant": 1.5083333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 06/06/2004 is?",
+        "assistant": 0.8083333333333332
+    },
+    {
+        "user": "Average Night data of CO on 06/06/2004 is?",
+        "assistant": 1.1916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 07/06/2004 is?",
+        "assistant": 2.683333333333333
+    },
+    {
+        "user": "Average Night data of CO on 07/06/2004 is?",
+        "assistant": 1.7272727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 08/06/2004 is?",
+        "assistant": 3.1166666666666667
+    },
+    {
+        "user": "Average Night data of CO on 08/06/2004 is?",
+        "assistant": 1.7999999999999998
+    },
+    {
+        "user": "Average Morning data of CO on 09/06/2004 is?",
+        "assistant": 2.9333333333333336
+    },
+    {
+        "user": "Average Night data of CO on 09/06/2004 is?",
+        "assistant": 1.9999999999999998
+    },
+    {
+        "user": "Average Morning data of CO on 10/06/2004 is?",
+        "assistant": 2.9
+    },
+    {
+        "user": "Average Night data of CO on 10/06/2004 is?",
+        "assistant": 2.4
+    },
+    {
+        "user": "Average Morning data of CO on 11/06/2004 is?",
+        "assistant": 2.609090909090909
+    },
+    {
+        "user": "Average Night data of CO on 11/06/2004 is?",
+        "assistant": 1.8
+    },
+    {
+        "user": "Average Morning data of CO on 12/06/2004 is?",
+        "assistant": 1.4083333333333332
+    },
+    {
+        "user": "Average Night data of CO on 12/06/2004 is?",
+        "assistant": 1.225
+    },
+    {
+        "user": "Average Morning data of CO on 13/06/2004 is?",
+        "assistant": 0.5833333333333333
+    },
+    {
+        "user": "Average Night data of CO on 13/06/2004 is?",
+        "assistant": 0.8750000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 14/06/2004 is?",
+        "assistant": 1.4416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 14/06/2004 is?",
+        "assistant": 0.9636363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 15/06/2004 is?",
+        "assistant": 2.6750000000000003
+    },
+    {
+        "user": "Average Night data of CO on 15/06/2004 is?",
+        "assistant": 1.6333333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 16/06/2004 is?",
+        "assistant": 2.4583333333333335
+    },
+    {
+        "user": "Average Night data of CO on 16/06/2004 is?",
+        "assistant": 1.8583333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 17/06/2004 is?",
+        "assistant": 2.3916666666666666
+    },
+    {
+        "user": "Average Night data of CO on 17/06/2004 is?",
+        "assistant": 2.0818181818181816
+    },
+    {
+        "user": "Average Morning data of CO on 18/06/2004 is?",
+        "assistant": 2.5000000000000004
+    },
+    {
+        "user": "Average Night data of CO on 18/06/2004 is?",
+        "assistant": 1.5916666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 19/06/2004 is?",
+        "assistant": 1.2833333333333332
+    },
+    {
+        "user": "Average Night data of CO on 19/06/2004 is?",
+        "assistant": 1.2333333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 20/06/2004 is?",
+        "assistant": 0.9750000000000001
+    },
+    {
+        "user": "Average Night data of CO on 20/06/2004 is?",
+        "assistant": 1.9727272727272727
+    },
+    {
+        "user": "Average Morning data of CO on 21/06/2004 is?",
+        "assistant": 1.9000000000000001
+    },
+    {
+        "user": "Average Night data of CO on 21/06/2004 is?",
+        "assistant": 1.7166666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 22/06/2004 is?",
+        "assistant": 2.691666666666667
+    },
+    {
+        "user": "Average Night data of CO on 22/06/2004 is?",
+        "assistant": 1.708333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 23/06/2004 is?",
+        "assistant": 2.6416666666666666
+    },
+    {
+        "user": "Average Night data of CO on 23/06/2004 is?",
+        "assistant": 2.2545454545454544
+    },
+    {
+        "user": "Average Morning data of CO on 24/06/2004 is?",
+        "assistant": 1.3
+    },
+    {
+        "user": "Average Night data of CO on 24/06/2004 is?",
+        "assistant": 2.1750000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 25/06/2004 is?",
+        "assistant": 2.1166666666666667
+    },
+    {
+        "user": "Average Night data of CO on 25/06/2004 is?",
+        "assistant": 2.0500000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 26/06/2004 is?",
+        "assistant": 1.5416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 26/06/2004 is?",
+        "assistant": 1.4181818181818182
+    },
+    {
+        "user": "Average Morning data of CO on 27/06/2004 is?",
+        "assistant": 1.1249999999999998
+    },
+    {
+        "user": "Average Night data of CO on 27/06/2004 is?",
+        "assistant": 1.5416666666666663
+    },
+    {
+        "user": "Average Morning data of CO on 28/06/2004 is?",
+        "assistant": 2.6333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 28/06/2004 is?",
+        "assistant": 1.5666666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 29/06/2004 is?",
+        "assistant": 2.841666666666667
+    },
+    {
+        "user": "Average Night data of CO on 29/06/2004 is?",
+        "assistant": 1.9454545454545453
+    },
+    {
+        "user": "Average Morning data of CO on 30/06/2004 is?",
+        "assistant": 2.5000000000000004
+    },
+    {
+        "user": "Average Night data of CO on 30/06/2004 is?",
+        "assistant": 2.25
+    },
+    {
+        "user": "Average Morning data of CO on 01/07/2004 is?",
+        "assistant": 2.3
+    },
+    {
+        "user": "Average Night data of CO on 01/07/2004 is?",
+        "assistant": 2.025
+    },
+    {
+        "user": "Average Morning data of CO on 02/07/2004 is?",
+        "assistant": 2.2416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 02/07/2004 is?",
+        "assistant": 1.8909090909090909
+    },
+    {
+        "user": "Average Morning data of CO on 03/07/2004 is?",
+        "assistant": 1.366666666666667
+    },
+    {
+        "user": "Average Night data of CO on 03/07/2004 is?",
+        "assistant": 1.2666666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 04/07/2004 is?",
+        "assistant": 0.75
+    },
+    {
+        "user": "Average Night data of CO on 04/07/2004 is?",
+        "assistant": 1.2833333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 05/07/2004 is?",
+        "assistant": 2.375
+    },
+    {
+        "user": "Average Night data of CO on 05/07/2004 is?",
+        "assistant": 1.736363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 06/07/2004 is?",
+        "assistant": 2.9583333333333326
+    },
+    {
+        "user": "Average Night data of CO on 06/07/2004 is?",
+        "assistant": 2.0416666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 07/07/2004 is?",
+        "assistant": 2.5833333333333335
+    },
+    {
+        "user": "Average Night data of CO on 07/07/2004 is?",
+        "assistant": 2.325
+    },
+    {
+        "user": "Average Morning data of CO on 08/07/2004 is?",
+        "assistant": 2.2166666666666663
+    },
+    {
+        "user": "Average Night data of CO on 08/07/2004 is?",
+        "assistant": 2.2818181818181817
+    },
+    {
+        "user": "Average Morning data of CO on 09/07/2004 is?",
+        "assistant": 1.8083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 09/07/2004 is?",
+        "assistant": 1.7666666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 10/07/2004 is?",
+        "assistant": 0.8249999999999998
+    },
+    {
+        "user": "Average Night data of CO on 10/07/2004 is?",
+        "assistant": 1.1333333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 11/07/2004 is?",
+        "assistant": 0.47500000000000003
+    },
+    {
+        "user": "Average Night data of CO on 11/07/2004 is?",
+        "assistant": 1.225
+    },
+    {
+        "user": "Average Morning data of CO on 12/07/2004 is?",
+        "assistant": 2.075
+    },
+    {
+        "user": "Average Night data of CO on 12/07/2004 is?",
+        "assistant": 1.4909090909090912
+    },
+    {
+        "user": "Average Morning data of CO on 13/07/2004 is?",
+        "assistant": 2.6750000000000003
+    },
+    {
+        "user": "Average Night data of CO on 13/07/2004 is?",
+        "assistant": 2.05
+    },
+    {
+        "user": "Average Morning data of CO on 14/07/2004 is?",
+        "assistant": 2.6833333333333336
+    },
+    {
+        "user": "Average Night data of CO on 14/07/2004 is?",
+        "assistant": 1.933333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 15/07/2004 is?",
+        "assistant": 2.175
+    },
+    {
+        "user": "Average Night data of CO on 15/07/2004 is?",
+        "assistant": 2.2
+    },
+    {
+        "user": "Average Morning data of CO on 16/07/2004 is?",
+        "assistant": 2.3666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 16/07/2004 is?",
+        "assistant": 2.05
+    },
+    {
+        "user": "Average Morning data of CO on 17/07/2004 is?",
+        "assistant": 1.491666666666667
+    },
+    {
+        "user": "Average Night data of CO on 17/07/2004 is?",
+        "assistant": 1.6583333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 18/07/2004 is?",
+        "assistant": 0.525
+    },
+    {
+        "user": "Average Night data of CO on 18/07/2004 is?",
+        "assistant": 1.0636363636363635
+    },
+    {
+        "user": "Average Morning data of CO on 19/07/2004 is?",
+        "assistant": 2.25
+    },
+    {
+        "user": "Average Night data of CO on 19/07/2004 is?",
+        "assistant": 0.26
+    },
+    {
+        "user": "Average Night data of CO on 21/07/2004 is?",
+        "assistant": 3.466666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 22/07/2004 is?",
+        "assistant": 2.37
+    },
+    {
+        "user": "Average Night data of CO on 22/07/2004 is?",
+        "assistant": 2.216666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 23/07/2004 is?",
+        "assistant": 2.2083333333333335
+    },
+    {
+        "user": "Average Night data of CO on 23/07/2004 is?",
+        "assistant": 1.6833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 24/07/2004 is?",
+        "assistant": 1.3166666666666667
+    },
+    {
+        "user": "Average Night data of CO on 24/07/2004 is?",
+        "assistant": 1.2833333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 25/07/2004 is?",
+        "assistant": 0.6666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 25/07/2004 is?",
+        "assistant": 1.1727272727272726
+    },
+    {
+        "user": "Average Night data of CO on 26/07/2004 is?",
+        "assistant": 1.1666666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 31/07/2004 is?",
+        "assistant": 1.9083333333333332
+    },
+    {
+        "user": "Average Night data of CO on 31/07/2004 is?",
+        "assistant": 1.6857142857142857
+    },
+    {
+        "user": "Average Morning data of CO on 01/08/2004 is?",
+        "assistant": 0.6833333333333332
+    },
+    {
+        "user": "Average Night data of CO on 01/08/2004 is?",
+        "assistant": 1.2833333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 02/08/2004 is?",
+        "assistant": 1.5818181818181818
+    },
+    {
+        "user": "Average Night data of CO on 02/08/2004 is?",
+        "assistant": 1.0083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 03/08/2004 is?",
+        "assistant": 0.1
+    },
+    {
+        "user": "Average Morning data of CO on 06/08/2004 is?",
+        "assistant": 2.2083333333333335
+    },
+    {
+        "user": "Average Night data of CO on 06/08/2004 is?",
+        "assistant": 1.8571428571428572
+    },
+    {
+        "user": "Average Morning data of CO on 07/08/2004 is?",
+        "assistant": 1.2333333333333332
+    },
+    {
+        "user": "Average Night data of CO on 07/08/2004 is?",
+        "assistant": 1.25
+    },
+    {
+        "user": "Average Morning data of CO on 08/08/2004 is?",
+        "assistant": 0.9166666666666666
+    },
+    {
+        "user": "Average Night data of CO on 08/08/2004 is?",
+        "assistant": 1.2333333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 09/08/2004 is?",
+        "assistant": 1.633333333333333
+    },
+    {
+        "user": "Average Night data of CO on 09/08/2004 is?",
+        "assistant": 1.3272727272727272
+    },
+    {
+        "user": "Average Morning data of CO on 10/08/2004 is?",
+        "assistant": 1.7666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 10/08/2004 is?",
+        "assistant": 1.1833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 11/08/2004 is?",
+        "assistant": 1.425
+    },
+    {
+        "user": "Average Night data of CO on 11/08/2004 is?",
+        "assistant": 1.175
+    },
+    {
+        "user": "Average Morning data of CO on 12/08/2004 is?",
+        "assistant": 1.3666666666666665
+    },
+    {
+        "user": "Average Night data of CO on 12/08/2004 is?",
+        "assistant": 1.2454545454545454
+    },
+    {
+        "user": "Average Morning data of CO on 13/08/2004 is?",
+        "assistant": 1.0916666666666666
+    },
+    {
+        "user": "Average Night data of CO on 13/08/2004 is?",
+        "assistant": 0.9583333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 14/08/2004 is?",
+        "assistant": 0.8333333333333331
+    },
+    {
+        "user": "Average Night data of CO on 14/08/2004 is?",
+        "assistant": 0.8916666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 15/08/2004 is?",
+        "assistant": 0.7083333333333334
+    },
+    {
+        "user": "Average Night data of CO on 15/08/2004 is?",
+        "assistant": 0.8181818181818182
+    },
+    {
+        "user": "Average Morning data of CO on 16/08/2004 is?",
+        "assistant": 1.291666666666667
+    },
+    {
+        "user": "Average Night data of CO on 16/08/2004 is?",
+        "assistant": 0.9083333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 17/08/2004 is?",
+        "assistant": 2.0
+    },
+    {
+        "user": "Average Night data of CO on 17/08/2004 is?",
+        "assistant": 0.5499999999999999
+    },
+    {
+        "user": "Average Morning data of CO on 18/08/2004 is?",
+        "assistant": 1.5499999999999998
+    },
+    {
+        "user": "Average Night data of CO on 18/08/2004 is?",
+        "assistant": 1.5000000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 19/08/2004 is?",
+        "assistant": 1.1583333333333334
+    },
+    {
+        "user": "Average Night data of CO on 19/08/2004 is?",
+        "assistant": 1.0222222222222221
+    },
+    {
+        "user": "Average Morning data of CO on 23/08/2004 is?",
+        "assistant": 1.3
+    },
+    {
+        "user": "Average Night data of CO on 23/08/2004 is?",
+        "assistant": 1.4166666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 24/08/2004 is?",
+        "assistant": 1.6166666666666665
+    },
+    {
+        "user": "Average Night data of CO on 24/08/2004 is?",
+        "assistant": 1.1416666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 25/08/2004 is?",
+        "assistant": 1.8666666666666671
+    },
+    {
+        "user": "Average Night data of CO on 25/08/2004 is?",
+        "assistant": 1.1666666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 26/08/2004 is?",
+        "assistant": 1.5583333333333333
+    },
+    {
+        "user": "Average Night data of CO on 26/08/2004 is?",
+        "assistant": 1.1363636363636362
+    },
+    {
+        "user": "Average Morning data of CO on 27/08/2004 is?",
+        "assistant": 1.8416666666666666
+    },
+    {
+        "user": "Average Night data of CO on 27/08/2004 is?",
+        "assistant": 1.4166666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 28/08/2004 is?",
+        "assistant": 1.2125
+    },
+    {
+        "user": "Average Night data of CO on 28/08/2004 is?",
+        "assistant": 0.6166666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 31/08/2004 is?",
+        "assistant": 2.05
+    },
+    {
+        "user": "Average Night data of CO on 31/08/2004 is?",
+        "assistant": 2.2333333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 01/09/2004 is?",
+        "assistant": 2.5833333333333335
+    },
+    {
+        "user": "Average Night data of CO on 01/09/2004 is?",
+        "assistant": 1.8916666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 02/09/2004 is?",
+        "assistant": 3.05
+    },
+    {
+        "user": "Average Night data of CO on 02/09/2004 is?",
+        "assistant": 1.0333333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 03/09/2004 is?",
+        "assistant": 4.6
+    },
+    {
+        "user": "Average Night data of CO on 03/09/2004 is?",
+        "assistant": 3.0999999999999996
+    },
+    {
+        "user": "Average Morning data of CO on 04/09/2004 is?",
+        "assistant": 1.9083333333333334
+    },
+    {
+        "user": "Average Night data of CO on 04/09/2004 is?",
+        "assistant": 1.5333333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 05/09/2004 is?",
+        "assistant": 0.7666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 05/09/2004 is?",
+        "assistant": 1.8416666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 06/09/2004 is?",
+        "assistant": 1.4833333333333334
+    },
+    {
+        "user": "Average Night data of CO on 06/09/2004 is?",
+        "assistant": 1.3545454545454547
+    },
+    {
+        "user": "Average Morning data of CO on 07/09/2004 is?",
+        "assistant": 2.0166666666666666
+    },
+    {
+        "user": "Average Night data of CO on 07/09/2004 is?",
+        "assistant": 1.7399999999999998
+    },
+    {
+        "user": "Average Morning data of CO on 08/09/2004 is?",
+        "assistant": 3.4
+    },
+    {
+        "user": "Average Night data of CO on 08/09/2004 is?",
+        "assistant": 3.316666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 09/09/2004 is?",
+        "assistant": 2.608333333333333
+    },
+    {
+        "user": "Average Night data of CO on 09/09/2004 is?",
+        "assistant": 1.866666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 10/09/2004 is?",
+        "assistant": 2.408333333333333
+    },
+    {
+        "user": "Average Night data of CO on 10/09/2004 is?",
+        "assistant": 1.4916666666666665
+    },
+    {
+        "user": "Average Night data of CO on 11/09/2004 is?",
+        "assistant": 1.6
+    },
+    {
+        "user": "Average Morning data of CO on 13/09/2004 is?",
+        "assistant": 2.7
+    },
+    {
+        "user": "Average Night data of CO on 13/09/2004 is?",
+        "assistant": 3.4
+    },
+    {
+        "user": "Average Night data of CO on 14/09/2004 is?",
+        "assistant": 0.75
+    },
+    {
+        "user": "Average Morning data of CO on 15/09/2004 is?",
+        "assistant": 3.3
+    },
+    {
+        "user": "Average Night data of CO on 15/09/2004 is?",
+        "assistant": 3.733333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 16/09/2004 is?",
+        "assistant": 2.5083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 16/09/2004 is?",
+        "assistant": 1.7083333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 17/09/2004 is?",
+        "assistant": 1.783333333333333
+    },
+    {
+        "user": "Average Night data of CO on 17/09/2004 is?",
+        "assistant": 1.2833333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 18/09/2004 is?",
+        "assistant": 1.275
+    },
+    {
+        "user": "Average Night data of CO on 18/09/2004 is?",
+        "assistant": 1.4727272727272727
+    },
+    {
+        "user": "Average Morning data of CO on 19/09/2004 is?",
+        "assistant": 1.866666666666667
+    },
+    {
+        "user": "Average Night data of CO on 19/09/2004 is?",
+        "assistant": 2.0666666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 20/09/2004 is?",
+        "assistant": 3.272727272727273
+    },
+    {
+        "user": "Average Night data of CO on 20/09/2004 is?",
+        "assistant": 2.158333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 21/09/2004 is?",
+        "assistant": 3.941666666666667
+    },
+    {
+        "user": "Average Night data of CO on 21/09/2004 is?",
+        "assistant": 2.025
+    },
+    {
+        "user": "Average Morning data of CO on 22/09/2004 is?",
+        "assistant": 3.4499999999999997
+    },
+    {
+        "user": "Average Night data of CO on 22/09/2004 is?",
+        "assistant": 2.066666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 23/09/2004 is?",
+        "assistant": 2.7833333333333337
+    },
+    {
+        "user": "Average Night data of CO on 23/09/2004 is?",
+        "assistant": 2.1636363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 24/09/2004 is?",
+        "assistant": 3.6
+    },
+    {
+        "user": "Average Night data of CO on 24/09/2004 is?",
+        "assistant": 1.1749999999999998
+    },
+    {
+        "user": "Average Morning data of CO on 25/09/2004 is?",
+        "assistant": 1.0333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 25/09/2004 is?",
+        "assistant": 1.45
+    },
+    {
+        "user": "Average Morning data of CO on 26/09/2004 is?",
+        "assistant": 1.1083333333333334
+    },
+    {
+        "user": "Average Night data of CO on 26/09/2004 is?",
+        "assistant": 2.0181818181818185
+    },
+    {
+        "user": "Average Morning data of CO on 27/09/2004 is?",
+        "assistant": 2.366666666666667
+    },
+    {
+        "user": "Average Night data of CO on 27/09/2004 is?",
+        "assistant": 1.9333333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 28/09/2004 is?",
+        "assistant": 3.391666666666666
+    },
+    {
+        "user": "Average Night data of CO on 28/09/2004 is?",
+        "assistant": 2.2750000000000004
+    },
+    {
+        "user": "Average Morning data of CO on 29/09/2004 is?",
+        "assistant": 3.2416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 29/09/2004 is?",
+        "assistant": 2.2636363636363632
+    },
+    {
+        "user": "Average Morning data of CO on 30/09/2004 is?",
+        "assistant": 3.133333333333333
+    },
+    {
+        "user": "Average Night data of CO on 30/09/2004 is?",
+        "assistant": 3.1571428571428575
+    },
+    {
+        "user": "Average Morning data of CO on 01/10/2004 is?",
+        "assistant": 3.475
+    },
+    {
+        "user": "Average Night data of CO on 01/10/2004 is?",
+        "assistant": 1.15
+    },
+    {
+        "user": "Average Morning data of CO on 07/10/2004 is?",
+        "assistant": 4.15
+    },
+    {
+        "user": "Average Night data of CO on 07/10/2004 is?",
+        "assistant": 4.2
+    },
+    {
+        "user": "Average Morning data of CO on 08/10/2004 is?",
+        "assistant": 3.608333333333333
+    },
+    {
+        "user": "Average Night data of CO on 08/10/2004 is?",
+        "assistant": 1.5833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 09/10/2004 is?",
+        "assistant": 2.8333333333333335
+    },
+    {
+        "user": "Average Night data of CO on 09/10/2004 is?",
+        "assistant": 2.2166666666666663
+    },
+    {
+        "user": "Average Morning data of CO on 10/10/2004 is?",
+        "assistant": 1.5166666666666668
+    },
+    {
+        "user": "Average Night data of CO on 10/10/2004 is?",
+        "assistant": 1.7272727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 11/10/2004 is?",
+        "assistant": 3.125
+    },
+    {
+        "user": "Average Night data of CO on 11/10/2004 is?",
+        "assistant": 1.7833333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 12/10/2004 is?",
+        "assistant": 2.3000000000000003
+    },
+    {
+        "user": "Average Night data of CO on 12/10/2004 is?",
+        "assistant": 0.75
+    },
+    {
+        "user": "Average Morning data of CO on 13/10/2004 is?",
+        "assistant": 1.35
+    },
+    {
+        "user": "Average Morning data of CO on 20/10/2004 is?",
+        "assistant": 6.35
+    },
+    {
+        "user": "Average Night data of CO on 20/10/2004 is?",
+        "assistant": 5.416666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 21/10/2004 is?",
+        "assistant": 2.7416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 21/10/2004 is?",
+        "assistant": 3.6545454545454548
+    },
+    {
+        "user": "Average Morning data of CO on 22/10/2004 is?",
+        "assistant": 3.341666666666667
+    },
+    {
+        "user": "Average Night data of CO on 22/10/2004 is?",
+        "assistant": 2.872727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 23/10/2004 is?",
+        "assistant": 2.8083333333333336
+    },
+    {
+        "user": "Average Night data of CO on 23/10/2004 is?",
+        "assistant": 2.3181818181818183
+    },
+    {
+        "user": "Average Morning data of CO on 24/10/2004 is?",
+        "assistant": 1.5999999999999999
+    },
+    {
+        "user": "Average Night data of CO on 24/10/2004 is?",
+        "assistant": 2.4636363636363634
+    },
+    {
+        "user": "Average Morning data of CO on 25/10/2004 is?",
+        "assistant": 3.908333333333333
+    },
+    {
+        "user": "Average Night data of CO on 25/10/2004 is?",
+        "assistant": 3.3909090909090907
+    },
+    {
+        "user": "Average Morning data of CO on 26/10/2004 is?",
+        "assistant": 4.333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 26/10/2004 is?",
+        "assistant": 2.9545454545454546
+    },
+    {
+        "user": "Average Morning data of CO on 27/10/2004 is?",
+        "assistant": 3.0666666666666664
+    },
+    {
+        "user": "Average Night data of CO on 27/10/2004 is?",
+        "assistant": 1.6454545454545455
+    },
+    {
+        "user": "Average Morning data of CO on 28/10/2004 is?",
+        "assistant": 3.533333333333333
+    },
+    {
+        "user": "Average Night data of CO on 28/10/2004 is?",
+        "assistant": 1.736363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 29/10/2004 is?",
+        "assistant": 3.333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 29/10/2004 is?",
+        "assistant": 1.7000000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 30/10/2004 is?",
+        "assistant": 3.158333333333333
+    },
+    {
+        "user": "Average Night data of CO on 30/10/2004 is?",
+        "assistant": 2.5818181818181816
+    },
+    {
+        "user": "Average Morning data of CO on 31/10/2004 is?",
+        "assistant": 1.5750000000000002
+    },
+    {
+        "user": "Average Night data of CO on 31/10/2004 is?",
+        "assistant": 2.827272727272727
+    },
+    {
+        "user": "Average Morning data of CO on 01/11/2004 is?",
+        "assistant": 2.2333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 01/11/2004 is?",
+        "assistant": 3.3090909090909095
+    },
+    {
+        "user": "Average Morning data of CO on 02/11/2004 is?",
+        "assistant": 4.666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 02/11/2004 is?",
+        "assistant": 3.963636363636364
+    },
+    {
+        "user": "Average Morning data of CO on 03/11/2004 is?",
+        "assistant": 2.6583333333333337
+    },
+    {
+        "user": "Average Night data of CO on 03/11/2004 is?",
+        "assistant": 2.436363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 04/11/2004 is?",
+        "assistant": 2.15
+    },
+    {
+        "user": "Average Night data of CO on 04/11/2004 is?",
+        "assistant": 2.891666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 05/11/2004 is?",
+        "assistant": 3.941666666666667
+    },
+    {
+        "user": "Average Night data of CO on 05/11/2004 is?",
+        "assistant": 2.2416666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 06/11/2004 is?",
+        "assistant": 2.733333333333333
+    },
+    {
+        "user": "Average Night data of CO on 06/11/2004 is?",
+        "assistant": 1.9250000000000005
+    },
+    {
+        "user": "Average Morning data of CO on 07/11/2004 is?",
+        "assistant": 0.7666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 07/11/2004 is?",
+        "assistant": 1.9545454545454548
+    },
+    {
+        "user": "Average Morning data of CO on 08/11/2004 is?",
+        "assistant": 1.5583333333333333
+    },
+    {
+        "user": "Average Night data of CO on 08/11/2004 is?",
+        "assistant": 1.9625000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 09/11/2004 is?",
+        "assistant": 1.7333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 09/11/2004 is?",
+        "assistant": 3.033333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 10/11/2004 is?",
+        "assistant": 1.6916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 10/11/2004 is?",
+        "assistant": 1.8666666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 11/11/2004 is?",
+        "assistant": 3.4583333333333335
+    },
+    {
+        "user": "Average Night data of CO on 11/11/2004 is?",
+        "assistant": 2.3749999999999996
+    },
+    {
+        "user": "Average Morning data of CO on 12/11/2004 is?",
+        "assistant": 1.7416666666666665
+    },
+    {
+        "user": "Average Night data of CO on 12/11/2004 is?",
+        "assistant": 2.227272727272727
+    },
+    {
+        "user": "Average Morning data of CO on 13/11/2004 is?",
+        "assistant": 2.5083333333333337
+    },
+    {
+        "user": "Average Night data of CO on 13/11/2004 is?",
+        "assistant": 1.3833333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 14/11/2004 is?",
+        "assistant": 0.44999999999999996
+    },
+    {
+        "user": "Average Night data of CO on 14/11/2004 is?",
+        "assistant": 0.775
+    },
+    {
+        "user": "Average Morning data of CO on 15/11/2004 is?",
+        "assistant": 1.675
+    },
+    {
+        "user": "Average Night data of CO on 15/11/2004 is?",
+        "assistant": 1.7090909090909088
+    },
+    {
+        "user": "Average Morning data of CO on 16/11/2004 is?",
+        "assistant": 2.8250000000000006
+    },
+    {
+        "user": "Average Night data of CO on 16/11/2004 is?",
+        "assistant": 1.8250000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 17/11/2004 is?",
+        "assistant": 3.636363636363636
+    },
+    {
+        "user": "Average Night data of CO on 17/11/2004 is?",
+        "assistant": 3.1333333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 18/11/2004 is?",
+        "assistant": 3.808333333333333
+    },
+    {
+        "user": "Average Night data of CO on 18/11/2004 is?",
+        "assistant": 2.9416666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 19/11/2004 is?",
+        "assistant": 4.308333333333334
+    },
+    {
+        "user": "Average Night data of CO on 19/11/2004 is?",
+        "assistant": 3.533333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 20/11/2004 is?",
+        "assistant": 1.9583333333333333
+    },
+    {
+        "user": "Average Night data of CO on 20/11/2004 is?",
+        "assistant": 1.9272727272727268
+    },
+    {
+        "user": "Average Morning data of CO on 21/11/2004 is?",
+        "assistant": 0.9
+    },
+    {
+        "user": "Average Night data of CO on 21/11/2004 is?",
+        "assistant": 1.1333333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 22/11/2004 is?",
+        "assistant": 2.608333333333334
+    },
+    {
+        "user": "Average Night data of CO on 22/11/2004 is?",
+        "assistant": 2.8899999999999997
+    },
+    {
+        "user": "Average Morning data of CO on 23/11/2004 is?",
+        "assistant": 5.083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 23/11/2004 is?",
+        "assistant": 5.036363636363637
+    },
+    {
+        "user": "Average Morning data of CO on 24/11/2004 is?",
+        "assistant": 2.933333333333333
+    },
+    {
+        "user": "Average Night data of CO on 24/11/2004 is?",
+        "assistant": 4.033333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 25/11/2004 is?",
+        "assistant": 3.0250000000000004
+    },
+    {
+        "user": "Average Night data of CO on 25/11/2004 is?",
+        "assistant": 2.841666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 26/11/2004 is?",
+        "assistant": 4.658333333333334
+    },
+    {
+        "user": "Average Night data of CO on 26/11/2004 is?",
+        "assistant": 4.627272727272728
+    },
+    {
+        "user": "Average Morning data of CO on 27/11/2004 is?",
+        "assistant": 3.766666666666666
+    },
+    {
+        "user": "Average Night data of CO on 27/11/2004 is?",
+        "assistant": 3.7249999999999996
+    },
+    {
+        "user": "Average Morning data of CO on 28/11/2004 is?",
+        "assistant": 1.7333333333333334
+    },
+    {
+        "user": "Average Night data of CO on 28/11/2004 is?",
+        "assistant": 2.6999999999999997
+    },
+    {
+        "user": "Average Morning data of CO on 29/11/2004 is?",
+        "assistant": 3.5499999999999994
+    },
+    {
+        "user": "Average Night data of CO on 29/11/2004 is?",
+        "assistant": 1.808333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 30/11/2004 is?",
+        "assistant": 2.533333333333333
+    },
+    {
+        "user": "Average Night data of CO on 30/11/2004 is?",
+        "assistant": 2.7000000000000006
+    },
+    {
+        "user": "Average Morning data of CO on 01/12/2004 is?",
+        "assistant": 4.05
+    },
+    {
+        "user": "Average Night data of CO on 01/12/2004 is?",
+        "assistant": 2.290909090909091
+    },
+    {
+        "user": "Average Morning data of CO on 02/12/2004 is?",
+        "assistant": 3.433333333333333
+    },
+    {
+        "user": "Average Night data of CO on 02/12/2004 is?",
+        "assistant": 4.116666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 03/12/2004 is?",
+        "assistant": 3.766666666666667
+    },
+    {
+        "user": "Average Night data of CO on 03/12/2004 is?",
+        "assistant": 3.3083333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 04/12/2004 is?",
+        "assistant": 2.341666666666667
+    },
+    {
+        "user": "Average Night data of CO on 04/12/2004 is?",
+        "assistant": 2.536363636363636
+    },
+    {
+        "user": "Average Morning data of CO on 05/12/2004 is?",
+        "assistant": 1.2916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 05/12/2004 is?",
+        "assistant": 1.5
+    },
+    {
+        "user": "Average Morning data of CO on 06/12/2004 is?",
+        "assistant": 2.983333333333334
+    },
+    {
+        "user": "Average Night data of CO on 06/12/2004 is?",
+        "assistant": 1.7916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 07/12/2004 is?",
+        "assistant": 2.8083333333333336
+    },
+    {
+        "user": "Average Night data of CO on 07/12/2004 is?",
+        "assistant": 1.918181818181818
+    },
+    {
+        "user": "Average Morning data of CO on 08/12/2004 is?",
+        "assistant": 1.633333333333333
+    },
+    {
+        "user": "Average Night data of CO on 08/12/2004 is?",
+        "assistant": 2.1416666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 09/12/2004 is?",
+        "assistant": 1.4500000000000002
+    },
+    {
+        "user": "Average Night data of CO on 09/12/2004 is?",
+        "assistant": 1.3499999999999999
+    },
+    {
+        "user": "Average Morning data of CO on 10/12/2004 is?",
+        "assistant": 1.6916666666666664
+    },
+    {
+        "user": "Average Night data of CO on 10/12/2004 is?",
+        "assistant": 1.763636363636364
+    },
+    {
+        "user": "Average Morning data of CO on 11/12/2004 is?",
+        "assistant": 2.1
+    },
+    {
+        "user": "Average Night data of CO on 11/12/2004 is?",
+        "assistant": 1.758333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 12/12/2004 is?",
+        "assistant": 2.7999999999999994
+    },
+    {
+        "user": "Average Night data of CO on 12/12/2004 is?",
+        "assistant": 2.8833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 13/12/2004 is?",
+        "assistant": 3.6999999999999997
+    },
+    {
+        "user": "Average Night data of CO on 13/12/2004 is?",
+        "assistant": 3.2727272727272734
+    },
+    {
+        "user": "Average Morning data of CO on 14/12/2004 is?",
+        "assistant": 4.116666666666666
+    },
+    {
+        "user": "Average Night data of CO on 14/12/2004 is?",
+        "assistant": 3.25
+    },
+    {
+        "user": "Average Morning data of CO on 15/12/2004 is?",
+        "assistant": 3.8000000000000003
+    },
+    {
+        "user": "Average Night data of CO on 15/12/2004 is?",
+        "assistant": 2.3750000000000004
+    },
+    {
+        "user": "Average Morning data of CO on 16/12/2004 is?",
+        "assistant": 4.1499999999999995
+    },
+    {
+        "user": "Average Night data of CO on 16/12/2004 is?",
+        "assistant": 4.7272727272727275
+    },
+    {
+        "user": "Average Morning data of CO on 17/12/2004 is?",
+        "assistant": 3.8250000000000006
+    },
+    {
+        "user": "Average Night data of CO on 17/12/2004 is?",
+        "assistant": 3.008333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 18/12/2004 is?",
+        "assistant": 1.491666666666667
+    },
+    {
+        "user": "Average Night data of CO on 18/12/2004 is?",
+        "assistant": 2.0333333333333337
+    },
+    {
+        "user": "Average Morning data of CO on 19/12/2004 is?",
+        "assistant": 2.216666666666667
+    },
+    {
+        "user": "Average Night data of CO on 19/12/2004 is?",
+        "assistant": 3.290909090909091
+    },
+    {
+        "user": "Average Morning data of CO on 20/12/2004 is?",
+        "assistant": 2.3750000000000004
+    },
+    {
+        "user": "Average Night data of CO on 20/12/2004 is?",
+        "assistant": 2.341666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 21/12/2004 is?",
+        "assistant": 2.2083333333333335
+    },
+    {
+        "user": "Average Night data of CO on 21/12/2004 is?",
+        "assistant": 1.8583333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 22/12/2004 is?",
+        "assistant": 2.1083333333333334
+    },
+    {
+        "user": "Average Night data of CO on 22/12/2004 is?",
+        "assistant": 2.3454545454545457
+    },
+    {
+        "user": "Average Morning data of CO on 23/12/2004 is?",
+        "assistant": 3.7249999999999996
+    },
+    {
+        "user": "Average Night data of CO on 23/12/2004 is?",
+        "assistant": 4.4
+    },
+    {
+        "user": "Average Morning data of CO on 24/12/2004 is?",
+        "assistant": 5.983333333333333
+    },
+    {
+        "user": "Average Night data of CO on 24/12/2004 is?",
+        "assistant": 4.658333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 25/12/2004 is?",
+        "assistant": 3.0749999999999997
+    },
+    {
+        "user": "Average Night data of CO on 25/12/2004 is?",
+        "assistant": 4.845454545454546
+    },
+    {
+        "user": "Average Morning data of CO on 26/12/2004 is?",
+        "assistant": 1.0833333333333333
+    },
+    {
+        "user": "Average Night data of CO on 26/12/2004 is?",
+        "assistant": 1.7750000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 27/12/2004 is?",
+        "assistant": 1.6666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 27/12/2004 is?",
+        "assistant": 1.4666666666666668
+    },
+    {
+        "user": "Average Night data of CO on 28/12/2004 is?",
+        "assistant": 1.2
+    },
+    {
+        "user": "Average Morning data of CO on 01/01/2005 is?",
+        "assistant": 1.8416666666666668
+    },
+    {
+        "user": "Average Night data of CO on 01/01/2005 is?",
+        "assistant": 2.454545454545455
+    },
+    {
+        "user": "Average Morning data of CO on 02/01/2005 is?",
+        "assistant": 1.866666666666667
+    },
+    {
+        "user": "Average Night data of CO on 02/01/2005 is?",
+        "assistant": 2.225
+    },
+    {
+        "user": "Average Morning data of CO on 03/01/2005 is?",
+        "assistant": 2.1333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 03/01/2005 is?",
+        "assistant": 2.972727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 04/01/2005 is?",
+        "assistant": 2.8249999999999997
+    },
+    {
+        "user": "Average Night data of CO on 04/01/2005 is?",
+        "assistant": 2.141666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 05/01/2005 is?",
+        "assistant": 3.7999999999999994
+    },
+    {
+        "user": "Average Night data of CO on 05/01/2005 is?",
+        "assistant": 2.233333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 06/01/2005 is?",
+        "assistant": 1.4916666666666665
+    },
+    {
+        "user": "Average Night data of CO on 06/01/2005 is?",
+        "assistant": 1.8636363636363635
+    },
+    {
+        "user": "Average Morning data of CO on 07/01/2005 is?",
+        "assistant": 2.483333333333334
+    },
+    {
+        "user": "Average Night data of CO on 07/01/2005 is?",
+        "assistant": 2.8499999999999996
+    },
+    {
+        "user": "Average Morning data of CO on 08/01/2005 is?",
+        "assistant": 2.9000000000000004
+    },
+    {
+        "user": "Average Night data of CO on 08/01/2005 is?",
+        "assistant": 2.7083333333333326
+    },
+    {
+        "user": "Average Morning data of CO on 09/01/2005 is?",
+        "assistant": 1.5666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 09/01/2005 is?",
+        "assistant": 1.8636363636363635
+    },
+    {
+        "user": "Average Morning data of CO on 10/01/2005 is?",
+        "assistant": -14.633333333333335
+    },
+    {
+        "user": "Average Night data of CO on 10/01/2005 is?",
+        "assistant": -14.799999999999999
+    },
+    {
+        "user": "Average Morning data of CO on 11/01/2005 is?",
+        "assistant": 3.1333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 11/01/2005 is?",
+        "assistant": 2.4916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 12/01/2005 is?",
+        "assistant": 3.2916666666666665
+    },
+    {
+        "user": "Average Night data of CO on 12/01/2005 is?",
+        "assistant": 3.2545454545454544
+    },
+    {
+        "user": "Average Morning data of CO on 13/01/2005 is?",
+        "assistant": 2.8666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 13/01/2005 is?",
+        "assistant": 2.4916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 14/01/2005 is?",
+        "assistant": 3.3750000000000004
+    },
+    {
+        "user": "Average Night data of CO on 14/01/2005 is?",
+        "assistant": 2.9250000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 15/01/2005 is?",
+        "assistant": 2.6
+    },
+    {
+        "user": "Average Night data of CO on 15/01/2005 is?",
+        "assistant": 2.772727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 16/01/2005 is?",
+        "assistant": 1.0999999999999999
+    },
+    {
+        "user": "Average Night data of CO on 16/01/2005 is?",
+        "assistant": 1.958333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 17/01/2005 is?",
+        "assistant": 2.9250000000000003
+    },
+    {
+        "user": "Average Night data of CO on 17/01/2005 is?",
+        "assistant": 2.7583333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 18/01/2005 is?",
+        "assistant": 4.083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 18/01/2005 is?",
+        "assistant": 1.9909090909090912
+    },
+    {
+        "user": "Average Morning data of CO on 19/01/2005 is?",
+        "assistant": -49.65
+    },
+    {
+        "user": "Average Night data of CO on 19/01/2005 is?",
+        "assistant": -48.875
+    },
+    {
+        "user": "Average Morning data of CO on 20/01/2005 is?",
+        "assistant": 2.9000000000000004
+    },
+    {
+        "user": "Average Night data of CO on 20/01/2005 is?",
+        "assistant": 2.1666666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 21/01/2005 is?",
+        "assistant": 3.5666666666666664
+    },
+    {
+        "user": "Average Night data of CO on 21/01/2005 is?",
+        "assistant": 2.5272727272727273
+    },
+    {
+        "user": "Average Morning data of CO on 22/01/2005 is?",
+        "assistant": -32.53333333333333
+    },
+    {
+        "user": "Average Night data of CO on 22/01/2005 is?",
+        "assistant": 1.275
+    },
+    {
+        "user": "Average Morning data of CO on 23/01/2005 is?",
+        "assistant": -200.0
+    },
+    {
+        "user": "Average Night data of CO on 23/01/2005 is?",
+        "assistant": -183.26666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 24/01/2005 is?",
+        "assistant": 1.0166666666666666
+    },
+    {
+        "user": "Average Night data of CO on 24/01/2005 is?",
+        "assistant": -99.59166666666665
+    },
+    {
+        "user": "Average Morning data of CO on 25/01/2005 is?",
+        "assistant": -33.01666666666667
+    },
+    {
+        "user": "Average Night data of CO on 25/01/2005 is?",
+        "assistant": -116.40000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 26/01/2005 is?",
+        "assistant": -33.08333333333332
+    },
+    {
+        "user": "Average Night data of CO on 26/01/2005 is?",
+        "assistant": -99.54166666666664
+    },
+    {
+        "user": "Average Morning data of CO on 27/01/2005 is?",
+        "assistant": 1.4000000000000001
+    },
+    {
+        "user": "Average Night data of CO on 27/01/2005 is?",
+        "assistant": -32.21666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 28/01/2005 is?",
+        "assistant": 1.5416666666666663
+    },
+    {
+        "user": "Average Night data of CO on 28/01/2005 is?",
+        "assistant": 1.366666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 29/01/2005 is?",
+        "assistant": 0.9916666666666666
+    },
+    {
+        "user": "Average Night data of CO on 29/01/2005 is?",
+        "assistant": 1.0
+    },
+    {
+        "user": "Average Morning data of CO on 30/01/2005 is?",
+        "assistant": 0.7833333333333333
+    },
+    {
+        "user": "Average Night data of CO on 30/01/2005 is?",
+        "assistant": -15.575000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 31/01/2005 is?",
+        "assistant": -14.358333333333334
+    },
+    {
+        "user": "Average Night data of CO on 31/01/2005 is?",
+        "assistant": 2.6833333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 01/02/2005 is?",
+        "assistant": 3.525
+    },
+    {
+        "user": "Average Night data of CO on 01/02/2005 is?",
+        "assistant": 2.2083333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 02/02/2005 is?",
+        "assistant": 3.4
+    },
+    {
+        "user": "Average Night data of CO on 02/02/2005 is?",
+        "assistant": 3.3000000000000003
+    },
+    {
+        "user": "Average Morning data of CO on 03/02/2005 is?",
+        "assistant": 2.6750000000000003
+    },
+    {
+        "user": "Average Night data of CO on 03/02/2005 is?",
+        "assistant": -14.141666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 04/02/2005 is?",
+        "assistant": 2.141666666666666
+    },
+    {
+        "user": "Average Night data of CO on 04/02/2005 is?",
+        "assistant": 1.5583333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 05/02/2005 is?",
+        "assistant": 1.4583333333333333
+    },
+    {
+        "user": "Average Night data of CO on 05/02/2005 is?",
+        "assistant": 1.4083333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 06/02/2005 is?",
+        "assistant": 1.1
+    },
+    {
+        "user": "Average Night data of CO on 06/02/2005 is?",
+        "assistant": -15.475
+    },
+    {
+        "user": "Average Morning data of CO on 07/02/2005 is?",
+        "assistant": 1.5916666666666666
+    },
+    {
+        "user": "Average Night data of CO on 07/02/2005 is?",
+        "assistant": 1.2
+    },
+    {
+        "user": "Average Morning data of CO on 08/02/2005 is?",
+        "assistant": 1.7333333333333336
+    },
+    {
+        "user": "Average Night data of CO on 08/02/2005 is?",
+        "assistant": 1.1416666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 09/02/2005 is?",
+        "assistant": 2.0083333333333333
+    },
+    {
+        "user": "Average Night data of CO on 09/02/2005 is?",
+        "assistant": -14.858333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 10/02/2005 is?",
+        "assistant": 2.758333333333333
+    },
+    {
+        "user": "Average Night data of CO on 10/02/2005 is?",
+        "assistant": 3.1833333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 11/02/2005 is?",
+        "assistant": 4.883333333333334
+    },
+    {
+        "user": "Average Night data of CO on 11/02/2005 is?",
+        "assistant": 3.4416666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 12/02/2005 is?",
+        "assistant": 2.891666666666667
+    },
+    {
+        "user": "Average Night data of CO on 12/02/2005 is?",
+        "assistant": -12.833333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 13/02/2005 is?",
+        "assistant": 2.1083333333333334
+    },
+    {
+        "user": "Average Night data of CO on 13/02/2005 is?",
+        "assistant": 2.5583333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 14/02/2005 is?",
+        "assistant": 1.5416666666666663
+    },
+    {
+        "user": "Average Night data of CO on 14/02/2005 is?",
+        "assistant": 1.8333333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 15/02/2005 is?",
+        "assistant": 1.2416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 15/02/2005 is?",
+        "assistant": -15.116666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 16/02/2005 is?",
+        "assistant": 1.8
+    },
+    {
+        "user": "Average Night data of CO on 16/02/2005 is?",
+        "assistant": 2.6083333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 17/02/2005 is?",
+        "assistant": 1.5333333333333332
+    },
+    {
+        "user": "Average Night data of CO on 17/02/2005 is?",
+        "assistant": 2.0000000000000004
+    },
+    {
+        "user": "Average Morning data of CO on 18/02/2005 is?",
+        "assistant": 1.6166666666666665
+    },
+    {
+        "user": "Average Night data of CO on 18/02/2005 is?",
+        "assistant": -14.691666666666661
+    },
+    {
+        "user": "Average Morning data of CO on 19/02/2005 is?",
+        "assistant": 1.575
+    },
+    {
+        "user": "Average Night data of CO on 19/02/2005 is?",
+        "assistant": 1.991666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 20/02/2005 is?",
+        "assistant": 0.9249999999999999
+    },
+    {
+        "user": "Average Night data of CO on 20/02/2005 is?",
+        "assistant": 1.4500000000000002
+    },
+    {
+        "user": "Average Morning data of CO on 21/02/2005 is?",
+        "assistant": 1.9333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 21/02/2005 is?",
+        "assistant": -14.741666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 22/02/2005 is?",
+        "assistant": 2.5583333333333336
+    },
+    {
+        "user": "Average Night data of CO on 22/02/2005 is?",
+        "assistant": 1.433333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 23/02/2005 is?",
+        "assistant": 1.6916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 23/02/2005 is?",
+        "assistant": 1.7333333333333334
+    },
+    {
+        "user": "Average Morning data of CO on 24/02/2005 is?",
+        "assistant": 2.2416666666666667
+    },
+    {
+        "user": "Average Night data of CO on 24/02/2005 is?",
+        "assistant": -14.608333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 25/02/2005 is?",
+        "assistant": 2.6166666666666667
+    },
+    {
+        "user": "Average Night data of CO on 25/02/2005 is?",
+        "assistant": 2.2416666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 26/02/2005 is?",
+        "assistant": 1.9333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 26/02/2005 is?",
+        "assistant": 2.75
+    },
+    {
+        "user": "Average Morning data of CO on 27/02/2005 is?",
+        "assistant": 1.25
+    },
+    {
+        "user": "Average Night data of CO on 27/02/2005 is?",
+        "assistant": -14.541666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 28/02/2005 is?",
+        "assistant": 0.8583333333333334
+    },
+    {
+        "user": "Average Night data of CO on 28/02/2005 is?",
+        "assistant": 1.1916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 01/03/2005 is?",
+        "assistant": 0.9750000000000001
+    },
+    {
+        "user": "Average Night data of CO on 01/03/2005 is?",
+        "assistant": 1.0666666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 02/03/2005 is?",
+        "assistant": 1.7
+    },
+    {
+        "user": "Average Night data of CO on 02/03/2005 is?",
+        "assistant": -14.766666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 03/03/2005 is?",
+        "assistant": 1.9666666666666666
+    },
+    {
+        "user": "Average Night data of CO on 03/03/2005 is?",
+        "assistant": 2.3666666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 04/03/2005 is?",
+        "assistant": 3.633333333333333
+    },
+    {
+        "user": "Average Night data of CO on 04/03/2005 is?",
+        "assistant": 2.2083333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 05/03/2005 is?",
+        "assistant": 1.5250000000000001
+    },
+    {
+        "user": "Average Night data of CO on 05/03/2005 is?",
+        "assistant": -14.758333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 06/03/2005 is?",
+        "assistant": 1.1333333333333333
+    },
+    {
+        "user": "Average Night data of CO on 06/03/2005 is?",
+        "assistant": 1.5333333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 07/03/2005 is?",
+        "assistant": 1.3166666666666667
+    },
+    {
+        "user": "Average Night data of CO on 07/03/2005 is?",
+        "assistant": 1.7916666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 08/03/2005 is?",
+        "assistant": 2.5333333333333337
+    },
+    {
+        "user": "Average Night data of CO on 08/03/2005 is?",
+        "assistant": -14.433333333333335
+    },
+    {
+        "user": "Average Morning data of CO on 09/03/2005 is?",
+        "assistant": 2.6999999999999997
+    },
+    {
+        "user": "Average Night data of CO on 09/03/2005 is?",
+        "assistant": 2.541666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 10/03/2005 is?",
+        "assistant": 2.4166666666666665
+    },
+    {
+        "user": "Average Night data of CO on 10/03/2005 is?",
+        "assistant": 2.2833333333333337
+    },
+    {
+        "user": "Average Morning data of CO on 11/03/2005 is?",
+        "assistant": 1.7166666666666668
+    },
+    {
+        "user": "Average Night data of CO on 11/03/2005 is?",
+        "assistant": -15.158333333333331
+    },
+    {
+        "user": "Average Morning data of CO on 12/03/2005 is?",
+        "assistant": -32.975
+    },
+    {
+        "user": "Average Night data of CO on 12/03/2005 is?",
+        "assistant": -32.458333333333336
+    },
+    {
+        "user": "Average Morning data of CO on 13/03/2005 is?",
+        "assistant": -49.53333333333334
+    },
+    {
+        "user": "Average Night data of CO on 13/03/2005 is?",
+        "assistant": -49.16666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 14/03/2005 is?",
+        "assistant": 2.275
+    },
+    {
+        "user": "Average Night data of CO on 14/03/2005 is?",
+        "assistant": -14.325000000000001
+    },
+    {
+        "user": "Average Morning data of CO on 15/03/2005 is?",
+        "assistant": 2.358333333333333
+    },
+    {
+        "user": "Average Night data of CO on 15/03/2005 is?",
+        "assistant": 2.625
+    },
+    {
+        "user": "Average Morning data of CO on 16/03/2005 is?",
+        "assistant": 2.733333333333333
+    },
+    {
+        "user": "Average Night data of CO on 16/03/2005 is?",
+        "assistant": 2.3249999999999997
+    },
+    {
+        "user": "Average Morning data of CO on 17/03/2005 is?",
+        "assistant": 2.608333333333333
+    },
+    {
+        "user": "Average Night data of CO on 17/03/2005 is?",
+        "assistant": -14.491666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 18/03/2005 is?",
+        "assistant": 2.841666666666667
+    },
+    {
+        "user": "Average Night data of CO on 18/03/2005 is?",
+        "assistant": 2.5083333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 19/03/2005 is?",
+        "assistant": 1.883333333333333
+    },
+    {
+        "user": "Average Night data of CO on 19/03/2005 is?",
+        "assistant": 1.9416666666666667
+    },
+    {
+        "user": "Average Morning data of CO on 20/03/2005 is?",
+        "assistant": 1.1666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 20/03/2005 is?",
+        "assistant": -14.733333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 21/03/2005 is?",
+        "assistant": 2.5666666666666673
+    },
+    {
+        "user": "Average Night data of CO on 21/03/2005 is?",
+        "assistant": 2.5250000000000004
+    },
+    {
+        "user": "Average Morning data of CO on 22/03/2005 is?",
+        "assistant": 2.433333333333333
+    },
+    {
+        "user": "Average Night data of CO on 22/03/2005 is?",
+        "assistant": 2.433333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 23/03/2005 is?",
+        "assistant": 2.6749999999999994
+    },
+    {
+        "user": "Average Night data of CO on 23/03/2005 is?",
+        "assistant": -13.691666666666665
+    },
+    {
+        "user": "Average Morning data of CO on 24/03/2005 is?",
+        "assistant": 2.525
+    },
+    {
+        "user": "Average Night data of CO on 24/03/2005 is?",
+        "assistant": 2.8250000000000006
+    },
+    {
+        "user": "Average Morning data of CO on 25/03/2005 is?",
+        "assistant": 2.316666666666667
+    },
+    {
+        "user": "Average Night data of CO on 25/03/2005 is?",
+        "assistant": 2.6916666666666664
+    },
+    {
+        "user": "Average Morning data of CO on 26/03/2005 is?",
+        "assistant": 1.616666666666667
+    },
+    {
+        "user": "Average Night data of CO on 26/03/2005 is?",
+        "assistant": -14.933333333333332
+    },
+    {
+        "user": "Average Morning data of CO on 27/03/2005 is?",
+        "assistant": 1.2000000000000002
+    },
+    {
+        "user": "Average Night data of CO on 27/03/2005 is?",
+        "assistant": 1.4749999999999999
+    },
+    {
+        "user": "Average Morning data of CO on 28/03/2005 is?",
+        "assistant": 1.2750000000000001
+    },
+    {
+        "user": "Average Night data of CO on 28/03/2005 is?",
+        "assistant": 1.7249999999999999
+    },
+    {
+        "user": "Average Morning data of CO on 29/03/2005 is?",
+        "assistant": 2.916666666666666
+    },
+    {
+        "user": "Average Night data of CO on 29/03/2005 is?",
+        "assistant": -15.1
+    },
+    {
+        "user": "Average Morning data of CO on 30/03/2005 is?",
+        "assistant": 2.15
+    },
+    {
+        "user": "Average Night data of CO on 30/03/2005 is?",
+        "assistant": 1.6833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 31/03/2005 is?",
+        "assistant": 1.6916666666666667
+    },
+    {
+        "user": "Average Night data of CO on 31/03/2005 is?",
+        "assistant": 1.0833333333333333
+    },
+    {
+        "user": "Average Morning data of CO on 01/04/2005 is?",
+        "assistant": 1.225
+    },
+    {
+        "user": "Average Night data of CO on 01/04/2005 is?",
+        "assistant": -15.766666666666666
+    },
+    {
+        "user": "Average Morning data of CO on 02/04/2005 is?",
+        "assistant": 0.8666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 02/04/2005 is?",
+        "assistant": 0.8416666666666668
+    },
+    {
+        "user": "Average Morning data of CO on 03/04/2005 is?",
+        "assistant": 1.0666666666666667
+    },
+    {
+        "user": "Average Night data of CO on 03/04/2005 is?",
+        "assistant": 1.2166666666666666
+    }
+]
