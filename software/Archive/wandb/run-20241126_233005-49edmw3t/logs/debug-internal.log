@@ -1,0 +1,16 @@
+{"time":"2024-11-26T23:30:05.425491535-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:30:05.425512707-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_233005-49edmw3t/logs/debug-core.log"}
+{"time":"2024-11-26T23:30:05.636708622-08:00","level":"INFO","msg":"created new stream","id":"49edmw3t"}
+{"time":"2024-11-26T23:30:05.636758307-08:00","level":"INFO","msg":"stream: started","id":"49edmw3t"}
+{"time":"2024-11-26T23:30:05.636784657-08:00","level":"INFO","msg":"handler: started","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:05.63678712-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:05.636792698-08:00","level":"INFO","msg":"sender: started","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:05.898560919-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:30:25.076334651-08:00","level":"INFO","msg":"stream: closing","id":"49edmw3t"}
+{"time":"2024-11-26T23:30:25.076365458-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:30:25.077073141-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:30:25.525013631-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:30:25.659982298-08:00","level":"INFO","msg":"handler: closed","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:25.660041597-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:25.660054166-08:00","level":"INFO","msg":"sender: closed","stream_id":"49edmw3t"}
+{"time":"2024-11-26T23:30:25.660188628-08:00","level":"INFO","msg":"stream: closed","id":"49edmw3t"}

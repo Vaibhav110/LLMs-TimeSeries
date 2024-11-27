@@ -1,0 +1,16 @@
+{"time":"2024-11-26T23:31:14.780741359-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:31:14.780754259-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_233114-n7z65mco/logs/debug-core.log"}
+{"time":"2024-11-26T23:31:15.08864574-08:00","level":"INFO","msg":"created new stream","id":"n7z65mco"}
+{"time":"2024-11-26T23:31:15.088686191-08:00","level":"INFO","msg":"stream: started","id":"n7z65mco"}
+{"time":"2024-11-26T23:31:15.088730588-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:15.08873887-08:00","level":"INFO","msg":"sender: started","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:15.088868104-08:00","level":"INFO","msg":"handler: started","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:15.372903079-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:31:24.958006047-08:00","level":"INFO","msg":"stream: closing","id":"n7z65mco"}
+{"time":"2024-11-26T23:31:24.958039087-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:31:24.958625678-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:31:25.407934511-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:31:25.564336385-08:00","level":"INFO","msg":"handler: closed","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:25.564396495-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:25.564413912-08:00","level":"INFO","msg":"sender: closed","stream_id":"n7z65mco"}
+{"time":"2024-11-26T23:31:25.564478418-08:00","level":"INFO","msg":"stream: closed","id":"n7z65mco"}

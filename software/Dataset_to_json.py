@@ -73,13 +73,13 @@ def csv_to_json(csv_file_path, json_file_path):
                     print(four_dates_ndata)
                     data_item = {
                         "user": f"Average day data of CO on {four_dates[0]} is {four_dates_mdata[0]}, on {four_dates[1]} is {four_dates_mdata[1]}, on {four_dates[2]} is {four_dates_mdata[2]}, on {four_dates[3]} is {four_dates_mdata[3]}. What is average day data the next day? Just tell the answer",
-                        "assistant": four_dates_mdata[4]
+                        "assistant": f"{four_dates_mdata[4]}"
                     }
                     data_list.append(data_item)
 
                     data_item = {
                         "user": f"Average night data of CO on {four_dates[0]} is {four_dates_ndata[0]}, on {four_dates[1]} is {four_dates_ndata[1]}, on {four_dates[2]} is {four_dates_ndata[2]}, on {four_dates[3]} is {four_dates_ndata[3]}. What is average night data the next night? Just tell the answer",
-                        "assistant": four_dates_ndata[4]
+                        "assistant": f"{four_dates_ndata[4]}"
                     }
                     data_list.append(data_item)
 
@@ -106,9 +106,7 @@ def csv_to_json(csv_file_path, json_file_path):
         json.dump(data_list, json_file, indent=4)
 
 # Replace these paths with the appropriate file paths
-csv_file_path = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Dataset\AirQualityUCI_mod.csv"
-#csv_file_path = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\input.csv"
-json_file_path = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Output.json"
-
+csv_file_path = r"/home/vaibhav/LLMs-TimeSeries/data/AirQualityUCI.csv"
+json_file_path = r"/home/vaibhav/LLMs-TimeSeries/software/Output.json"
 # Call the function
 csv_to_json(csv_file_path, json_file_path)

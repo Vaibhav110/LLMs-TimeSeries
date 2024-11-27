@@ -1,0 +1,17 @@
+{"time":"2024-11-26T23:38:22.124583899-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:38:22.124603128-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_233822-agfvw00s/logs/debug-core.log"}
+{"time":"2024-11-26T23:38:22.334588704-08:00","level":"INFO","msg":"created new stream","id":"agfvw00s"}
+{"time":"2024-11-26T23:38:22.335115787-08:00","level":"INFO","msg":"stream: started","id":"agfvw00s"}
+{"time":"2024-11-26T23:38:22.335127204-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:22.335169908-08:00","level":"INFO","msg":"handler: started","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:22.335237029-08:00","level":"INFO","msg":"sender: started","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:22.387623606-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-11-26T23:38:24.665437578-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:38:42.866493893-08:00","level":"INFO","msg":"stream: closing","id":"agfvw00s"}
+{"time":"2024-11-26T23:38:42.866529387-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:38:42.867419705-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:38:43.32540623-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:38:43.659497068-08:00","level":"INFO","msg":"handler: closed","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:43.659560784-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:43.659602898-08:00","level":"INFO","msg":"sender: closed","stream_id":"agfvw00s"}
+{"time":"2024-11-26T23:38:43.659689868-08:00","level":"INFO","msg":"stream: closed","id":"agfvw00s"}

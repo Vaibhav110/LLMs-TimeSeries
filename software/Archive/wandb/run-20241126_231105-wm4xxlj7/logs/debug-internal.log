@@ -1,0 +1,16 @@
+{"time":"2024-11-26T23:11:05.507146966-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:11:05.507157302-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_231105-wm4xxlj7/logs/debug-core.log"}
+{"time":"2024-11-26T23:11:05.71701775-08:00","level":"INFO","msg":"created new stream","id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:05.717072512-08:00","level":"INFO","msg":"stream: started","id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:05.717101887-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:05.71711064-08:00","level":"INFO","msg":"sender: started","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:05.71711718-08:00","level":"INFO","msg":"handler: started","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:06.035679496-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:11:22.990368498-08:00","level":"INFO","msg":"stream: closing","id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:22.990399434-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:11:22.991129733-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:11:23.453526321-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:11:23.76481337-08:00","level":"INFO","msg":"handler: closed","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:23.764884037-08:00","level":"INFO","msg":"sender: closed","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:23.764884828-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wm4xxlj7"}
+{"time":"2024-11-26T23:11:23.765027452-08:00","level":"INFO","msg":"stream: closed","id":"wm4xxlj7"}

@@ -1,0 +1,37 @@
+  0%|                                                                                                                  | 18/25000 [00:09<2:54:14,  2.39it/s]Traceback (most recent call last):
+{'loss': 0.8678, 'grad_norm': 0.31810906529426575, 'learning_rate': 4e-05, 'epoch': 0.0}
+{'loss': 0.9631, 'grad_norm': 0.3789291977882385, 'learning_rate': 8e-05, 'epoch': 0.0}
+{'loss': 1.1664, 'grad_norm': 0.40578988194465637, 'learning_rate': 0.00012, 'epoch': 0.0}
+{'loss': 1.0495, 'grad_norm': 0.3493584096431732, 'learning_rate': 0.00016, 'epoch': 0.0}
+{'loss': 0.8414, 'grad_norm': 0.32694172859191895, 'learning_rate': 0.0002, 'epoch': 0.0}
+{'loss': 1.063, 'grad_norm': 0.35284677147865295, 'learning_rate': 0.00019999199839967994, 'epoch': 0.0}
+{'loss': 0.7533, 'grad_norm': 0.28569960594177246, 'learning_rate': 0.0001999839967993599, 'epoch': 0.0}
+{'loss': 1.1159, 'grad_norm': 0.33566489815711975, 'learning_rate': 0.00019997599519903982, 'epoch': 0.0}
+{'loss': 1.008, 'grad_norm': 0.2654406428337097, 'learning_rate': 0.00019996799359871977, 'epoch': 0.0}
+{'loss': 0.882, 'grad_norm': 0.26892924308776855, 'learning_rate': 0.0001999599919983997, 'epoch': 0.0}
+{'loss': 1.0005, 'grad_norm': 0.22812499105930328, 'learning_rate': 0.00019995199039807963, 'epoch': 0.0}
+{'loss': 1.2547, 'grad_norm': 0.2768794000148773, 'learning_rate': 0.00019994398879775955, 'epoch': 0.0}
+{'loss': 1.0641, 'grad_norm': 0.32395195960998535, 'learning_rate': 0.00019993598719743948, 'epoch': 0.0}
+{'loss': 0.7492, 'grad_norm': 0.26362770795822144, 'learning_rate': 0.00019992798559711943, 'epoch': 0.0}
+{'loss': 1.0037, 'grad_norm': 0.24454134702682495, 'learning_rate': 0.00019991998399679936, 'epoch': 0.0}
+{'loss': 0.7386, 'grad_norm': 0.2868979871273041, 'learning_rate': 0.00019991198239647931, 'epoch': 0.0}
+{'loss': 1.146, 'grad_norm': 0.30192825198173523, 'learning_rate': 0.00019990398079615924, 'epoch': 0.0}
+{'loss': 0.9771, 'grad_norm': 0.3592129945755005, 'learning_rate': 0.00019989597919583917, 'epoch': 0.0}
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 113, in <module>
+    main(args)
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 75, in main
+    trainer_stats = trainer.train()
+                    ^^^^^^^^^^^^^^^
+  File "<string>", line 157, in train
+  File "<string>", line 380, in _fast_inner_training_loop
+  File "<string>", line 64, in _unsloth_training_step
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/accelerate/accelerator.py", line 2241, in backward
+    loss.backward(**kwargs)
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/autograd/__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

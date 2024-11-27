@@ -38,7 +38,7 @@ def main(args):
             output_dir = "outputs",
             report_to = "wandb", # Use this for WandB etc
             # add evaluation arguments
-            fp16_full_eval = True,
+            fp16_full_eval = False,
             per_device_eval_batch_size = 2,
             eval_accumulation_steps = 4,
             eval_strategy = "epoch",
@@ -80,12 +80,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     # default it to use gpt-4o
     parser.add_argument(
-        "--model", type=str, default='unsloth/Llama-3.2-3B-Instruct', 
-        help="default use Llama-3.2-3B-Instruct"
+        "--model", type=str, default='unsloth/Llama-3.2-1B-Instruct', 
+        help="default use Llama-3.2-1B-Instruct"
     )
     parser.add_argument(
-        "--dataset_dir", type=str, default="./crawler/scipy_data.json", 
-        help="Your finetuning json file"
+        "--dataset_dir", type=str, default="/home/vaibhav/LLMs-TimeSeries/software/Output.json", 
+        help="Your finetuning json file" 
     )
     parser.add_argument(
         "--bs", type=int, default=2, 

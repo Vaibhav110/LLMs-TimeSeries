@@ -1,0 +1,16 @@
+{"time":"2024-11-26T22:37:04.370356442-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T22:37:04.370375871-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_223704-g7bidvea/logs/debug-core.log"}
+{"time":"2024-11-26T22:37:04.580119502-08:00","level":"INFO","msg":"created new stream","id":"g7bidvea"}
+{"time":"2024-11-26T22:37:04.580170348-08:00","level":"INFO","msg":"stream: started","id":"g7bidvea"}
+{"time":"2024-11-26T22:37:04.580513384-08:00","level":"INFO","msg":"handler: started","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:04.580236288-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:04.581332415-08:00","level":"INFO","msg":"sender: started","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:04.852579521-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T22:37:26.44963413-08:00","level":"INFO","msg":"stream: closing","id":"g7bidvea"}
+{"time":"2024-11-26T22:37:26.449668642-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T22:37:26.450343737-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T22:37:28.008132935-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T22:37:28.450739267-08:00","level":"INFO","msg":"handler: closed","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:28.450800519-08:00","level":"INFO","msg":"sender: closed","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:28.450788852-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g7bidvea"}
+{"time":"2024-11-26T22:37:28.450898096-08:00","level":"INFO","msg":"stream: closed","id":"g7bidvea"}

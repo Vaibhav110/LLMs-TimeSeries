@@ -1,618 +1,626 @@
 [
     {
-        "user": "Average day data of CO on 11/03/2004 is 1.91, on 12/03/2004 is 2.53, on 13/03/2004 is 2.63, on 14/03/2004 is 2.02. What is average day data the next day? Just tell the answer",
-        "assistant": 3.64
+        "user": "Average day data of CO on 10/03/2004 is NA, on 11/03/2004 is 1.91, on 12/03/2004 is 2.53, on 13/03/2004 is 2.63. What is average day data the next day? Just tell the answer",
+        "assistant": "2.02"
     },
     {
-        "user": "Average night data of CO on 11/03/2004 is 2.6, on 12/03/2004 is 3.08, on 13/03/2004 is 2.76, on 14/03/2004 is 2.95. What is average night data the next night? Just tell the answer",
-        "assistant": 3.35
+        "user": "Average night data of CO on 10/03/2004 is 1.97, on 11/03/2004 is 2.6, on 12/03/2004 is 3.08, on 13/03/2004 is 2.76. What is average night data the next night? Just tell the answer",
+        "assistant": "2.95"
     },
     {
-        "user": "Average day data of CO on 16/03/2004 is 3.2, on 17/03/2004 is 2.94, on 18/03/2004 is 2.93, on 19/03/2004 is 3.48. What is average day data the next day? Just tell the answer",
-        "assistant": 2.04
+        "user": "Average day data of CO on 15/03/2004 is 3.64, on 16/03/2004 is 3.2, on 17/03/2004 is 2.94, on 18/03/2004 is 2.93. What is average day data the next day? Just tell the answer",
+        "assistant": "3.48"
     },
     {
-        "user": "Average night data of CO on 16/03/2004 is 2.3, on 17/03/2004 is 3.22, on 18/03/2004 is 2.45, on 19/03/2004 is 2.41. What is average night data the next night? Just tell the answer",
-        "assistant": 2.19
+        "user": "Average night data of CO on 15/03/2004 is 3.35, on 16/03/2004 is 2.3, on 17/03/2004 is 3.22, on 18/03/2004 is 2.45. What is average night data the next night? Just tell the answer",
+        "assistant": "2.41"
     },
     {
-        "user": "Average day data of CO on 21/03/2004 is 1.53, on 22/03/2004 is 2.13, on 23/03/2004 is 2.56, on 24/03/2004 is 2.32. What is average day data the next day? Just tell the answer",
-        "assistant": 1.92
+        "user": "Average day data of CO on 20/03/2004 is 2.04, on 21/03/2004 is 1.53, on 22/03/2004 is 2.13, on 23/03/2004 is 2.56. What is average day data the next day? Just tell the answer",
+        "assistant": "2.32"
     },
     {
-        "user": "Average night data of CO on 21/03/2004 is 2.49, on 22/03/2004 is 2.15, on 23/03/2004 is 1.4, on 24/03/2004 is 1.88. What is average night data the next night? Just tell the answer",
-        "assistant": 1.88
+        "user": "Average night data of CO on 20/03/2004 is 2.19, on 21/03/2004 is 2.49, on 22/03/2004 is 2.15, on 23/03/2004 is 1.4. What is average night data the next night? Just tell the answer",
+        "assistant": "1.88"
     },
     {
-        "user": "Average day data of CO on 26/03/2004 is 2.27, on 27/03/2004 is 1.87, on 28/03/2004 is 1.54, on 29/03/2004 is 1.81. What is average day data the next day? Just tell the answer",
-        "assistant": 2.95
+        "user": "Average day data of CO on 25/03/2004 is 1.92, on 26/03/2004 is 2.27, on 27/03/2004 is 1.87, on 28/03/2004 is 1.54. What is average day data the next day? Just tell the answer",
+        "assistant": "1.81"
     },
     {
-        "user": "Average night data of CO on 26/03/2004 is 1.49, on 27/03/2004 is 1.82, on 28/03/2004 is 1.58, on 29/03/2004 is 1.12. What is average night data the next night? Just tell the answer",
-        "assistant": 1.38
+        "user": "Average night data of CO on 25/03/2004 is 1.88, on 26/03/2004 is 1.49, on 27/03/2004 is 1.82, on 28/03/2004 is 1.58. What is average night data the next night? Just tell the answer",
+        "assistant": "1.12"
     },
     {
-        "user": "Average day data of CO on 31/03/2004 is 2.46, on 01/04/2004 is 2.81, on 02/04/2004 is 3.05, on 03/04/2004 is 2.25. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 30/03/2004 is 2.95, on 31/03/2004 is 2.46, on 01/04/2004 is 2.81, on 02/04/2004 is 3.05. What is average day data the next day? Just tell the answer",
+        "assistant": "2.25"
+    },
+    {
+        "user": "Average night data of CO on 30/03/2004 is 1.38, on 31/03/2004 is 1.39, on 01/04/2004 is 2.29, on 02/04/2004 is 2.53. What is average night data the next night? Just tell the answer",
+        "assistant": "1.1"
+    },
+    {
+        "user": "Average day data of CO on 04/04/2004 is NA, on 05/04/2004 is 2.77, on 06/04/2004 is 2.98, on 07/04/2004 is 1.86. What is average day data the next day? Just tell the answer",
+        "assistant": "2.79"
+    },
+    {
+        "user": "Average night data of CO on 04/04/2004 is NA, on 05/04/2004 is 2.73, on 06/04/2004 is 1.48, on 07/04/2004 is 1.42. What is average night data the next night? Just tell the answer",
+        "assistant": "2.35"
+    },
+    {
+        "user": "Average day data of CO on 09/04/2004 is 2.9, on 10/04/2004 is 1.69, on 11/04/2004 is 1.22, on 12/04/2004 is 0.9. What is average day data the next day? Just tell the answer",
+        "assistant": "2.3"
+    },
+    {
+        "user": "Average night data of CO on 09/04/2004 is 2.01, on 10/04/2004 is 1.82, on 11/04/2004 is 1.19, on 12/04/2004 is 0.83. What is average night data the next night? Just tell the answer",
+        "assistant": "1.81"
+    },
+    {
+        "user": "Average day data of CO on 14/04/2004 is 3.1, on 15/04/2004 is 3.8, on 16/04/2004 is 3.65, on 17/04/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 31/03/2004 is 1.39, on 01/04/2004 is 2.29, on 02/04/2004 is 2.53, on 03/04/2004 is 1.1. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 14/04/2004 is 0.8, on 15/04/2004 is 4.77, on 16/04/2004 is 2.96, on 17/04/2004 is 2.23. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 05/04/2004 is 2.77, on 06/04/2004 is 2.98, on 07/04/2004 is 1.86, on 08/04/2004 is 2.79. What is average day data the next day? Just tell the answer",
-        "assistant": 2.9
+        "user": "Average day data of CO on 19/04/2004 is NA, on 20/04/2004 is NA, on 21/04/2004 is NA, on 22/04/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "3.84"
     },
     {
-        "user": "Average night data of CO on 05/04/2004 is 2.73, on 06/04/2004 is 1.48, on 07/04/2004 is 1.42, on 08/04/2004 is 2.35. What is average night data the next night? Just tell the answer",
-        "assistant": 2.01
+        "user": "Average night data of CO on 19/04/2004 is NA, on 20/04/2004 is NA, on 21/04/2004 is NA, on 22/04/2004 is NA. What is average night data the next night? Just tell the answer",
+        "assistant": "3.09"
     },
     {
-        "user": "Average day data of CO on 10/04/2004 is 1.69, on 11/04/2004 is 1.22, on 12/04/2004 is 0.9, on 13/04/2004 is 2.3. What is average day data the next day? Just tell the answer",
-        "assistant": 3.1
+        "user": "Average day data of CO on 24/04/2004 is 2.08, on 25/04/2004 is 0.88, on 26/04/2004 is 1.53, on 27/04/2004 is 2.57. What is average day data the next day? Just tell the answer",
+        "assistant": "3.31"
     },
     {
-        "user": "Average night data of CO on 10/04/2004 is 1.82, on 11/04/2004 is 1.19, on 12/04/2004 is 0.83, on 13/04/2004 is 1.81. What is average night data the next night? Just tell the answer",
-        "assistant": 0.8
+        "user": "Average night data of CO on 24/04/2004 is 2.1, on 25/04/2004 is 1.65, on 26/04/2004 is 1.45, on 27/04/2004 is 1.85. What is average night data the next night? Just tell the answer",
+        "assistant": "2.29"
     },
     {
-        "user": "Average day data of CO on 15/04/2004 is 3.8, on 16/04/2004 is 3.65, on 17/04/2004 is NA, on 18/04/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 29/04/2004 is 3.59, on 30/04/2004 is 3.15, on 01/05/2004 is 1.62, on 02/05/2004 is 1.26. What is average day data the next day? Just tell the answer",
+        "assistant": "2.51"
+    },
+    {
+        "user": "Average night data of CO on 29/04/2004 is 2.63, on 30/04/2004 is 2.77, on 01/05/2004 is 2.54, on 02/05/2004 is 1.99. What is average night data the next night? Just tell the answer",
+        "assistant": "1.8"
+    },
+    {
+        "user": "Average day data of CO on 04/05/2004 is 2.51, on 05/05/2004 is 2.94, on 06/05/2004 is 2.64, on 07/05/2004 is 2.48. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 15/04/2004 is 4.77, on 16/04/2004 is 2.96, on 17/04/2004 is 2.23, on 18/04/2004 is NA. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 04/05/2004 is 2.08, on 05/05/2004 is 1.28, on 06/05/2004 is 1.29, on 07/05/2004 is 1.87. What is average night data the next night? Just tell the answer",
+        "assistant": "1.4"
+    },
+    {
+        "user": "Average day data of CO on 09/05/2004 is NA, on 10/05/2004 is 2.52, on 11/05/2004 is 3.16, on 12/05/2004 is 3.59. What is average day data the next day? Just tell the answer",
+        "assistant": "2.4"
+    },
+    {
+        "user": "Average night data of CO on 09/05/2004 is NA, on 10/05/2004 is 2.58, on 11/05/2004 is 2.4, on 12/05/2004 is 1.58. What is average night data the next night? Just tell the answer",
+        "assistant": "2.41"
+    },
+    {
+        "user": "Average day data of CO on 14/05/2004 is 2.45, on 15/05/2004 is 1.73, on 16/05/2004 is 1.25, on 17/05/2004 is 1.82. What is average day data the next day? Just tell the answer",
+        "assistant": "2.7"
+    },
+    {
+        "user": "Average night data of CO on 14/05/2004 is 2.41, on 15/05/2004 is 1.84, on 16/05/2004 is 1.56, on 17/05/2004 is 1.54. What is average night data the next night? Just tell the answer",
+        "assistant": "1.84"
+    },
+    {
+        "user": "Average day data of CO on 19/05/2004 is 2.82, on 20/05/2004 is 2.65, on 21/05/2004 is 2.54, on 22/05/2004 is 1.86. What is average day data the next day? Just tell the answer",
+        "assistant": "0.97"
+    },
+    {
+        "user": "Average night data of CO on 19/05/2004 is 1.87, on 20/05/2004 is 2.18, on 21/05/2004 is 1.96, on 22/05/2004 is 2.17. What is average night data the next night? Just tell the answer",
+        "assistant": "1.66"
+    },
+    {
+        "user": "Average day data of CO on 24/05/2004 is 1.29, on 25/05/2004 is 2.1, on 26/05/2004 is 1.99, on 27/05/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "1.83"
+    },
+    {
+        "user": "Average night data of CO on 24/05/2004 is 0.94, on 25/05/2004 is 0.27, on 26/05/2004 is NA, on 27/05/2004 is NA. What is average night data the next night? Just tell the answer",
+        "assistant": "1.62"
+    },
+    {
+        "user": "Average day data of CO on 29/05/2004 is 0.57, on 30/05/2004 is 0.28, on 31/05/2004 is 1.76, on 01/06/2004 is 1.98. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 20/04/2004 is NA, on 21/04/2004 is NA, on 22/04/2004 is NA, on 23/04/2004 is 3.84. What is average day data the next day? Just tell the answer",
-        "assistant": 2.08
+        "user": "Average night data of CO on 29/05/2004 is 1.18, on 30/05/2004 is 1.06, on 31/05/2004 is 1.16, on 01/06/2004 is 2.29. What is average night data the next night? Just tell the answer",
+        "assistant": "0.8"
     },
     {
-        "user": "Average night data of CO on 20/04/2004 is NA, on 21/04/2004 is NA, on 22/04/2004 is NA, on 23/04/2004 is 3.09. What is average night data the next night? Just tell the answer",
-        "assistant": 2.1
+        "user": "Average day data of CO on 03/06/2004 is NA, on 04/06/2004 is 3.15, on 05/06/2004 is 1.39, on 06/06/2004 is 0.81. What is average day data the next day? Just tell the answer",
+        "assistant": "2.68"
     },
     {
-        "user": "Average day data of CO on 25/04/2004 is 0.88, on 26/04/2004 is 1.53, on 27/04/2004 is 2.57, on 28/04/2004 is 3.31. What is average day data the next day? Just tell the answer",
-        "assistant": 3.59
+        "user": "Average night data of CO on 03/06/2004 is NA, on 04/06/2004 is 2.77, on 05/06/2004 is 1.51, on 06/06/2004 is 1.19. What is average night data the next night? Just tell the answer",
+        "assistant": "1.73"
     },
     {
-        "user": "Average night data of CO on 25/04/2004 is 1.65, on 26/04/2004 is 1.45, on 27/04/2004 is 1.85, on 28/04/2004 is 2.29. What is average night data the next night? Just tell the answer",
-        "assistant": 2.63
+        "user": "Average day data of CO on 08/06/2004 is 3.12, on 09/06/2004 is 2.93, on 10/06/2004 is 2.9, on 11/06/2004 is 2.61. What is average day data the next day? Just tell the answer",
+        "assistant": "1.41"
     },
     {
-        "user": "Average day data of CO on 30/04/2004 is 3.15, on 01/05/2004 is 1.62, on 02/05/2004 is 1.26, on 03/05/2004 is 2.51. What is average day data the next day? Just tell the answer",
-        "assistant": 2.51
+        "user": "Average night data of CO on 08/06/2004 is 1.8, on 09/06/2004 is 2.0, on 10/06/2004 is 2.4, on 11/06/2004 is 1.8. What is average night data the next night? Just tell the answer",
+        "assistant": "1.23"
     },
     {
-        "user": "Average night data of CO on 30/04/2004 is 2.77, on 01/05/2004 is 2.54, on 02/05/2004 is 1.99, on 03/05/2004 is 1.8. What is average night data the next night? Just tell the answer",
-        "assistant": 2.08
+        "user": "Average day data of CO on 13/06/2004 is 0.58, on 14/06/2004 is 1.44, on 15/06/2004 is 2.68, on 16/06/2004 is 2.46. What is average day data the next day? Just tell the answer",
+        "assistant": "2.39"
     },
     {
-        "user": "Average day data of CO on 05/05/2004 is 2.94, on 06/05/2004 is 2.64, on 07/05/2004 is 2.48, on 08/05/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average night data of CO on 13/06/2004 is 0.88, on 14/06/2004 is 0.96, on 15/06/2004 is 1.63, on 16/06/2004 is 1.86. What is average night data the next night? Just tell the answer",
+        "assistant": "2.08"
+    },
+    {
+        "user": "Average day data of CO on 18/06/2004 is 2.5, on 19/06/2004 is 1.28, on 20/06/2004 is 0.98, on 21/06/2004 is 1.9. What is average day data the next day? Just tell the answer",
+        "assistant": "2.69"
+    },
+    {
+        "user": "Average night data of CO on 18/06/2004 is 1.59, on 19/06/2004 is 1.23, on 20/06/2004 is 1.97, on 21/06/2004 is 1.72. What is average night data the next night? Just tell the answer",
+        "assistant": "1.71"
+    },
+    {
+        "user": "Average day data of CO on 23/06/2004 is 2.64, on 24/06/2004 is 1.3, on 25/06/2004 is 2.12, on 26/06/2004 is 1.54. What is average day data the next day? Just tell the answer",
+        "assistant": "1.12"
+    },
+    {
+        "user": "Average night data of CO on 23/06/2004 is 2.25, on 24/06/2004 is 2.18, on 25/06/2004 is 2.05, on 26/06/2004 is 1.42. What is average night data the next night? Just tell the answer",
+        "assistant": "1.54"
+    },
+    {
+        "user": "Average day data of CO on 28/06/2004 is 2.63, on 29/06/2004 is 2.84, on 30/06/2004 is 2.5, on 01/07/2004 is 2.3. What is average day data the next day? Just tell the answer",
+        "assistant": "2.24"
+    },
+    {
+        "user": "Average night data of CO on 28/06/2004 is 1.57, on 29/06/2004 is 1.95, on 30/06/2004 is 2.25, on 01/07/2004 is 2.02. What is average night data the next night? Just tell the answer",
+        "assistant": "1.89"
+    },
+    {
+        "user": "Average day data of CO on 03/07/2004 is 1.37, on 04/07/2004 is 0.75, on 05/07/2004 is 2.38, on 06/07/2004 is 2.96. What is average day data the next day? Just tell the answer",
+        "assistant": "2.58"
+    },
+    {
+        "user": "Average night data of CO on 03/07/2004 is 1.27, on 04/07/2004 is 1.28, on 05/07/2004 is 1.74, on 06/07/2004 is 2.04. What is average night data the next night? Just tell the answer",
+        "assistant": "2.33"
+    },
+    {
+        "user": "Average day data of CO on 08/07/2004 is 2.22, on 09/07/2004 is 1.81, on 10/07/2004 is 0.82, on 11/07/2004 is 0.48. What is average day data the next day? Just tell the answer",
+        "assistant": "2.08"
+    },
+    {
+        "user": "Average night data of CO on 08/07/2004 is 2.28, on 09/07/2004 is 1.77, on 10/07/2004 is 1.13, on 11/07/2004 is 1.23. What is average night data the next night? Just tell the answer",
+        "assistant": "1.49"
+    },
+    {
+        "user": "Average day data of CO on 13/07/2004 is 2.68, on 14/07/2004 is 2.68, on 15/07/2004 is 2.17, on 16/07/2004 is 2.37. What is average day data the next day? Just tell the answer",
+        "assistant": "1.49"
+    },
+    {
+        "user": "Average night data of CO on 13/07/2004 is 2.05, on 14/07/2004 is 1.93, on 15/07/2004 is 2.2, on 16/07/2004 is 2.05. What is average night data the next night? Just tell the answer",
+        "assistant": "1.66"
+    },
+    {
+        "user": "Average day data of CO on 18/07/2004 is 0.53, on 19/07/2004 is 2.25, on 20/07/2004 is NA, on 21/07/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "2.37"
+    },
+    {
+        "user": "Average night data of CO on 18/07/2004 is 1.06, on 19/07/2004 is 0.26, on 20/07/2004 is NA, on 21/07/2004 is 3.47. What is average night data the next night? Just tell the answer",
+        "assistant": "2.22"
+    },
+    {
+        "user": "Average day data of CO on 23/07/2004 is 2.21, on 24/07/2004 is 1.32, on 25/07/2004 is 0.67, on 26/07/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 05/05/2004 is 1.28, on 06/05/2004 is 1.29, on 07/05/2004 is 1.87, on 08/05/2004 is 1.4. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 23/07/2004 is 1.68, on 24/07/2004 is 1.28, on 25/07/2004 is 1.17, on 26/07/2004 is 1.17. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 10/05/2004 is 2.52, on 11/05/2004 is 3.16, on 12/05/2004 is 3.59, on 13/05/2004 is 2.4. What is average day data the next day? Just tell the answer",
-        "assistant": 2.45
+        "user": "Average day data of CO on 28/07/2004 is NA, on 29/07/2004 is NA, on 30/07/2004 is NA, on 31/07/2004 is 1.91. What is average day data the next day? Just tell the answer",
+        "assistant": "0.68"
     },
     {
-        "user": "Average night data of CO on 10/05/2004 is 2.58, on 11/05/2004 is 2.4, on 12/05/2004 is 1.58, on 13/05/2004 is 2.41. What is average night data the next night? Just tell the answer",
-        "assistant": 2.41
+        "user": "Average night data of CO on 28/07/2004 is NA, on 29/07/2004 is NA, on 30/07/2004 is NA, on 31/07/2004 is 1.69. What is average night data the next night? Just tell the answer",
+        "assistant": "1.28"
     },
     {
-        "user": "Average day data of CO on 15/05/2004 is 1.73, on 16/05/2004 is 1.25, on 17/05/2004 is 1.82, on 18/05/2004 is 2.7. What is average day data the next day? Just tell the answer",
-        "assistant": 2.82
+        "user": "Average day data of CO on 02/08/2004 is 1.58, on 03/08/2004 is NA, on 04/08/2004 is NA, on 05/08/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "2.21"
     },
     {
-        "user": "Average night data of CO on 15/05/2004 is 1.84, on 16/05/2004 is 1.56, on 17/05/2004 is 1.54, on 18/05/2004 is 1.84. What is average night data the next night? Just tell the answer",
-        "assistant": 1.87
+        "user": "Average night data of CO on 02/08/2004 is 1.01, on 03/08/2004 is 0.1, on 04/08/2004 is NA, on 05/08/2004 is NA. What is average night data the next night? Just tell the answer",
+        "assistant": "1.86"
     },
     {
-        "user": "Average day data of CO on 20/05/2004 is 2.65, on 21/05/2004 is 2.54, on 22/05/2004 is 1.86, on 23/05/2004 is 0.97. What is average day data the next day? Just tell the answer",
-        "assistant": 1.29
+        "user": "Average day data of CO on 07/08/2004 is 1.23, on 08/08/2004 is 0.92, on 09/08/2004 is 1.63, on 10/08/2004 is 1.77. What is average day data the next day? Just tell the answer",
+        "assistant": "1.43"
     },
     {
-        "user": "Average night data of CO on 20/05/2004 is 2.18, on 21/05/2004 is 1.96, on 22/05/2004 is 2.17, on 23/05/2004 is 1.66. What is average night data the next night? Just tell the answer",
-        "assistant": 0.94
+        "user": "Average night data of CO on 07/08/2004 is 1.25, on 08/08/2004 is 1.23, on 09/08/2004 is 1.33, on 10/08/2004 is 1.18. What is average night data the next night? Just tell the answer",
+        "assistant": "1.18"
     },
     {
-        "user": "Average day data of CO on 25/05/2004 is 2.1, on 26/05/2004 is 1.99, on 27/05/2004 is NA, on 28/05/2004 is 1.83. What is average day data the next day? Just tell the answer",
-        "assistant": 0.57
+        "user": "Average day data of CO on 12/08/2004 is 1.37, on 13/08/2004 is 1.09, on 14/08/2004 is 0.83, on 15/08/2004 is 0.71. What is average day data the next day? Just tell the answer",
+        "assistant": "1.29"
     },
     {
-        "user": "Average night data of CO on 25/05/2004 is 0.27, on 26/05/2004 is NA, on 27/05/2004 is NA, on 28/05/2004 is 1.62. What is average night data the next night? Just tell the answer",
-        "assistant": 1.18
+        "user": "Average night data of CO on 12/08/2004 is 1.25, on 13/08/2004 is 0.96, on 14/08/2004 is 0.89, on 15/08/2004 is 0.82. What is average night data the next night? Just tell the answer",
+        "assistant": "0.91"
     },
     {
-        "user": "Average day data of CO on 30/05/2004 is 0.28, on 31/05/2004 is 1.76, on 01/06/2004 is 1.98, on 02/06/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 17/08/2004 is 2.0, on 18/08/2004 is 1.55, on 19/08/2004 is 1.16, on 20/08/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 30/05/2004 is 1.06, on 31/05/2004 is 1.16, on 01/06/2004 is 2.29, on 02/06/2004 is 0.8. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 17/08/2004 is 0.55, on 18/08/2004 is 1.5, on 19/08/2004 is 1.02, on 20/08/2004 is NA. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 04/06/2004 is 3.15, on 05/06/2004 is 1.39, on 06/06/2004 is 0.81, on 07/06/2004 is 2.68. What is average day data the next day? Just tell the answer",
-        "assistant": 3.12
+        "user": "Average day data of CO on 22/08/2004 is NA, on 23/08/2004 is 1.3, on 24/08/2004 is 1.62, on 25/08/2004 is 1.87. What is average day data the next day? Just tell the answer",
+        "assistant": "1.56"
     },
     {
-        "user": "Average night data of CO on 04/06/2004 is 2.77, on 05/06/2004 is 1.51, on 06/06/2004 is 1.19, on 07/06/2004 is 1.73. What is average night data the next night? Just tell the answer",
-        "assistant": 1.8
+        "user": "Average night data of CO on 22/08/2004 is NA, on 23/08/2004 is 1.42, on 24/08/2004 is 1.14, on 25/08/2004 is 1.17. What is average night data the next night? Just tell the answer",
+        "assistant": "1.14"
     },
     {
-        "user": "Average day data of CO on 09/06/2004 is 2.93, on 10/06/2004 is 2.9, on 11/06/2004 is 2.61, on 12/06/2004 is 1.41. What is average day data the next day? Just tell the answer",
-        "assistant": 0.58
+        "user": "Average day data of CO on 27/08/2004 is 1.84, on 28/08/2004 is 1.21, on 29/08/2004 is NA, on 30/08/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "2.05"
     },
     {
-        "user": "Average night data of CO on 09/06/2004 is 2.0, on 10/06/2004 is 2.4, on 11/06/2004 is 1.8, on 12/06/2004 is 1.23. What is average night data the next night? Just tell the answer",
-        "assistant": 0.88
+        "user": "Average night data of CO on 27/08/2004 is 1.42, on 28/08/2004 is 0.62, on 29/08/2004 is NA, on 30/08/2004 is NA. What is average night data the next night? Just tell the answer",
+        "assistant": "2.23"
     },
     {
-        "user": "Average day data of CO on 14/06/2004 is 1.44, on 15/06/2004 is 2.68, on 16/06/2004 is 2.46, on 17/06/2004 is 2.39. What is average day data the next day? Just tell the answer",
-        "assistant": 2.5
+        "user": "Average day data of CO on 01/09/2004 is 2.58, on 02/09/2004 is 3.05, on 03/09/2004 is 4.6, on 04/09/2004 is 1.91. What is average day data the next day? Just tell the answer",
+        "assistant": "0.77"
     },
     {
-        "user": "Average night data of CO on 14/06/2004 is 0.96, on 15/06/2004 is 1.63, on 16/06/2004 is 1.86, on 17/06/2004 is 2.08. What is average night data the next night? Just tell the answer",
-        "assistant": 1.59
+        "user": "Average night data of CO on 01/09/2004 is 1.89, on 02/09/2004 is 1.03, on 03/09/2004 is 3.1, on 04/09/2004 is 1.53. What is average night data the next night? Just tell the answer",
+        "assistant": "1.84"
     },
     {
-        "user": "Average day data of CO on 19/06/2004 is 1.28, on 20/06/2004 is 0.98, on 21/06/2004 is 1.9, on 22/06/2004 is 2.69. What is average day data the next day? Just tell the answer",
-        "assistant": 2.64
+        "user": "Average day data of CO on 06/09/2004 is 1.48, on 07/09/2004 is 2.02, on 08/09/2004 is 3.4, on 09/09/2004 is 2.61. What is average day data the next day? Just tell the answer",
+        "assistant": "2.41"
     },
     {
-        "user": "Average night data of CO on 19/06/2004 is 1.23, on 20/06/2004 is 1.97, on 21/06/2004 is 1.72, on 22/06/2004 is 1.71. What is average night data the next night? Just tell the answer",
-        "assistant": 2.25
+        "user": "Average night data of CO on 06/09/2004 is 1.35, on 07/09/2004 is 1.74, on 08/09/2004 is 3.32, on 09/09/2004 is 1.87. What is average night data the next night? Just tell the answer",
+        "assistant": "1.49"
     },
     {
-        "user": "Average day data of CO on 24/06/2004 is 1.3, on 25/06/2004 is 2.12, on 26/06/2004 is 1.54, on 27/06/2004 is 1.12. What is average day data the next day? Just tell the answer",
-        "assistant": 2.63
+        "user": "Average day data of CO on 11/09/2004 is NA, on 12/09/2004 is NA, on 13/09/2004 is 2.7, on 14/09/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "3.3"
     },
     {
-        "user": "Average night data of CO on 24/06/2004 is 2.18, on 25/06/2004 is 2.05, on 26/06/2004 is 1.42, on 27/06/2004 is 1.54. What is average night data the next night? Just tell the answer",
-        "assistant": 1.57
+        "user": "Average night data of CO on 11/09/2004 is 1.6, on 12/09/2004 is NA, on 13/09/2004 is 3.4, on 14/09/2004 is 0.75. What is average night data the next night? Just tell the answer",
+        "assistant": "3.73"
     },
     {
-        "user": "Average day data of CO on 29/06/2004 is 2.84, on 30/06/2004 is 2.5, on 01/07/2004 is 2.3, on 02/07/2004 is 2.24. What is average day data the next day? Just tell the answer",
-        "assistant": 1.37
+        "user": "Average day data of CO on 16/09/2004 is 2.51, on 17/09/2004 is 1.78, on 18/09/2004 is 1.27, on 19/09/2004 is 1.87. What is average day data the next day? Just tell the answer",
+        "assistant": "3.27"
     },
     {
-        "user": "Average night data of CO on 29/06/2004 is 1.95, on 30/06/2004 is 2.25, on 01/07/2004 is 2.02, on 02/07/2004 is 1.89. What is average night data the next night? Just tell the answer",
-        "assistant": 1.27
+        "user": "Average night data of CO on 16/09/2004 is 1.71, on 17/09/2004 is 1.28, on 18/09/2004 is 1.47, on 19/09/2004 is 2.07. What is average night data the next night? Just tell the answer",
+        "assistant": "2.16"
     },
     {
-        "user": "Average day data of CO on 04/07/2004 is 0.75, on 05/07/2004 is 2.38, on 06/07/2004 is 2.96, on 07/07/2004 is 2.58. What is average day data the next day? Just tell the answer",
-        "assistant": 2.22
+        "user": "Average day data of CO on 21/09/2004 is 3.94, on 22/09/2004 is 3.45, on 23/09/2004 is 2.78, on 24/09/2004 is 3.6. What is average day data the next day? Just tell the answer",
+        "assistant": "1.03"
     },
     {
-        "user": "Average night data of CO on 04/07/2004 is 1.28, on 05/07/2004 is 1.74, on 06/07/2004 is 2.04, on 07/07/2004 is 2.33. What is average night data the next night? Just tell the answer",
-        "assistant": 2.28
+        "user": "Average night data of CO on 21/09/2004 is 2.02, on 22/09/2004 is 2.07, on 23/09/2004 is 2.16, on 24/09/2004 is 1.17. What is average night data the next night? Just tell the answer",
+        "assistant": "1.45"
     },
     {
-        "user": "Average day data of CO on 09/07/2004 is 1.81, on 10/07/2004 is 0.82, on 11/07/2004 is 0.48, on 12/07/2004 is 2.08. What is average day data the next day? Just tell the answer",
-        "assistant": 2.68
+        "user": "Average day data of CO on 26/09/2004 is 1.11, on 27/09/2004 is 2.37, on 28/09/2004 is 3.39, on 29/09/2004 is 3.24. What is average day data the next day? Just tell the answer",
+        "assistant": "3.13"
     },
     {
-        "user": "Average night data of CO on 09/07/2004 is 1.77, on 10/07/2004 is 1.13, on 11/07/2004 is 1.23, on 12/07/2004 is 1.49. What is average night data the next night? Just tell the answer",
-        "assistant": 2.05
+        "user": "Average night data of CO on 26/09/2004 is 2.02, on 27/09/2004 is 1.93, on 28/09/2004 is 2.28, on 29/09/2004 is 2.26. What is average night data the next night? Just tell the answer",
+        "assistant": "3.16"
     },
     {
-        "user": "Average day data of CO on 14/07/2004 is 2.68, on 15/07/2004 is 2.17, on 16/07/2004 is 2.37, on 17/07/2004 is 1.49. What is average day data the next day? Just tell the answer",
-        "assistant": 0.53
-    },
-    {
-        "user": "Average night data of CO on 14/07/2004 is 1.93, on 15/07/2004 is 2.2, on 16/07/2004 is 2.05, on 17/07/2004 is 1.66. What is average night data the next night? Just tell the answer",
-        "assistant": 1.06
-    },
-    {
-        "user": "Average day data of CO on 19/07/2004 is 2.25, on 20/07/2004 is NA, on 21/07/2004 is NA, on 22/07/2004 is 2.37. What is average day data the next day? Just tell the answer",
-        "assistant": 2.21
-    },
-    {
-        "user": "Average night data of CO on 19/07/2004 is 0.26, on 20/07/2004 is NA, on 21/07/2004 is 3.47, on 22/07/2004 is 2.22. What is average night data the next night? Just tell the answer",
-        "assistant": 1.68
-    },
-    {
-        "user": "Average day data of CO on 24/07/2004 is 1.32, on 25/07/2004 is 0.67, on 26/07/2004 is NA, on 27/07/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 01/10/2004 is 3.48, on 02/10/2004 is NA, on 03/10/2004 is NA, on 04/10/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 24/07/2004 is 1.28, on 25/07/2004 is 1.17, on 26/07/2004 is 1.17, on 27/07/2004 is NA. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 01/10/2004 is 1.15, on 02/10/2004 is NA, on 03/10/2004 is NA, on 04/10/2004 is NA. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 29/07/2004 is NA, on 30/07/2004 is NA, on 31/07/2004 is 1.91, on 01/08/2004 is 0.68. What is average day data the next day? Just tell the answer",
-        "assistant": 1.58
+        "user": "Average day data of CO on 06/10/2004 is NA, on 07/10/2004 is 4.15, on 08/10/2004 is 3.61, on 09/10/2004 is 2.83. What is average day data the next day? Just tell the answer",
+        "assistant": "1.52"
     },
     {
-        "user": "Average night data of CO on 29/07/2004 is NA, on 30/07/2004 is NA, on 31/07/2004 is 1.69, on 01/08/2004 is 1.28. What is average night data the next night? Just tell the answer",
-        "assistant": 1.01
+        "user": "Average night data of CO on 06/10/2004 is NA, on 07/10/2004 is 4.2, on 08/10/2004 is 1.58, on 09/10/2004 is 2.22. What is average night data the next night? Just tell the answer",
+        "assistant": "1.73"
     },
     {
-        "user": "Average day data of CO on 03/08/2004 is NA, on 04/08/2004 is NA, on 05/08/2004 is NA, on 06/08/2004 is 2.21. What is average day data the next day? Just tell the answer",
-        "assistant": 1.23
-    },
-    {
-        "user": "Average night data of CO on 03/08/2004 is 0.1, on 04/08/2004 is NA, on 05/08/2004 is NA, on 06/08/2004 is 1.86. What is average night data the next night? Just tell the answer",
-        "assistant": 1.25
-    },
-    {
-        "user": "Average day data of CO on 08/08/2004 is 0.92, on 09/08/2004 is 1.63, on 10/08/2004 is 1.77, on 11/08/2004 is 1.43. What is average day data the next day? Just tell the answer",
-        "assistant": 1.37
-    },
-    {
-        "user": "Average night data of CO on 08/08/2004 is 1.23, on 09/08/2004 is 1.33, on 10/08/2004 is 1.18, on 11/08/2004 is 1.18. What is average night data the next night? Just tell the answer",
-        "assistant": 1.25
-    },
-    {
-        "user": "Average day data of CO on 13/08/2004 is 1.09, on 14/08/2004 is 0.83, on 15/08/2004 is 0.71, on 16/08/2004 is 1.29. What is average day data the next day? Just tell the answer",
-        "assistant": 2.0
-    },
-    {
-        "user": "Average night data of CO on 13/08/2004 is 0.96, on 14/08/2004 is 0.89, on 15/08/2004 is 0.82, on 16/08/2004 is 0.91. What is average night data the next night? Just tell the answer",
-        "assistant": 0.55
-    },
-    {
-        "user": "Average day data of CO on 18/08/2004 is 1.55, on 19/08/2004 is 1.16, on 20/08/2004 is NA, on 21/08/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 11/10/2004 is 3.12, on 12/10/2004 is 2.3, on 13/10/2004 is 1.35, on 14/10/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 18/08/2004 is 1.5, on 19/08/2004 is 1.02, on 20/08/2004 is NA, on 21/08/2004 is NA. What is average night data the next night? Just tell the answer",
+        "user": "Average night data of CO on 11/10/2004 is 1.78, on 12/10/2004 is 0.75, on 13/10/2004 is NA, on 14/10/2004 is NA. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average day data of CO on 23/08/2004 is 1.3, on 24/08/2004 is 1.62, on 25/08/2004 is 1.87, on 26/08/2004 is 1.56. What is average day data the next day? Just tell the answer",
-        "assistant": 1.84
+        "user": "Average day data of CO on 16/10/2004 is NA, on 17/10/2004 is NA, on 18/10/2004 is NA, on 19/10/2004 is NA. What is average day data the next day? Just tell the answer",
+        "assistant": "6.35"
     },
     {
-        "user": "Average night data of CO on 23/08/2004 is 1.42, on 24/08/2004 is 1.14, on 25/08/2004 is 1.17, on 26/08/2004 is 1.14. What is average night data the next night? Just tell the answer",
-        "assistant": 1.42
+        "user": "Average night data of CO on 16/10/2004 is NA, on 17/10/2004 is NA, on 18/10/2004 is NA, on 19/10/2004 is NA. What is average night data the next night? Just tell the answer",
+        "assistant": "5.42"
     },
     {
-        "user": "Average day data of CO on 28/08/2004 is 1.21, on 29/08/2004 is NA, on 30/08/2004 is NA, on 31/08/2004 is 2.05. What is average day data the next day? Just tell the answer",
-        "assistant": 2.58
+        "user": "Average day data of CO on 21/10/2004 is 2.74, on 22/10/2004 is 3.34, on 23/10/2004 is 2.81, on 24/10/2004 is 1.6. What is average day data the next day? Just tell the answer",
+        "assistant": "3.91"
     },
     {
-        "user": "Average night data of CO on 28/08/2004 is 0.62, on 29/08/2004 is NA, on 30/08/2004 is NA, on 31/08/2004 is 2.23. What is average night data the next night? Just tell the answer",
-        "assistant": 1.89
+        "user": "Average night data of CO on 21/10/2004 is 3.65, on 22/10/2004 is 2.87, on 23/10/2004 is 2.32, on 24/10/2004 is 2.46. What is average night data the next night? Just tell the answer",
+        "assistant": "3.39"
     },
     {
-        "user": "Average day data of CO on 02/09/2004 is 3.05, on 03/09/2004 is 4.6, on 04/09/2004 is 1.91, on 05/09/2004 is 0.77. What is average day data the next day? Just tell the answer",
-        "assistant": 1.48
+        "user": "Average day data of CO on 26/10/2004 is 4.33, on 27/10/2004 is 3.07, on 28/10/2004 is 3.53, on 29/10/2004 is 3.33. What is average day data the next day? Just tell the answer",
+        "assistant": "3.16"
     },
     {
-        "user": "Average night data of CO on 02/09/2004 is 1.03, on 03/09/2004 is 3.1, on 04/09/2004 is 1.53, on 05/09/2004 is 1.84. What is average night data the next night? Just tell the answer",
-        "assistant": 1.35
+        "user": "Average night data of CO on 26/10/2004 is 2.95, on 27/10/2004 is 1.65, on 28/10/2004 is 1.74, on 29/10/2004 is 1.7. What is average night data the next night? Just tell the answer",
+        "assistant": "2.58"
     },
     {
-        "user": "Average day data of CO on 07/09/2004 is 2.02, on 08/09/2004 is 3.4, on 09/09/2004 is 2.61, on 10/09/2004 is 2.41. What is average day data the next day? Just tell the answer",
+        "user": "Average day data of CO on 31/10/2004 is 1.58, on 01/11/2004 is 2.23, on 02/11/2004 is 4.67, on 03/11/2004 is 2.66. What is average day data the next day? Just tell the answer",
+        "assistant": "2.15"
+    },
+    {
+        "user": "Average night data of CO on 31/10/2004 is 2.83, on 01/11/2004 is 3.31, on 02/11/2004 is 3.96, on 03/11/2004 is 2.44. What is average night data the next night? Just tell the answer",
+        "assistant": "2.89"
+    },
+    {
+        "user": "Average day data of CO on 05/11/2004 is 3.94, on 06/11/2004 is 2.73, on 07/11/2004 is 0.77, on 08/11/2004 is 1.56. What is average day data the next day? Just tell the answer",
+        "assistant": "1.73"
+    },
+    {
+        "user": "Average night data of CO on 05/11/2004 is 2.24, on 06/11/2004 is 1.93, on 07/11/2004 is 1.95, on 08/11/2004 is 1.96. What is average night data the next night? Just tell the answer",
+        "assistant": "3.03"
+    },
+    {
+        "user": "Average day data of CO on 10/11/2004 is 1.69, on 11/11/2004 is 3.46, on 12/11/2004 is 1.74, on 13/11/2004 is 2.51. What is average day data the next day? Just tell the answer",
+        "assistant": "0.45"
+    },
+    {
+        "user": "Average night data of CO on 10/11/2004 is 1.87, on 11/11/2004 is 2.37, on 12/11/2004 is 2.23, on 13/11/2004 is 1.38. What is average night data the next night? Just tell the answer",
+        "assistant": "0.78"
+    },
+    {
+        "user": "Average day data of CO on 15/11/2004 is 1.68, on 16/11/2004 is 2.83, on 17/11/2004 is 3.64, on 18/11/2004 is 3.81. What is average day data the next day? Just tell the answer",
+        "assistant": "4.31"
+    },
+    {
+        "user": "Average night data of CO on 15/11/2004 is 1.71, on 16/11/2004 is 1.83, on 17/11/2004 is 3.13, on 18/11/2004 is 2.94. What is average night data the next night? Just tell the answer",
+        "assistant": "3.53"
+    },
+    {
+        "user": "Average day data of CO on 20/11/2004 is 1.96, on 21/11/2004 is 0.9, on 22/11/2004 is 2.61, on 23/11/2004 is 5.08. What is average day data the next day? Just tell the answer",
+        "assistant": "2.93"
+    },
+    {
+        "user": "Average night data of CO on 20/11/2004 is 1.93, on 21/11/2004 is 1.13, on 22/11/2004 is 2.89, on 23/11/2004 is 5.04. What is average night data the next night? Just tell the answer",
+        "assistant": "4.03"
+    },
+    {
+        "user": "Average day data of CO on 25/11/2004 is 3.03, on 26/11/2004 is 4.66, on 27/11/2004 is 3.77, on 28/11/2004 is 1.73. What is average day data the next day? Just tell the answer",
+        "assistant": "3.55"
+    },
+    {
+        "user": "Average night data of CO on 25/11/2004 is 2.84, on 26/11/2004 is 4.63, on 27/11/2004 is 3.72, on 28/11/2004 is 2.7. What is average night data the next night? Just tell the answer",
+        "assistant": "1.81"
+    },
+    {
+        "user": "Average day data of CO on 30/11/2004 is 2.53, on 01/12/2004 is 4.05, on 02/12/2004 is 3.43, on 03/12/2004 is 3.77. What is average day data the next day? Just tell the answer",
+        "assistant": "2.34"
+    },
+    {
+        "user": "Average night data of CO on 30/11/2004 is 2.7, on 01/12/2004 is 2.29, on 02/12/2004 is 4.12, on 03/12/2004 is 3.31. What is average night data the next night? Just tell the answer",
+        "assistant": "2.54"
+    },
+    {
+        "user": "Average day data of CO on 05/12/2004 is 1.29, on 06/12/2004 is 2.98, on 07/12/2004 is 2.81, on 08/12/2004 is 1.63. What is average day data the next day? Just tell the answer",
+        "assistant": "1.45"
+    },
+    {
+        "user": "Average night data of CO on 05/12/2004 is 1.5, on 06/12/2004 is 1.79, on 07/12/2004 is 1.92, on 08/12/2004 is 2.14. What is average night data the next night? Just tell the answer",
+        "assistant": "1.35"
+    },
+    {
+        "user": "Average day data of CO on 10/12/2004 is 1.69, on 11/12/2004 is 2.1, on 12/12/2004 is 2.8, on 13/12/2004 is 3.7. What is average day data the next day? Just tell the answer",
+        "assistant": "4.12"
+    },
+    {
+        "user": "Average night data of CO on 10/12/2004 is 1.76, on 11/12/2004 is 1.76, on 12/12/2004 is 2.88, on 13/12/2004 is 3.27. What is average night data the next night? Just tell the answer",
+        "assistant": "3.25"
+    },
+    {
+        "user": "Average day data of CO on 15/12/2004 is 3.8, on 16/12/2004 is 4.15, on 17/12/2004 is 3.83, on 18/12/2004 is 1.49. What is average day data the next day? Just tell the answer",
+        "assistant": "2.22"
+    },
+    {
+        "user": "Average night data of CO on 15/12/2004 is 2.38, on 16/12/2004 is 4.73, on 17/12/2004 is 3.01, on 18/12/2004 is 2.03. What is average night data the next night? Just tell the answer",
+        "assistant": "3.29"
+    },
+    {
+        "user": "Average day data of CO on 20/12/2004 is 2.38, on 21/12/2004 is 2.21, on 22/12/2004 is 2.11, on 23/12/2004 is 3.72. What is average day data the next day? Just tell the answer",
+        "assistant": "5.98"
+    },
+    {
+        "user": "Average night data of CO on 20/12/2004 is 2.34, on 21/12/2004 is 1.86, on 22/12/2004 is 2.35, on 23/12/2004 is 4.4. What is average night data the next night? Just tell the answer",
+        "assistant": "4.66"
+    },
+    {
+        "user": "Average day data of CO on 25/12/2004 is 3.07, on 26/12/2004 is 1.08, on 27/12/2004 is 1.67, on 28/12/2004 is NA. What is average day data the next day? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 07/09/2004 is 1.74, on 08/09/2004 is 3.32, on 09/09/2004 is 1.87, on 10/09/2004 is 1.49. What is average night data the next night? Just tell the answer",
-        "assistant": 1.6
-    },
-    {
-        "user": "Average day data of CO on 12/09/2004 is NA, on 13/09/2004 is 2.7, on 14/09/2004 is NA, on 15/09/2004 is 3.3. What is average day data the next day? Just tell the answer",
-        "assistant": 2.51
-    },
-    {
-        "user": "Average night data of CO on 12/09/2004 is NA, on 13/09/2004 is 3.4, on 14/09/2004 is 0.75, on 15/09/2004 is 3.73. What is average night data the next night? Just tell the answer",
-        "assistant": 1.71
-    },
-    {
-        "user": "Average day data of CO on 17/09/2004 is 1.78, on 18/09/2004 is 1.27, on 19/09/2004 is 1.87, on 20/09/2004 is 3.27. What is average day data the next day? Just tell the answer",
-        "assistant": 3.94
-    },
-    {
-        "user": "Average night data of CO on 17/09/2004 is 1.28, on 18/09/2004 is 1.47, on 19/09/2004 is 2.07, on 20/09/2004 is 2.16. What is average night data the next night? Just tell the answer",
-        "assistant": 2.02
-    },
-    {
-        "user": "Average day data of CO on 22/09/2004 is 3.45, on 23/09/2004 is 2.78, on 24/09/2004 is 3.6, on 25/09/2004 is 1.03. What is average day data the next day? Just tell the answer",
-        "assistant": 1.11
-    },
-    {
-        "user": "Average night data of CO on 22/09/2004 is 2.07, on 23/09/2004 is 2.16, on 24/09/2004 is 1.17, on 25/09/2004 is 1.45. What is average night data the next night? Just tell the answer",
-        "assistant": 2.02
-    },
-    {
-        "user": "Average day data of CO on 27/09/2004 is 2.37, on 28/09/2004 is 3.39, on 29/09/2004 is 3.24, on 30/09/2004 is 3.13. What is average day data the next day? Just tell the answer",
-        "assistant": 3.48
-    },
-    {
-        "user": "Average night data of CO on 27/09/2004 is 1.93, on 28/09/2004 is 2.28, on 29/09/2004 is 2.26, on 30/09/2004 is 3.16. What is average night data the next night? Just tell the answer",
-        "assistant": 1.15
-    },
-    {
-        "user": "Average day data of CO on 02/10/2004 is NA, on 03/10/2004 is NA, on 04/10/2004 is NA, on 05/10/2004 is NA. What is average day data the next day? Just tell the answer",
+        "user": "Average night data of CO on 25/12/2004 is 4.85, on 26/12/2004 is 1.78, on 27/12/2004 is 1.47, on 28/12/2004 is 1.2. What is average night data the next night? Just tell the answer",
         "assistant": "NA"
     },
     {
-        "user": "Average night data of CO on 02/10/2004 is NA, on 03/10/2004 is NA, on 04/10/2004 is NA, on 05/10/2004 is NA. What is average night data the next night? Just tell the answer",
-        "assistant": "NA"
+        "user": "Average day data of CO on 30/12/2004 is NA, on 31/12/2004 is NA, on 01/01/2005 is 1.84, on 02/01/2005 is 1.87. What is average day data the next day? Just tell the answer",
+        "assistant": "2.13"
     },
     {
-        "user": "Average day data of CO on 07/10/2004 is 4.15, on 08/10/2004 is 3.61, on 09/10/2004 is 2.83, on 10/10/2004 is 1.52. What is average day data the next day? Just tell the answer",
-        "assistant": 3.12
+        "user": "Average night data of CO on 30/12/2004 is NA, on 31/12/2004 is NA, on 01/01/2005 is 2.45, on 02/01/2005 is 2.23. What is average night data the next night? Just tell the answer",
+        "assistant": "2.97"
     },
     {
-        "user": "Average night data of CO on 07/10/2004 is 4.2, on 08/10/2004 is 1.58, on 09/10/2004 is 2.22, on 10/10/2004 is 1.73. What is average night data the next night? Just tell the answer",
-        "assistant": 1.78
+        "user": "Average day data of CO on 04/01/2005 is 2.82, on 05/01/2005 is 3.8, on 06/01/2005 is 1.49, on 07/01/2005 is 2.48. What is average day data the next day? Just tell the answer",
+        "assistant": "2.9"
     },
     {
-        "user": "Average day data of CO on 12/10/2004 is 2.3, on 13/10/2004 is 1.35, on 14/10/2004 is NA, on 15/10/2004 is NA. What is average day data the next day? Just tell the answer",
-        "assistant": "NA"
+        "user": "Average night data of CO on 04/01/2005 is 2.14, on 05/01/2005 is 2.23, on 06/01/2005 is 1.86, on 07/01/2005 is 2.85. What is average night data the next night? Just tell the answer",
+        "assistant": "2.71"
     },
     {
-        "user": "Average night data of CO on 12/10/2004 is 0.75, on 13/10/2004 is NA, on 14/10/2004 is NA, on 15/10/2004 is NA. What is average night data the next night? Just tell the answer",
-        "assistant": "NA"
+        "user": "Average day data of CO on 09/01/2005 is 1.57, on 10/01/2005 is -14.63, on 11/01/2005 is 3.13, on 12/01/2005 is 3.29. What is average day data the next day? Just tell the answer",
+        "assistant": "2.87"
     },
     {
-        "user": "Average day data of CO on 17/10/2004 is NA, on 18/10/2004 is NA, on 19/10/2004 is NA, on 20/10/2004 is 6.35. What is average day data the next day? Just tell the answer",
-        "assistant": 2.74
+        "user": "Average night data of CO on 09/01/2005 is 1.86, on 10/01/2005 is -14.8, on 11/01/2005 is 2.49, on 12/01/2005 is 3.25. What is average night data the next night? Just tell the answer",
+        "assistant": "2.49"
     },
     {
-        "user": "Average night data of CO on 17/10/2004 is NA, on 18/10/2004 is NA, on 19/10/2004 is NA, on 20/10/2004 is 5.42. What is average night data the next night? Just tell the answer",
-        "assistant": 3.65
+        "user": "Average day data of CO on 14/01/2005 is 3.38, on 15/01/2005 is 2.6, on 16/01/2005 is 1.1, on 17/01/2005 is 2.93. What is average day data the next day? Just tell the answer",
+        "assistant": "4.08"
     },
     {
-        "user": "Average day data of CO on 22/10/2004 is 3.34, on 23/10/2004 is 2.81, on 24/10/2004 is 1.6, on 25/10/2004 is 3.91. What is average day data the next day? Just tell the answer",
-        "assistant": 4.33
+        "user": "Average night data of CO on 14/01/2005 is 2.93, on 15/01/2005 is 2.77, on 16/01/2005 is 1.96, on 17/01/2005 is 2.76. What is average night data the next night? Just tell the answer",
+        "assistant": "1.99"
     },
     {
-        "user": "Average night data of CO on 22/10/2004 is 2.87, on 23/10/2004 is 2.32, on 24/10/2004 is 2.46, on 25/10/2004 is 3.39. What is average night data the next night? Just tell the answer",
-        "assistant": 2.95
+        "user": "Average day data of CO on 19/01/2005 is -49.65, on 20/01/2005 is 2.9, on 21/01/2005 is 3.57, on 22/01/2005 is -32.53. What is average day data the next day? Just tell the answer",
+        "assistant": "-200.0"
     },
     {
-        "user": "Average day data of CO on 27/10/2004 is 3.07, on 28/10/2004 is 3.53, on 29/10/2004 is 3.33, on 30/10/2004 is 3.16. What is average day data the next day? Just tell the answer",
-        "assistant": 1.58
+        "user": "Average night data of CO on 19/01/2005 is -48.88, on 20/01/2005 is 2.17, on 21/01/2005 is 2.53, on 22/01/2005 is 1.27. What is average night data the next night? Just tell the answer",
+        "assistant": "-183.27"
     },
     {
-        "user": "Average night data of CO on 27/10/2004 is 1.65, on 28/10/2004 is 1.74, on 29/10/2004 is 1.7, on 30/10/2004 is 2.58. What is average night data the next night? Just tell the answer",
-        "assistant": 2.83
+        "user": "Average day data of CO on 24/01/2005 is 1.02, on 25/01/2005 is -33.02, on 26/01/2005 is -33.08, on 27/01/2005 is 1.4. What is average day data the next day? Just tell the answer",
+        "assistant": "1.54"
     },
     {
-        "user": "Average day data of CO on 01/11/2004 is 2.23, on 02/11/2004 is 4.67, on 03/11/2004 is 2.66, on 04/11/2004 is 2.15. What is average day data the next day? Just tell the answer",
-        "assistant": 3.94
+        "user": "Average night data of CO on 24/01/2005 is -99.59, on 25/01/2005 is -116.4, on 26/01/2005 is -99.54, on 27/01/2005 is -32.22. What is average night data the next night? Just tell the answer",
+        "assistant": "1.37"
     },
     {
-        "user": "Average night data of CO on 01/11/2004 is 3.31, on 02/11/2004 is 3.96, on 03/11/2004 is 2.44, on 04/11/2004 is 2.89. What is average night data the next night? Just tell the answer",
-        "assistant": 2.24
+        "user": "Average day data of CO on 29/01/2005 is 0.99, on 30/01/2005 is 0.78, on 31/01/2005 is -14.36, on 01/02/2005 is 3.52. What is average day data the next day? Just tell the answer",
+        "assistant": "3.4"
     },
     {
-        "user": "Average day data of CO on 06/11/2004 is 2.73, on 07/11/2004 is 0.77, on 08/11/2004 is 1.56, on 09/11/2004 is 1.73. What is average day data the next day? Just tell the answer",
-        "assistant": 1.69
+        "user": "Average night data of CO on 29/01/2005 is 1.0, on 30/01/2005 is -15.58, on 31/01/2005 is 2.68, on 01/02/2005 is 2.21. What is average night data the next night? Just tell the answer",
+        "assistant": "3.3"
     },
     {
-        "user": "Average night data of CO on 06/11/2004 is 1.93, on 07/11/2004 is 1.95, on 08/11/2004 is 1.96, on 09/11/2004 is 3.03. What is average night data the next night? Just tell the answer",
-        "assistant": 1.87
+        "user": "Average day data of CO on 03/02/2005 is 2.68, on 04/02/2005 is 2.14, on 05/02/2005 is 1.46, on 06/02/2005 is 1.1. What is average day data the next day? Just tell the answer",
+        "assistant": "1.59"
     },
     {
-        "user": "Average day data of CO on 11/11/2004 is 3.46, on 12/11/2004 is 1.74, on 13/11/2004 is 2.51, on 14/11/2004 is 0.45. What is average day data the next day? Just tell the answer",
-        "assistant": 1.68
+        "user": "Average night data of CO on 03/02/2005 is -14.14, on 04/02/2005 is 1.56, on 05/02/2005 is 1.41, on 06/02/2005 is -15.47. What is average night data the next night? Just tell the answer",
+        "assistant": "1.2"
     },
     {
-        "user": "Average night data of CO on 11/11/2004 is 2.37, on 12/11/2004 is 2.23, on 13/11/2004 is 1.38, on 14/11/2004 is 0.78. What is average night data the next night? Just tell the answer",
-        "assistant": 1.71
+        "user": "Average day data of CO on 08/02/2005 is 1.73, on 09/02/2005 is 2.01, on 10/02/2005 is 2.76, on 11/02/2005 is 4.88. What is average day data the next day? Just tell the answer",
+        "assistant": "2.89"
     },
     {
-        "user": "Average day data of CO on 16/11/2004 is 2.83, on 17/11/2004 is 3.64, on 18/11/2004 is 3.81, on 19/11/2004 is 4.31. What is average day data the next day? Just tell the answer",
-        "assistant": 1.96
+        "user": "Average night data of CO on 08/02/2005 is 1.14, on 09/02/2005 is -14.86, on 10/02/2005 is 3.18, on 11/02/2005 is 3.44. What is average night data the next night? Just tell the answer",
+        "assistant": "-12.83"
     },
     {
-        "user": "Average night data of CO on 16/11/2004 is 1.83, on 17/11/2004 is 3.13, on 18/11/2004 is 2.94, on 19/11/2004 is 3.53. What is average night data the next night? Just tell the answer",
-        "assistant": 1.93
+        "user": "Average day data of CO on 13/02/2005 is 2.11, on 14/02/2005 is 1.54, on 15/02/2005 is 1.24, on 16/02/2005 is 1.8. What is average day data the next day? Just tell the answer",
+        "assistant": "1.53"
     },
     {
-        "user": "Average day data of CO on 21/11/2004 is 0.9, on 22/11/2004 is 2.61, on 23/11/2004 is 5.08, on 24/11/2004 is 2.93. What is average day data the next day? Just tell the answer",
-        "assistant": 3.03
+        "user": "Average night data of CO on 13/02/2005 is 2.56, on 14/02/2005 is 1.83, on 15/02/2005 is -15.12, on 16/02/2005 is 2.61. What is average night data the next night? Just tell the answer",
+        "assistant": "2.0"
     },
     {
-        "user": "Average night data of CO on 21/11/2004 is 1.13, on 22/11/2004 is 2.89, on 23/11/2004 is 5.04, on 24/11/2004 is 4.03. What is average night data the next night? Just tell the answer",
-        "assistant": 2.84
+        "user": "Average day data of CO on 18/02/2005 is 1.62, on 19/02/2005 is 1.57, on 20/02/2005 is 0.92, on 21/02/2005 is 1.93. What is average day data the next day? Just tell the answer",
+        "assistant": "2.56"
     },
     {
-        "user": "Average day data of CO on 26/11/2004 is 4.66, on 27/11/2004 is 3.77, on 28/11/2004 is 1.73, on 29/11/2004 is 3.55. What is average day data the next day? Just tell the answer",
-        "assistant": 2.53
+        "user": "Average night data of CO on 18/02/2005 is -14.69, on 19/02/2005 is 1.99, on 20/02/2005 is 1.45, on 21/02/2005 is -14.74. What is average night data the next night? Just tell the answer",
+        "assistant": "1.43"
     },
     {
-        "user": "Average night data of CO on 26/11/2004 is 4.63, on 27/11/2004 is 3.72, on 28/11/2004 is 2.7, on 29/11/2004 is 1.81. What is average night data the next night? Just tell the answer",
-        "assistant": 2.7
+        "user": "Average day data of CO on 23/02/2005 is 1.69, on 24/02/2005 is 2.24, on 25/02/2005 is 2.62, on 26/02/2005 is 1.93. What is average day data the next day? Just tell the answer",
+        "assistant": "1.25"
     },
     {
-        "user": "Average day data of CO on 01/12/2004 is 4.05, on 02/12/2004 is 3.43, on 03/12/2004 is 3.77, on 04/12/2004 is 2.34. What is average day data the next day? Just tell the answer",
-        "assistant": 1.29
+        "user": "Average night data of CO on 23/02/2005 is 1.73, on 24/02/2005 is -14.61, on 25/02/2005 is 2.24, on 26/02/2005 is 2.75. What is average night data the next night? Just tell the answer",
+        "assistant": "-14.54"
     },
     {
-        "user": "Average night data of CO on 01/12/2004 is 2.29, on 02/12/2004 is 4.12, on 03/12/2004 is 3.31, on 04/12/2004 is 2.54. What is average night data the next night? Just tell the answer",
-        "assistant": 1.5
+        "user": "Average day data of CO on 28/02/2005 is 0.86, on 01/03/2005 is 0.98, on 02/03/2005 is 1.7, on 03/03/2005 is 1.97. What is average day data the next day? Just tell the answer",
+        "assistant": "3.63"
     },
     {
-        "user": "Average day data of CO on 06/12/2004 is 2.98, on 07/12/2004 is 2.81, on 08/12/2004 is 1.63, on 09/12/2004 is 1.45. What is average day data the next day? Just tell the answer",
-        "assistant": 1.69
+        "user": "Average night data of CO on 28/02/2005 is 1.19, on 01/03/2005 is 1.07, on 02/03/2005 is -14.77, on 03/03/2005 is 2.37. What is average night data the next night? Just tell the answer",
+        "assistant": "2.21"
     },
     {
-        "user": "Average night data of CO on 06/12/2004 is 1.79, on 07/12/2004 is 1.92, on 08/12/2004 is 2.14, on 09/12/2004 is 1.35. What is average night data the next night? Just tell the answer",
-        "assistant": 1.76
+        "user": "Average day data of CO on 05/03/2005 is 1.53, on 06/03/2005 is 1.13, on 07/03/2005 is 1.32, on 08/03/2005 is 2.53. What is average day data the next day? Just tell the answer",
+        "assistant": "2.7"
     },
     {
-        "user": "Average day data of CO on 11/12/2004 is 2.1, on 12/12/2004 is 2.8, on 13/12/2004 is 3.7, on 14/12/2004 is 4.12. What is average day data the next day? Just tell the answer",
-        "assistant": 3.8
+        "user": "Average night data of CO on 05/03/2005 is -14.76, on 06/03/2005 is 1.53, on 07/03/2005 is 1.79, on 08/03/2005 is -14.43. What is average night data the next night? Just tell the answer",
+        "assistant": "2.54"
     },
     {
-        "user": "Average night data of CO on 11/12/2004 is 1.76, on 12/12/2004 is 2.88, on 13/12/2004 is 3.27, on 14/12/2004 is 3.25. What is average night data the next night? Just tell the answer",
-        "assistant": 2.38
+        "user": "Average day data of CO on 10/03/2005 is 2.42, on 11/03/2005 is 1.72, on 12/03/2005 is -32.98, on 13/03/2005 is -49.53. What is average day data the next day? Just tell the answer",
+        "assistant": "2.27"
     },
     {
-        "user": "Average day data of CO on 16/12/2004 is 4.15, on 17/12/2004 is 3.83, on 18/12/2004 is 1.49, on 19/12/2004 is 2.22. What is average day data the next day? Just tell the answer",
-        "assistant": 2.38
+        "user": "Average night data of CO on 10/03/2005 is 2.28, on 11/03/2005 is -15.16, on 12/03/2005 is -32.46, on 13/03/2005 is -49.17. What is average night data the next night? Just tell the answer",
+        "assistant": "-14.33"
     },
     {
-        "user": "Average night data of CO on 16/12/2004 is 4.73, on 17/12/2004 is 3.01, on 18/12/2004 is 2.03, on 19/12/2004 is 3.29. What is average night data the next night? Just tell the answer",
-        "assistant": 2.34
+        "user": "Average day data of CO on 15/03/2005 is 2.36, on 16/03/2005 is 2.73, on 17/03/2005 is 2.61, on 18/03/2005 is 2.84. What is average day data the next day? Just tell the answer",
+        "assistant": "1.88"
     },
     {
-        "user": "Average day data of CO on 21/12/2004 is 2.21, on 22/12/2004 is 2.11, on 23/12/2004 is 3.72, on 24/12/2004 is 5.98. What is average day data the next day? Just tell the answer",
-        "assistant": 3.07
+        "user": "Average night data of CO on 15/03/2005 is 2.62, on 16/03/2005 is 2.32, on 17/03/2005 is -14.49, on 18/03/2005 is 2.51. What is average night data the next night? Just tell the answer",
+        "assistant": "1.94"
     },
     {
-        "user": "Average night data of CO on 21/12/2004 is 1.86, on 22/12/2004 is 2.35, on 23/12/2004 is 4.4, on 24/12/2004 is 4.66. What is average night data the next night? Just tell the answer",
-        "assistant": 4.85
+        "user": "Average day data of CO on 20/03/2005 is 1.17, on 21/03/2005 is 2.57, on 22/03/2005 is 2.43, on 23/03/2005 is 2.67. What is average day data the next day? Just tell the answer",
+        "assistant": "2.52"
     },
     {
-        "user": "Average day data of CO on 26/12/2004 is 1.08, on 27/12/2004 is 1.67, on 28/12/2004 is NA, on 29/12/2004 is NA. What is average day data the next day? Just tell the answer",
-        "assistant": "NA"
+        "user": "Average night data of CO on 20/03/2005 is -14.73, on 21/03/2005 is 2.53, on 22/03/2005 is 2.43, on 23/03/2005 is -13.69. What is average night data the next night? Just tell the answer",
+        "assistant": "2.83"
     },
     {
-        "user": "Average night data of CO on 26/12/2004 is 1.78, on 27/12/2004 is 1.47, on 28/12/2004 is 1.2, on 29/12/2004 is NA. What is average night data the next night? Just tell the answer",
-        "assistant": "NA"
+        "user": "Average day data of CO on 25/03/2005 is 2.32, on 26/03/2005 is 1.62, on 27/03/2005 is 1.2, on 28/03/2005 is 1.28. What is average day data the next day? Just tell the answer",
+        "assistant": "2.92"
     },
     {
-        "user": "Average day data of CO on 31/12/2004 is NA, on 01/01/2005 is 1.84, on 02/01/2005 is 1.87, on 03/01/2005 is 2.13. What is average day data the next day? Just tell the answer",
-        "assistant": 2.82
+        "user": "Average night data of CO on 25/03/2005 is 2.69, on 26/03/2005 is -14.93, on 27/03/2005 is 1.47, on 28/03/2005 is 1.72. What is average night data the next night? Just tell the answer",
+        "assistant": "-15.1"
     },
     {
-        "user": "Average night data of CO on 31/12/2004 is NA, on 01/01/2005 is 2.45, on 02/01/2005 is 2.23, on 03/01/2005 is 2.97. What is average night data the next night? Just tell the answer",
-        "assistant": 2.14
+        "user": "Average day data of CO on 30/03/2005 is 2.15, on 31/03/2005 is 1.69, on 01/04/2005 is 1.23, on 02/04/2005 is 0.87. What is average day data the next day? Just tell the answer",
+        "assistant": "1.07"
     },
     {
-        "user": "Average day data of CO on 05/01/2005 is 3.8, on 06/01/2005 is 1.49, on 07/01/2005 is 2.48, on 08/01/2005 is 2.9. What is average day data the next day? Just tell the answer",
-        "assistant": 1.57
-    },
-    {
-        "user": "Average night data of CO on 05/01/2005 is 2.23, on 06/01/2005 is 1.86, on 07/01/2005 is 2.85, on 08/01/2005 is 2.71. What is average night data the next night? Just tell the answer",
-        "assistant": 1.86
-    },
-    {
-        "user": "Average day data of CO on 10/01/2005 is -14.63, on 11/01/2005 is 3.13, on 12/01/2005 is 3.29, on 13/01/2005 is 2.87. What is average day data the next day? Just tell the answer",
-        "assistant": 3.38
-    },
-    {
-        "user": "Average night data of CO on 10/01/2005 is -14.8, on 11/01/2005 is 2.49, on 12/01/2005 is 3.25, on 13/01/2005 is 2.49. What is average night data the next night? Just tell the answer",
-        "assistant": 2.93
-    },
-    {
-        "user": "Average day data of CO on 15/01/2005 is 2.6, on 16/01/2005 is 1.1, on 17/01/2005 is 2.93, on 18/01/2005 is 4.08. What is average day data the next day? Just tell the answer",
-        "assistant": -49.65
-    },
-    {
-        "user": "Average night data of CO on 15/01/2005 is 2.77, on 16/01/2005 is 1.96, on 17/01/2005 is 2.76, on 18/01/2005 is 1.99. What is average night data the next night? Just tell the answer",
-        "assistant": -48.88
-    },
-    {
-        "user": "Average day data of CO on 20/01/2005 is 2.9, on 21/01/2005 is 3.57, on 22/01/2005 is -32.53, on 23/01/2005 is -200.0. What is average day data the next day? Just tell the answer",
-        "assistant": 1.02
-    },
-    {
-        "user": "Average night data of CO on 20/01/2005 is 2.17, on 21/01/2005 is 2.53, on 22/01/2005 is 1.27, on 23/01/2005 is -183.27. What is average night data the next night? Just tell the answer",
-        "assistant": -99.59
-    },
-    {
-        "user": "Average day data of CO on 25/01/2005 is -33.02, on 26/01/2005 is -33.08, on 27/01/2005 is 1.4, on 28/01/2005 is 1.54. What is average day data the next day? Just tell the answer",
-        "assistant": 0.99
-    },
-    {
-        "user": "Average night data of CO on 25/01/2005 is -116.4, on 26/01/2005 is -99.54, on 27/01/2005 is -32.22, on 28/01/2005 is 1.37. What is average night data the next night? Just tell the answer",
-        "assistant": 1.0
-    },
-    {
-        "user": "Average day data of CO on 30/01/2005 is 0.78, on 31/01/2005 is -14.36, on 01/02/2005 is 3.52, on 02/02/2005 is 3.4. What is average day data the next day? Just tell the answer",
-        "assistant": 2.68
-    },
-    {
-        "user": "Average night data of CO on 30/01/2005 is -15.58, on 31/01/2005 is 2.68, on 01/02/2005 is 2.21, on 02/02/2005 is 3.3. What is average night data the next night? Just tell the answer",
-        "assistant": -14.14
-    },
-    {
-        "user": "Average day data of CO on 04/02/2005 is 2.14, on 05/02/2005 is 1.46, on 06/02/2005 is 1.1, on 07/02/2005 is 1.59. What is average day data the next day? Just tell the answer",
-        "assistant": 1.73
-    },
-    {
-        "user": "Average night data of CO on 04/02/2005 is 1.56, on 05/02/2005 is 1.41, on 06/02/2005 is -15.47, on 07/02/2005 is 1.2. What is average night data the next night? Just tell the answer",
-        "assistant": 1.14
-    },
-    {
-        "user": "Average day data of CO on 09/02/2005 is 2.01, on 10/02/2005 is 2.76, on 11/02/2005 is 4.88, on 12/02/2005 is 2.89. What is average day data the next day? Just tell the answer",
-        "assistant": 2.11
-    },
-    {
-        "user": "Average night data of CO on 09/02/2005 is -14.86, on 10/02/2005 is 3.18, on 11/02/2005 is 3.44, on 12/02/2005 is -12.83. What is average night data the next night? Just tell the answer",
-        "assistant": 2.56
-    },
-    {
-        "user": "Average day data of CO on 14/02/2005 is 1.54, on 15/02/2005 is 1.24, on 16/02/2005 is 1.8, on 17/02/2005 is 1.53. What is average day data the next day? Just tell the answer",
-        "assistant": 1.62
-    },
-    {
-        "user": "Average night data of CO on 14/02/2005 is 1.83, on 15/02/2005 is -15.12, on 16/02/2005 is 2.61, on 17/02/2005 is 2.0. What is average night data the next night? Just tell the answer",
-        "assistant": -14.69
-    },
-    {
-        "user": "Average day data of CO on 19/02/2005 is 1.57, on 20/02/2005 is 0.92, on 21/02/2005 is 1.93, on 22/02/2005 is 2.56. What is average day data the next day? Just tell the answer",
-        "assistant": 1.69
-    },
-    {
-        "user": "Average night data of CO on 19/02/2005 is 1.99, on 20/02/2005 is 1.45, on 21/02/2005 is -14.74, on 22/02/2005 is 1.43. What is average night data the next night? Just tell the answer",
-        "assistant": 1.73
-    },
-    {
-        "user": "Average day data of CO on 24/02/2005 is 2.24, on 25/02/2005 is 2.62, on 26/02/2005 is 1.93, on 27/02/2005 is 1.25. What is average day data the next day? Just tell the answer",
-        "assistant": 0.86
-    },
-    {
-        "user": "Average night data of CO on 24/02/2005 is -14.61, on 25/02/2005 is 2.24, on 26/02/2005 is 2.75, on 27/02/2005 is -14.54. What is average night data the next night? Just tell the answer",
-        "assistant": 1.19
-    },
-    {
-        "user": "Average day data of CO on 01/03/2005 is 0.98, on 02/03/2005 is 1.7, on 03/03/2005 is 1.97, on 04/03/2005 is 3.63. What is average day data the next day? Just tell the answer",
-        "assistant": 1.53
-    },
-    {
-        "user": "Average night data of CO on 01/03/2005 is 1.07, on 02/03/2005 is -14.77, on 03/03/2005 is 2.37, on 04/03/2005 is 2.21. What is average night data the next night? Just tell the answer",
-        "assistant": -14.76
-    },
-    {
-        "user": "Average day data of CO on 06/03/2005 is 1.13, on 07/03/2005 is 1.32, on 08/03/2005 is 2.53, on 09/03/2005 is 2.7. What is average day data the next day? Just tell the answer",
-        "assistant": 2.42
-    },
-    {
-        "user": "Average night data of CO on 06/03/2005 is 1.53, on 07/03/2005 is 1.79, on 08/03/2005 is -14.43, on 09/03/2005 is 2.54. What is average night data the next night? Just tell the answer",
-        "assistant": 2.28
-    },
-    {
-        "user": "Average day data of CO on 11/03/2005 is 1.72, on 12/03/2005 is -32.98, on 13/03/2005 is -49.53, on 14/03/2005 is 2.27. What is average day data the next day? Just tell the answer",
-        "assistant": 2.36
-    },
-    {
-        "user": "Average night data of CO on 11/03/2005 is -15.16, on 12/03/2005 is -32.46, on 13/03/2005 is -49.17, on 14/03/2005 is -14.33. What is average night data the next night? Just tell the answer",
-        "assistant": 2.62
-    },
-    {
-        "user": "Average day data of CO on 16/03/2005 is 2.73, on 17/03/2005 is 2.61, on 18/03/2005 is 2.84, on 19/03/2005 is 1.88. What is average day data the next day? Just tell the answer",
-        "assistant": 1.17
-    },
-    {
-        "user": "Average night data of CO on 16/03/2005 is 2.32, on 17/03/2005 is -14.49, on 18/03/2005 is 2.51, on 19/03/2005 is 1.94. What is average night data the next night? Just tell the answer",
-        "assistant": -14.73
-    },
-    {
-        "user": "Average day data of CO on 21/03/2005 is 2.57, on 22/03/2005 is 2.43, on 23/03/2005 is 2.67, on 24/03/2005 is 2.52. What is average day data the next day? Just tell the answer",
-        "assistant": 2.32
-    },
-    {
-        "user": "Average night data of CO on 21/03/2005 is 2.53, on 22/03/2005 is 2.43, on 23/03/2005 is -13.69, on 24/03/2005 is 2.83. What is average night data the next night? Just tell the answer",
-        "assistant": 2.69
-    },
-    {
-        "user": "Average day data of CO on 26/03/2005 is 1.62, on 27/03/2005 is 1.2, on 28/03/2005 is 1.28, on 29/03/2005 is 2.92. What is average day data the next day? Just tell the answer",
-        "assistant": 2.15
-    },
-    {
-        "user": "Average night data of CO on 26/03/2005 is -14.93, on 27/03/2005 is 1.47, on 28/03/2005 is 1.72, on 29/03/2005 is -15.1. What is average night data the next night? Just tell the answer",
-        "assistant": 1.68
+        "user": "Average night data of CO on 30/03/2005 is 1.68, on 31/03/2005 is 1.08, on 01/04/2005 is -15.77, on 02/04/2005 is 0.84. What is average night data the next night? Just tell the answer",
+        "assistant": "1.22"
     }
 ]

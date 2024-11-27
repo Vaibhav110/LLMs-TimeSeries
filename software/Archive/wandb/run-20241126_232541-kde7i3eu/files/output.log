@@ -1,0 +1,80 @@
+                                                                                                                                                            
+{'loss': 0.8678, 'grad_norm': 0.318359375, 'learning_rate': 4e-05, 'epoch': 0.0}
+{'loss': 0.9631, 'grad_norm': 0.37890625, 'learning_rate': 8e-05, 'epoch': 0.0}
+{'loss': 1.1662, 'grad_norm': 0.40625, 'learning_rate': 0.00012, 'epoch': 0.0}
+{'loss': 1.0502, 'grad_norm': 0.349609375, 'learning_rate': 0.00016, 'epoch': 0.0}
+{'loss': 0.8413, 'grad_norm': 0.326171875, 'learning_rate': 0.0002, 'epoch': 0.0}
+{'loss': 1.0631, 'grad_norm': 0.353515625, 'learning_rate': 0.00019999199839967994, 'epoch': 0.0}
+{'loss': 0.7539, 'grad_norm': 0.287109375, 'learning_rate': 0.0001999839967993599, 'epoch': 0.0}
+{'loss': 1.1164, 'grad_norm': 0.333984375, 'learning_rate': 0.00019997599519903982, 'epoch': 0.0}
+{'loss': 1.0084, 'grad_norm': 0.263671875, 'learning_rate': 0.00019996799359871977, 'epoch': 0.0}
+{'loss': 0.882, 'grad_norm': 0.267578125, 'learning_rate': 0.0001999599919983997, 'epoch': 0.0}
+{'loss': 1.0007, 'grad_norm': 0.2275390625, 'learning_rate': 0.00019995199039807963, 'epoch': 0.0}
+{'loss': 1.2551, 'grad_norm': 0.27734375, 'learning_rate': 0.00019994398879775955, 'epoch': 0.0}
+{'loss': 1.0641, 'grad_norm': 0.322265625, 'learning_rate': 0.00019993598719743948, 'epoch': 0.0}
+{'loss': 0.7493, 'grad_norm': 0.263671875, 'learning_rate': 0.00019992798559711943, 'epoch': 0.0}
+{'loss': 1.0033, 'grad_norm': 0.244140625, 'learning_rate': 0.00019991998399679936, 'epoch': 0.0}
+{'loss': 0.7387, 'grad_norm': 0.28515625, 'learning_rate': 0.00019991198239647931, 'epoch': 0.0}
+{'loss': 1.1462, 'grad_norm': 0.30078125, 'learning_rate': 0.00019990398079615924, 'epoch': 0.0}
+{'loss': 0.9775, 'grad_norm': 0.359375, 'learning_rate': 0.00019989597919583917, 'epoch': 0.0}
+{'loss': 0.8779, 'grad_norm': 0.2451171875, 'learning_rate': 0.00019988797759551912, 'epoch': 0.0}
+{'loss': 1.0118, 'grad_norm': 0.32421875, 'learning_rate': 0.00019987997599519905, 'epoch': 0.0}
+{'loss': 0.9936, 'grad_norm': 0.31640625, 'learning_rate': 0.000199871974394879, 'epoch': 0.0}
+{'loss': 0.9832, 'grad_norm': 0.2734375, 'learning_rate': 0.00019986397279455893, 'epoch': 0.0}
+{'loss': 1.1389, 'grad_norm': 0.240234375, 'learning_rate': 0.00019985597119423886, 'epoch': 0.0}
+{'loss': 0.9874, 'grad_norm': 0.333984375, 'learning_rate': 0.00019984796959391878, 'epoch': 0.0}
+{'loss': 0.7589, 'grad_norm': 0.2578125, 'learning_rate': 0.0001998399679935987, 'epoch': 0.0}
+{'loss': 0.9479, 'grad_norm': 0.283203125, 'learning_rate': 0.00019983196639327867, 'epoch': 0.0}
+{'loss': 0.9686, 'grad_norm': 0.34765625, 'learning_rate': 0.0001998239647929586, 'epoch': 0.0}
+{'loss': 0.898, 'grad_norm': 0.3125, 'learning_rate': 0.00019981596319263855, 'epoch': 0.0}
+{'loss': 1.2519, 'grad_norm': 0.287109375, 'learning_rate': 0.00019980796159231847, 'epoch': 0.0}
+{'loss': 1.1776, 'grad_norm': 0.31640625, 'learning_rate': 0.0001997999599919984, 'epoch': 0.0}
+{'loss': 0.8136, 'grad_norm': 0.302734375, 'learning_rate': 0.00019979195839167835, 'epoch': 0.0}
+{'loss': 0.6322, 'grad_norm': 0.2177734375, 'learning_rate': 0.00019978395679135828, 'epoch': 0.0}
+{'loss': 0.7488, 'grad_norm': 0.322265625, 'learning_rate': 0.00019977595519103824, 'epoch': 0.0}
+{'loss': 0.6934, 'grad_norm': 0.25390625, 'learning_rate': 0.00019976795359071816, 'epoch': 0.0}
+{'loss': 0.8784, 'grad_norm': 0.283203125, 'learning_rate': 0.0001997599519903981, 'epoch': 0.0}
+{'loss': 1.1019, 'grad_norm': 0.30859375, 'learning_rate': 0.00019975195039007804, 'epoch': 0.0}
+{'loss': 1.023, 'grad_norm': 0.328125, 'learning_rate': 0.00019974394878975794, 'epoch': 0.0}
+{'loss': 0.8155, 'grad_norm': 0.248046875, 'learning_rate': 0.0001997359471894379, 'epoch': 0.0}
+{'loss': 0.8781, 'grad_norm': 0.28515625, 'learning_rate': 0.00019972794558911782, 'epoch': 0.0}
+{'loss': 1.1248, 'grad_norm': 0.2734375, 'learning_rate': 0.00019971994398879775, 'epoch': 0.0}
+{'loss': 0.8496, 'grad_norm': 0.314453125, 'learning_rate': 0.0001997119423884777, 'epoch': 0.0}
+{'loss': 1.1751, 'grad_norm': 0.310546875, 'learning_rate': 0.00019970394078815763, 'epoch': 0.0}
+{'loss': 0.8717, 'grad_norm': 0.259765625, 'learning_rate': 0.00019969593918783759, 'epoch': 0.0}
+{'loss': 0.9507, 'grad_norm': 0.294921875, 'learning_rate': 0.0001996879375875175, 'epoch': 0.0}
+{'loss': 0.8617, 'grad_norm': 0.291015625, 'learning_rate': 0.00019967993598719744, 'epoch': 0.0}
+{'loss': 0.9833, 'grad_norm': 0.294921875, 'learning_rate': 0.0001996719343868774, 'epoch': 0.0}
+{'loss': 0.886, 'grad_norm': 0.306640625, 'learning_rate': 0.00019966393278655732, 'epoch': 0.0}
+{'loss': 0.7657, 'grad_norm': 0.2451171875, 'learning_rate': 0.00019965593118623727, 'epoch': 0.0}
+{'loss': 1.1312, 'grad_norm': 0.380859375, 'learning_rate': 0.0001996479295859172, 'epoch': 0.0}
+{'loss': 1.1315, 'grad_norm': 0.298828125, 'learning_rate': 0.00019963992798559713, 'epoch': 0.0}
+{'loss': 0.5281, 'grad_norm': 0.2158203125, 'learning_rate': 0.00019963192638527706, 'epoch': 0.0}
+{'loss': 1.0636, 'grad_norm': 0.2236328125, 'learning_rate': 0.00019962392478495698, 'epoch': 0.0}
+{'loss': 1.5063, 'grad_norm': 0.78515625, 'learning_rate': 0.00019961592318463694, 'epoch': 0.0}
+{'loss': 0.7853, 'grad_norm': 0.29296875, 'learning_rate': 0.00019960792158431686, 'epoch': 0.0}
+{'loss': 1.2252, 'grad_norm': 0.375, 'learning_rate': 0.00019959991998399682, 'epoch': 0.0}
+{'loss': 1.2736, 'grad_norm': 0.26171875, 'learning_rate': 0.00019959191838367674, 'epoch': 0.0}
+{'loss': 0.8505, 'grad_norm': 0.224609375, 'learning_rate': 0.00019958391678335667, 'epoch': 0.0}
+{'loss': 0.9854, 'grad_norm': 0.25, 'learning_rate': 0.00019957591518303663, 'epoch': 0.0}
+{'loss': 0.8566, 'grad_norm': 0.25390625, 'learning_rate': 0.00019956791358271655, 'epoch': 0.0}
+{'loss': 1.0477, 'grad_norm': 0.287109375, 'learning_rate': 0.0001995599119823965, 'epoch': 0.0}
+{'loss': 0.8449, 'grad_norm': 0.28125, 'learning_rate': 0.00019955191038207643, 'epoch': 0.0}
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 113, in <module>
+    main(args)
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 75, in main
+    trainer_stats = trainer.train()
+                    ^^^^^^^^^^^^^^^
+  File "<string>", line 157, in train
+  File "<string>", line 380, in _fast_inner_training_loop
+  File "<string>", line 64, in _unsloth_training_step
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/accelerate/accelerator.py", line 2241, in backward
+    loss.backward(**kwargs)
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/autograd/__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

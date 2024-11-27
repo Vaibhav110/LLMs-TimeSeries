@@ -1,0 +1,16 @@
+{"time":"2024-11-26T23:32:50.728876967-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:32:50.728895635-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_233250-dg95j1dn/logs/debug-core.log"}
+{"time":"2024-11-26T23:32:50.939251362-08:00","level":"INFO","msg":"created new stream","id":"dg95j1dn"}
+{"time":"2024-11-26T23:32:50.9393164-08:00","level":"INFO","msg":"stream: started","id":"dg95j1dn"}
+{"time":"2024-11-26T23:32:50.939373145-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:32:50.93939617-08:00","level":"INFO","msg":"sender: started","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:32:50.939441818-08:00","level":"INFO","msg":"handler: started","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:32:51.136751931-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:33:08.423534087-08:00","level":"INFO","msg":"stream: closing","id":"dg95j1dn"}
+{"time":"2024-11-26T23:33:08.423630892-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:33:08.424528431-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:33:08.98051672-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:33:09.391072611-08:00","level":"INFO","msg":"handler: closed","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:33:09.391159501-08:00","level":"INFO","msg":"sender: closed","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:33:09.391149136-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dg95j1dn"}
+{"time":"2024-11-26T23:33:09.391312972-08:00","level":"INFO","msg":"stream: closed","id":"dg95j1dn"}

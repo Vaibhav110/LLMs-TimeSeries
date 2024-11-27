@@ -1,0 +1,168 @@
+                                                                                                                                                            
+{'loss': 1.6934, 'grad_norm': 4.362232208251953, 'learning_rate': 4e-05, 'epoch': 0.05}
+{'loss': 1.5152, 'grad_norm': 3.7122342586517334, 'learning_rate': 8e-05, 'epoch': 0.11}
+{'loss': 1.8732, 'grad_norm': 6.134314060211182, 'learning_rate': 0.00012, 'epoch': 0.16}
+{'loss': 1.6651, 'grad_norm': 3.284294605255127, 'learning_rate': 0.00016, 'epoch': 0.22}
+{'loss': 1.3919, 'grad_norm': 1.7223716974258423, 'learning_rate': 0.0002, 'epoch': 0.27}
+{'loss': 1.2888, 'grad_norm': 1.7576417922973633, 'learning_rate': 0.00019354838709677422, 'epoch': 0.32}
+{'loss': 1.4026, 'grad_norm': 2.0585029125213623, 'learning_rate': 0.0001870967741935484, 'epoch': 0.38}
+{'loss': 1.6132, 'grad_norm': 2.4849913120269775, 'learning_rate': 0.00018064516129032257, 'epoch': 0.43}
+{'loss': 1.4136, 'grad_norm': 1.9894858598709106, 'learning_rate': 0.00017419354838709678, 'epoch': 0.49}
+{'loss': 1.5139, 'grad_norm': 1.7237212657928467, 'learning_rate': 0.00016774193548387098, 'epoch': 0.54}
+{'loss': 1.5157, 'grad_norm': 1.5512290000915527, 'learning_rate': 0.00016129032258064516, 'epoch': 0.59}
+{'loss': 1.5231, 'grad_norm': 2.0626235008239746, 'learning_rate': 0.00015483870967741937, 'epoch': 0.65}
+{'loss': 1.3066, 'grad_norm': 1.263580560684204, 'learning_rate': 0.00014838709677419355, 'epoch': 0.7}
+{'loss': 1.1777, 'grad_norm': 1.3669648170471191, 'learning_rate': 0.00014193548387096775, 'epoch': 0.76}
+{'loss': 1.4614, 'grad_norm': 1.5738701820373535, 'learning_rate': 0.00013548387096774193, 'epoch': 0.81}
+{'loss': 1.285, 'grad_norm': 1.5175460577011108, 'learning_rate': 0.00012903225806451613, 'epoch': 0.86}
+{'loss': 1.1728, 'grad_norm': 0.9141402840614319, 'learning_rate': 0.00012258064516129034, 'epoch': 0.92}
+{'loss': 1.2265, 'grad_norm': 0.7869054079055786, 'learning_rate': 0.00011612903225806453, 'epoch': 0.97}
+Traceback (most recent call last):                                                                                                                          
+{'eval_loss': 1.0561832189559937, 'eval_runtime': 0.1496, 'eval_samples_per_second': 53.459, 'eval_steps_per_second': 26.729, 'epoch': 0.97}
+{'loss': 1.8944, 'grad_norm': 1.4426504373550415, 'learning_rate': 0.00010967741935483871, 'epoch': 1.03}
+{'loss': 1.4937, 'grad_norm': 1.2226568460464478, 'learning_rate': 0.0001032258064516129, 'epoch': 1.08}
+{'loss': 1.0951, 'grad_norm': 0.9529940485954285, 'learning_rate': 9.677419354838711e-05, 'epoch': 1.14}
+{'loss': 1.2414, 'grad_norm': 0.721457839012146, 'learning_rate': 9.032258064516129e-05, 'epoch': 1.19}
+{'loss': 1.4101, 'grad_norm': 1.0450998544692993, 'learning_rate': 8.387096774193549e-05, 'epoch': 1.24}
+{'loss': 1.0679, 'grad_norm': 1.2641713619232178, 'learning_rate': 7.741935483870968e-05, 'epoch': 1.3}
+{'loss': 1.1635, 'grad_norm': 0.8779916167259216, 'learning_rate': 7.096774193548388e-05, 'epoch': 1.35}
+{'loss': 1.0702, 'grad_norm': 1.5041359663009644, 'learning_rate': 6.451612903225807e-05, 'epoch': 1.41}
+{'loss': 1.3003, 'grad_norm': 0.8580968379974365, 'learning_rate': 5.8064516129032266e-05, 'epoch': 1.46}
+{'loss': 1.3009, 'grad_norm': 1.3174903392791748, 'learning_rate': 5.161290322580645e-05, 'epoch': 1.51}
+{'loss': 1.2167, 'grad_norm': 0.8255199790000916, 'learning_rate': 4.516129032258064e-05, 'epoch': 1.57}
+{'loss': 1.3718, 'grad_norm': 1.7032347917556763, 'learning_rate': 3.870967741935484e-05, 'epoch': 1.62}
+{'loss': 1.0783, 'grad_norm': 0.7560184001922607, 'learning_rate': 3.2258064516129034e-05, 'epoch': 1.68}
+{'loss': 1.1089, 'grad_norm': 0.9576472640037537, 'learning_rate': 2.5806451612903226e-05, 'epoch': 1.73}
+{'loss': 1.3507, 'grad_norm': 1.1068991422653198, 'learning_rate': 1.935483870967742e-05, 'epoch': 1.78}
+{'loss': 1.1074, 'grad_norm': 1.3120263814926147, 'learning_rate': 1.2903225806451613e-05, 'epoch': 1.84}
+{'loss': 1.1931, 'grad_norm': 1.0230562686920166, 'learning_rate': 6.451612903225806e-06, 'epoch': 1.89}
+{'loss': 1.2755, 'grad_norm': 1.7111719846725464, 'learning_rate': 0.0, 'epoch': 1.95}
+{'eval_loss': 1.0540568828582764, 'eval_runtime': 0.3945, 'eval_samples_per_second': 20.279, 'eval_steps_per_second': 10.14, 'epoch': 1.95}
+{'train_runtime': 25.3568, 'train_samples_per_second': 11.673, 'train_steps_per_second': 1.42, 'train_loss': 1.354987273613612, 'epoch': 1.95}
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/language/core.py", line 35, in wrapper
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/language/core.py", line 1534, in dot
+    return semantic.dot(input, other, acc, input_precision, max_num_imprecise_acc, out_dtype, _builder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/language/semantic.py", line 1355, in dot
+    assert_dtypes_valid(lhs.dtype, rhs.dtype, builder.options)
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/language/semantic.py", line 1352, in assert_dtypes_valid
+    assert lhs_dtype == rhs_dtype, f"First input ({lhs_dtype}) and second input ({rhs_dtype}) must have the same dtype!"
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: First input (bf16) and second input (fp16) must have the same dtype!
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 112, in <module>
+    main(args)
+  File "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py", line 75, in main
+    eval_stats = trainer.evaluate()
+                 ^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/transformers/trainer.py", line 3975, in evaluate
+    output = eval_loop(
+             ^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/transformers/trainer.py", line 4169, in evaluation_loop
+    losses, logits, labels = self.prediction_step(model, inputs, prediction_loss_only, ignore_keys=ignore_keys)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/transformers/trainer.py", line 4385, in prediction_step
+    loss, outputs = self.compute_loss(model, inputs, return_outputs=True)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/unsloth/models/_utils.py", line 1028, in _unsloth_pre_compute_loss
+    return self._old_compute_loss(model, inputs, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/transformers/trainer.py", line 3633, in compute_loss
+    outputs = model(**inputs)
+              ^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/accelerate/utils/operations.py", line 823, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/accelerate/utils/operations.py", line 811, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/amp/autocast_mode.py", line 44, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/_compile.py", line 32, in inner
+    return disable_fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 632, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/unsloth/models/llama.py", line 1084, in PeftModelForCausalLM_fast_forward
+    return self.base_model(
+           ^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/peft/tuners/tuners_utils.py", line 197, in forward
+    return self.model.forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/accelerate/hooks.py", line 170, in new_forward
+    output = module._old_forward(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/unsloth/models/llama.py", line 986, in _CausalLM_fast_forward
+    loss = fused_linear_cross_entropy(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/unsloth_zoo/loss_utils.py", line 147, in fused_linear_cross_entropy
+    loss = linear_cross_entropy(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/cut_cross_entropy/linear_cross_entropy.py", line 58, in linear_cross_entropy
+    return cce_linear_cross_entropy(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/cut_cross_entropy/cce.py", line 168, in cce_linear_cross_entropy
+    return linear_cross_entropy_apply(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/cut_cross_entropy/cce.py", line 125, in linear_cross_entropy_apply
+    loss = LinearCrossEntropyFunction.apply(e, c, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/torch/autograd/function.py", line 575, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/cut_cross_entropy/cce.py", line 46, in forward
+    ret = cce_lse_forward_kernel(
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/cut_cross_entropy/cce_lse_forward.py", line 182, in cce_lse_forward_kernel
+    _cce_lse_forward_kernel[grid](
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/runtime/jit.py", line 345, in <lambda>
+    return lambda *args, **kwargs: self.run(grid=grid, warmup=False, *args, **kwargs)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/runtime/autotuner.py", line 338, in run
+    return self.fn.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/runtime/autotuner.py", line 338, in run
+    return self.fn.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/runtime/jit.py", line 662, in run
+    kernel = self.compile(
+             ^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/compiler/compiler.py", line 276, in compile
+    module = src.make_ir(options, codegen_fns, context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vaibhav/miniconda3/envs/vai_llama/lib/python3.11/site-packages/triton/compiler/compiler.py", line 113, in make_ir
+    return ast_to_ttir(self.fn, self, context=context, options=options, codegen_fns=codegen_fns)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+triton.compiler.errors.CompilationError: at 60:16:
+
+    accum = tl.zeros((BLOCK_B, BLOCK_V), dtype=tl.float32)
+    for d in range(0, tl.cdiv(D, BLOCK_D)):
+        # Load the next block of A and B, generate a mask by checking the K dimension.
+        # If it is out of bounds, set it to 0.
+        if EVEN_D:
+            e = tl.load(e_ptrs)
+            c = tl.load(c_ptrs)
+        else:
+            e = tl.load(e_ptrs, mask=offs_d[None, :] < D - d * BLOCK_D, other=0.0)
+            c = tl.load(c_ptrs, mask=offs_d[:, None] < D - d * BLOCK_D, other=0.0)
+        accum = tl.dot(e, c, accum, input_precision=DOT_PRECISION)
+                ^

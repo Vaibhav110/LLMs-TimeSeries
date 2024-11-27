@@ -1,0 +1,16 @@
+{"time":"2024-11-26T23:35:28.485182934-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T23:35:28.485201111-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_233528-carw13ya/logs/debug-core.log"}
+{"time":"2024-11-26T23:35:28.996593108-08:00","level":"INFO","msg":"created new stream","id":"carw13ya"}
+{"time":"2024-11-26T23:35:28.99664784-08:00","level":"INFO","msg":"stream: started","id":"carw13ya"}
+{"time":"2024-11-26T23:35:28.996678446-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:28.996718707-08:00","level":"INFO","msg":"handler: started","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:28.996790565-08:00","level":"INFO","msg":"sender: started","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:29.228822419-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T23:35:44.627508116-08:00","level":"INFO","msg":"stream: closing","id":"carw13ya"}
+{"time":"2024-11-26T23:35:44.627548567-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T23:35:44.628243762-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T23:35:45.133781778-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T23:35:45.417073853-08:00","level":"INFO","msg":"handler: closed","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:45.417142767-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:45.417150999-08:00","level":"INFO","msg":"sender: closed","stream_id":"carw13ya"}
+{"time":"2024-11-26T23:35:45.41722459-08:00","level":"INFO","msg":"stream: closed","id":"carw13ya"}

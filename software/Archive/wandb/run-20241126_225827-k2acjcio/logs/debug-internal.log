@@ -1,0 +1,16 @@
+{"time":"2024-11-26T22:58:27.772737905-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T22:58:27.772752517-08:00","level":"INFO","msg":"created symlink","path":"/home/vaibhav/LLMs-TimeSeries/software/Archive/wandb/run-20241126_225827-k2acjcio/logs/debug-core.log"}
+{"time":"2024-11-26T22:58:27.981793303-08:00","level":"INFO","msg":"created new stream","id":"k2acjcio"}
+{"time":"2024-11-26T22:58:27.981846052-08:00","level":"INFO","msg":"stream: started","id":"k2acjcio"}
+{"time":"2024-11-26T22:58:27.981886142-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:27.98191795-08:00","level":"INFO","msg":"sender: started","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:27.981976578-08:00","level":"INFO","msg":"handler: started","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:28.287671854-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T22:58:29.526636213-08:00","level":"INFO","msg":"stream: closing","id":"k2acjcio"}
+{"time":"2024-11-26T22:58:29.526672157-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T22:58:29.527455205-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T22:58:31.136668907-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T22:58:31.296963021-08:00","level":"INFO","msg":"handler: closed","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:31.297031564-08:00","level":"INFO","msg":"sender: closed","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:31.297014689-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"k2acjcio"}
+{"time":"2024-11-26T22:58:31.297211084-08:00","level":"INFO","msg":"stream: closed","id":"k2acjcio"}

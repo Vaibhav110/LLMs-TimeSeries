@@ -1,0 +1,60 @@
+{
+  "os": "Linux-5.15.0-102-generic-x86_64-with-glibc2.35",
+  "python": "3.11.10",
+  "startedAt": "2024-11-27T07:11:05.505237Z",
+  "program": "/home/vaibhav/LLMs-TimeSeries/software/Archive/LLM_finetune.py",
+  "codePath": "software/Archive/LLM_finetune.py",
+  "git": {
+    "remote": "https://github.com/Vaibhav110/LLMs-TimeSeries.git",
+    "commit": "45b8db1f0122f3ade1d7b6997becc056fd66fb62"
+  },
+  "root": "/home/vaibhav/LLMs-TimeSeries/software/Archive",
+  "host": "sn4622120321",
+  "username": "vaibhav",
+  "executable": "/home/vaibhav/miniconda3/envs/vai_llama/bin/python",
+  "codePathLocal": "LLM_finetune.py",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA H100 NVL",
+  "gpu_count": 4,
+  "disk": {
+    "/": {
+      "total": "3924083687424",
+      "used": "3075979776000"
+    }
+  },
+  "memory": {
+    "total": "1623026032640"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H100 NVL",
+      "memoryTotal": "100485038080",
+      "cudaCores": 16896,
+      "architecture": "Hopper"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
