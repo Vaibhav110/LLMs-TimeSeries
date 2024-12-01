@@ -1,0 +1,926 @@
+[
+    {
+        "id": "train_0",
+        "image_path": "Dataset/Images/Data_0_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1935.17"
+    },
+    {
+        "id": "train_1",
+        "image_path": "Dataset/Images/Data_1_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1842.08"
+    },
+    {
+        "id": "train_2",
+        "image_path": "Dataset/Images/Data_2_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1628.0"
+    },
+    {
+        "id": "train_3",
+        "image_path": "Dataset/Images/Data_3_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1590.17"
+    },
+    {
+        "id": "train_4",
+        "image_path": "Dataset/Images/Data_4_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1533.83"
+    },
+    {
+        "id": "train_5",
+        "image_path": "Dataset/Images/Data_5_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1455.5"
+    },
+    {
+        "id": "train_6",
+        "image_path": "Dataset/Images/Data_6_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1618.67"
+    },
+    {
+        "id": "train_7",
+        "image_path": "Dataset/Images/Data_7_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1275.33"
+    },
+    {
+        "id": "train_8",
+        "image_path": "Dataset/Images/Data_8_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1567.42"
+    },
+    {
+        "id": "train_9",
+        "image_path": "Dataset/Images/Data_9_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1557.33"
+    },
+    {
+        "id": "train_10",
+        "image_path": "Dataset/Images/Data_10_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1798.0"
+    },
+    {
+        "id": "train_11",
+        "image_path": "Dataset/Images/Data_11_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1496.96"
+    },
+    {
+        "id": "train_12",
+        "image_path": "Dataset/Images/Data_12_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1692.33"
+    },
+    {
+        "id": "train_13",
+        "image_path": "Dataset/Images/Data_13_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1471.83"
+    },
+    {
+        "id": "train_14",
+        "image_path": "Dataset/Images/Data_14_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1698.25"
+    },
+    {
+        "id": "train_15",
+        "image_path": "Dataset/Images/Data_15_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1475.67"
+    },
+    {
+        "id": "train_16",
+        "image_path": "Dataset/Images/Data_16_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1711.08"
+    },
+    {
+        "id": "train_17",
+        "image_path": "Dataset/Images/Data_17_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1624.0"
+    },
+    {
+        "id": "train_18",
+        "image_path": "Dataset/Images/Data_18_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1977.42"
+    },
+    {
+        "id": "train_19",
+        "image_path": "Dataset/Images/Data_19_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1768.75"
+    },
+    {
+        "id": "train_20",
+        "image_path": "Dataset/Images/Data_20_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1879.92"
+    },
+    {
+        "id": "train_21",
+        "image_path": "Dataset/Images/Data_21_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1711.83"
+    },
+    {
+        "id": "train_22",
+        "image_path": "Dataset/Images/Data_22_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1459.42"
+    },
+    {
+        "id": "train_23",
+        "image_path": "Dataset/Images/Data_23_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1579.75"
+    },
+    {
+        "id": "train_24",
+        "image_path": "Dataset/Images/Data_24_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1698.58"
+    },
+    {
+        "id": "train_25",
+        "image_path": "Dataset/Images/Data_25_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1640.25"
+    },
+    {
+        "id": "train_26",
+        "image_path": "Dataset/Images/Data_26_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1827.17"
+    },
+    {
+        "id": "train_27",
+        "image_path": "Dataset/Images/Data_27_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1579.42"
+    },
+    {
+        "id": "train_28",
+        "image_path": "Dataset/Images/Data_28_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1262.83"
+    },
+    {
+        "id": "train_29",
+        "image_path": "Dataset/Images/Data_29_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1230.08"
+    },
+    {
+        "id": "train_30",
+        "image_path": "Dataset/Images/Data_30_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1348.75"
+    },
+    {
+        "id": "train_31",
+        "image_path": "Dataset/Images/Data_31_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1466.17"
+    },
+    {
+        "id": "train_32",
+        "image_path": "Dataset/Images/Data_32_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1815.75"
+    },
+    {
+        "id": "train_33",
+        "image_path": "Dataset/Images/Data_33_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1642.75"
+    },
+    {
+        "id": "train_34",
+        "image_path": "Dataset/Images/Data_34_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "2011.75"
+    },
+    {
+        "id": "train_35",
+        "image_path": "Dataset/Images/Data_35_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1711.08"
+    },
+    {
+        "id": "train_36",
+        "image_path": "Dataset/Images/Data_36_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1325.08"
+    },
+    {
+        "id": "train_37",
+        "image_path": "Dataset/Images/Data_37_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1465.5"
+    },
+    {
+        "id": "train_38",
+        "image_path": "Dataset/Images/Data_38_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1916.75"
+    },
+    {
+        "id": "train_39",
+        "image_path": "Dataset/Images/Data_39_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1683.58"
+    },
+    {
+        "id": "train_40",
+        "image_path": "Dataset/Images/Data_40_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1892.0"
+    },
+    {
+        "id": "train_41",
+        "image_path": "Dataset/Images/Data_41_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1738.42"
+    },
+    {
+        "id": "train_42",
+        "image_path": "Dataset/Images/Data_42_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1908.17"
+    },
+    {
+        "id": "train_43",
+        "image_path": "Dataset/Images/Data_43_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1687.92"
+    },
+    {
+        "id": "train_44",
+        "image_path": "Dataset/Images/Data_44_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1574.5"
+    },
+    {
+        "id": "train_45",
+        "image_path": "Dataset/Images/Data_45_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1553.33"
+    },
+    {
+        "id": "train_46",
+        "image_path": "Dataset/Images/Data_46_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1784.0"
+    },
+    {
+        "id": "train_47",
+        "image_path": "Dataset/Images/Data_47_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1772.5"
+    },
+    {
+        "id": "train_48",
+        "image_path": "Dataset/Images/Data_48_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1664.08"
+    },
+    {
+        "id": "train_49",
+        "image_path": "Dataset/Images/Data_49_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1591.92"
+    },
+    {
+        "id": "train_50",
+        "image_path": "Dataset/Images/Data_50_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1370.58"
+    },
+    {
+        "id": "train_51",
+        "image_path": "Dataset/Images/Data_51_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1462.83"
+    },
+    {
+        "id": "train_52",
+        "image_path": "Dataset/Images/Data_52_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1829.08"
+    },
+    {
+        "id": "train_53",
+        "image_path": "Dataset/Images/Data_53_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1731.83"
+    },
+    {
+        "id": "train_54",
+        "image_path": "Dataset/Images/Data_54_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1611.42"
+    },
+    {
+        "id": "train_55",
+        "image_path": "Dataset/Images/Data_55_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1490.5"
+    },
+    {
+        "id": "train_56",
+        "image_path": "Dataset/Images/Data_56_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1766.67"
+    },
+    {
+        "id": "train_57",
+        "image_path": "Dataset/Images/Data_57_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1652.25"
+    },
+    {
+        "id": "train_58",
+        "image_path": "Dataset/Images/Data_58_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1586.75"
+    },
+    {
+        "id": "train_59",
+        "image_path": "Dataset/Images/Data_59_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1629.25"
+    },
+    {
+        "id": "train_60",
+        "image_path": "Dataset/Images/Data_60_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1700.42"
+    },
+    {
+        "id": "train_61",
+        "image_path": "Dataset/Images/Data_61_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1668.25"
+    },
+    {
+        "id": "train_62",
+        "image_path": "Dataset/Images/Data_62_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1532.08"
+    },
+    {
+        "id": "train_63",
+        "image_path": "Dataset/Images/Data_63_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1436.75"
+    },
+    {
+        "id": "train_64",
+        "image_path": "Dataset/Images/Data_64_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1300.33"
+    },
+    {
+        "id": "train_65",
+        "image_path": "Dataset/Images/Data_65_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1460.75"
+    },
+    {
+        "id": "train_66",
+        "image_path": "Dataset/Images/Data_66_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1592.0"
+    },
+    {
+        "id": "train_67",
+        "image_path": "Dataset/Images/Data_67_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1293.0"
+    },
+    {
+        "id": "train_68",
+        "image_path": "Dataset/Images/Data_68_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1765.33"
+    },
+    {
+        "id": "train_69",
+        "image_path": "Dataset/Images/Data_69_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1601.75"
+    },
+    {
+        "id": "train_70",
+        "image_path": "Dataset/Images/Data_70_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1423.08"
+    },
+    {
+        "id": "train_71",
+        "image_path": "Dataset/Images/Data_71_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1358.83"
+    },
+    {
+        "id": "train_72",
+        "image_path": "Dataset/Images/Data_72_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1443.25"
+    },
+    {
+        "id": "train_73",
+        "image_path": "Dataset/Images/Data_73_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1411.67"
+    },
+    {
+        "id": "train_74",
+        "image_path": "Dataset/Images/Data_74_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1739.58"
+    },
+    {
+        "id": "train_75",
+        "image_path": "Dataset/Images/Data_75_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1574.25"
+    },
+    {
+        "id": "train_76",
+        "image_path": "Dataset/Images/Data_76_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1916.0"
+    },
+    {
+        "id": "train_77",
+        "image_path": "Dataset/Images/Data_77_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1536.08"
+    },
+    {
+        "id": "train_78",
+        "image_path": "Dataset/Images/Data_78_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1171.75"
+    },
+    {
+        "id": "train_79",
+        "image_path": "Dataset/Images/Data_79_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1314.75"
+    },
+    {
+        "id": "train_80",
+        "image_path": "Dataset/Images/Data_80_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1886.38"
+    },
+    {
+        "id": "train_81",
+        "image_path": "Dataset/Images/Data_81_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1659.08"
+    },
+    {
+        "id": "train_82",
+        "image_path": "Dataset/Images/Data_82_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1829.83"
+    },
+    {
+        "id": "train_83",
+        "image_path": "Dataset/Images/Data_83_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1643.0"
+    },
+    {
+        "id": "train_84",
+        "image_path": "Dataset/Images/Data_84_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1812.0"
+    },
+    {
+        "id": "train_85",
+        "image_path": "Dataset/Images/Data_85_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1534.58"
+    },
+    {
+        "id": "train_86",
+        "image_path": "Dataset/Images/Data_86_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1357.5"
+    },
+    {
+        "id": "train_87",
+        "image_path": "Dataset/Images/Data_87_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1347.58"
+    },
+    {
+        "id": "train_88",
+        "image_path": "Dataset/Images/Data_88_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1789.58"
+    },
+    {
+        "id": "train_89",
+        "image_path": "Dataset/Images/Data_89_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1872.0"
+    },
+    {
+        "id": "train_90",
+        "image_path": "Dataset/Images/Data_90_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1963.5"
+    },
+    {
+        "id": "train_91",
+        "image_path": "Dataset/Images/Data_91_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1646.33"
+    },
+    {
+        "id": "train_92",
+        "image_path": "Dataset/Images/Data_92_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1550.0"
+    },
+    {
+        "id": "train_93",
+        "image_path": "Dataset/Images/Data_93_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1652.08"
+    },
+    {
+        "id": "train_94",
+        "image_path": "Dataset/Images/Data_94_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1835.92"
+    },
+    {
+        "id": "train_95",
+        "image_path": "Dataset/Images/Data_95_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1528.17"
+    },
+    {
+        "id": "train_96",
+        "image_path": "Dataset/Images/Data_96_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1208.92"
+    },
+    {
+        "id": "train_97",
+        "image_path": "Dataset/Images/Data_97_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1212.92"
+    },
+    {
+        "id": "train_98",
+        "image_path": "Dataset/Images/Data_98_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1039.75"
+    },
+    {
+        "id": "train_99",
+        "image_path": "Dataset/Images/Data_99_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "982.08"
+    },
+    {
+        "id": "train_100",
+        "image_path": "Dataset/Images/Data_100_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1011.83"
+    },
+    {
+        "id": "train_101",
+        "image_path": "Dataset/Images/Data_101_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "895.67"
+    },
+    {
+        "id": "train_102",
+        "image_path": "Dataset/Images/Data_102_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1349.17"
+    },
+    {
+        "id": "train_103",
+        "image_path": "Dataset/Images/Data_103_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1294.92"
+    },
+    {
+        "id": "train_104",
+        "image_path": "Dataset/Images/Data_104_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1408.92"
+    },
+    {
+        "id": "train_105",
+        "image_path": "Dataset/Images/Data_105_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1382.5"
+    },
+    {
+        "id": "train_106",
+        "image_path": "Dataset/Images/Data_106_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1172.08"
+    },
+    {
+        "id": "train_107",
+        "image_path": "Dataset/Images/Data_107_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1178.92"
+    },
+    {
+        "id": "train_108",
+        "image_path": "Dataset/Images/Data_108_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "989.42"
+    },
+    {
+        "id": "train_109",
+        "image_path": "Dataset/Images/Data_109_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "961.75"
+    },
+    {
+        "id": "train_110",
+        "image_path": "Dataset/Images/Data_110_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1778.0"
+    },
+    {
+        "id": "train_111",
+        "image_path": "Dataset/Images/Data_111_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1015.0"
+    },
+    {
+        "id": "train_112",
+        "image_path": "Dataset/Images/Data_112_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1005.25"
+    },
+    {
+        "id": "train_113",
+        "image_path": "Dataset/Images/Data_113_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1025.08"
+    },
+    {
+        "id": "train_114",
+        "image_path": "Dataset/Images/Data_114_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1329.92"
+    },
+    {
+        "id": "train_115",
+        "image_path": "Dataset/Images/Data_115_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1448.42"
+    },
+    {
+        "id": "train_116",
+        "image_path": "Dataset/Images/Data_116_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "921.25"
+    },
+    {
+        "id": "train_117",
+        "image_path": "Dataset/Images/Data_117_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "945.42"
+    },
+    {
+        "id": "train_118",
+        "image_path": "Dataset/Images/Data_118_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1182.0"
+    },
+    {
+        "id": "train_119",
+        "image_path": "Dataset/Images/Data_119_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1290.0"
+    },
+    {
+        "id": "train_120",
+        "image_path": "Dataset/Images/Data_120_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1261.67"
+    },
+    {
+        "id": "train_121",
+        "image_path": "Dataset/Images/Data_121_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1253.83"
+    },
+    {
+        "id": "train_122",
+        "image_path": "Dataset/Images/Data_122_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1438.25"
+    },
+    {
+        "id": "train_123",
+        "image_path": "Dataset/Images/Data_123_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1292.25"
+    },
+    {
+        "id": "train_124",
+        "image_path": "Dataset/Images/Data_124_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1049.92"
+    },
+    {
+        "id": "train_125",
+        "image_path": "Dataset/Images/Data_125_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1095.0"
+    },
+    {
+        "id": "train_126",
+        "image_path": "Dataset/Images/Data_126_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1004.17"
+    },
+    {
+        "id": "train_127",
+        "image_path": "Dataset/Images/Data_127_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "950.75"
+    },
+    {
+        "id": "train_128",
+        "image_path": "Dataset/Images/Data_128_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "817.0"
+    },
+    {
+        "id": "train_129",
+        "image_path": "Dataset/Images/Data_129_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "787.75"
+    },
+    {
+        "id": "train_130",
+        "image_path": "Dataset/Images/Data_130_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1241.5"
+    },
+    {
+        "id": "train_131",
+        "image_path": "Dataset/Images/Data_131_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1182.92"
+    },
+    {
+        "id": "train_132",
+        "image_path": "Dataset/Images/Data_132_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "956.83"
+    },
+    {
+        "id": "train_133",
+        "image_path": "Dataset/Images/Data_133_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "791.92"
+    },
+    {
+        "id": "train_134",
+        "image_path": "Dataset/Images/Data_134_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1323.17"
+    },
+    {
+        "id": "train_135",
+        "image_path": "Dataset/Images/Data_135_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1322.67"
+    },
+    {
+        "id": "train_136",
+        "image_path": "Dataset/Images/Data_136_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1002.0"
+    },
+    {
+        "id": "train_137",
+        "image_path": "Dataset/Images/Data_137_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1023.0"
+    },
+    {
+        "id": "train_138",
+        "image_path": "Dataset/Images/Data_138_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1119.83"
+    },
+    {
+        "id": "train_139",
+        "image_path": "Dataset/Images/Data_139_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1106.25"
+    },
+    {
+        "id": "train_140",
+        "image_path": "Dataset/Images/Data_140_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "743.42"
+    },
+    {
+        "id": "train_141",
+        "image_path": "Dataset/Images/Data_141_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "756.75"
+    },
+    {
+        "id": "train_142",
+        "image_path": "Dataset/Images/Data_142_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "990.83"
+    },
+    {
+        "id": "train_143",
+        "image_path": "Dataset/Images/Data_143_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1117.0"
+    },
+    {
+        "id": "train_144",
+        "image_path": "Dataset/Images/Data_144_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1212.0"
+    },
+    {
+        "id": "train_145",
+        "image_path": "Dataset/Images/Data_145_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1121.83"
+    },
+    {
+        "id": "train_146",
+        "image_path": "Dataset/Images/Data_146_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1325.92"
+    },
+    {
+        "id": "train_147",
+        "image_path": "Dataset/Images/Data_147_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1324.0"
+    },
+    {
+        "id": "train_148",
+        "image_path": "Dataset/Images/Data_148_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1144.0"
+    },
+    {
+        "id": "train_149",
+        "image_path": "Dataset/Images/Data_149_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1263.0"
+    },
+    {
+        "id": "train_150",
+        "image_path": "Dataset/Images/Data_150_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1586.33"
+    },
+    {
+        "id": "train_151",
+        "image_path": "Dataset/Images/Data_151_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1534.58"
+    },
+    {
+        "id": "train_152",
+        "image_path": "Dataset/Images/Data_152_m.jpg",
+        "query": "This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1371.58"
+    },
+    {
+        "id": "train_153",
+        "image_path": "Dataset/Images/Data_153_n.jpg",
+        "query": "This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+        "answers": "1285.75"
+    }
+]
