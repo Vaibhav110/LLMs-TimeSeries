@@ -1,7 +1,8 @@
 import csv
 import json
 from Dataset_play.Replacing_200_script import Remove_200_data, read_the_file, save_the_file
-from MTF_GAF import Scalogram_conv_out
+from MTF_GAF import Scalogram_conv_out, MtF_Conv_save, Spectrogram_conv_save
+import numpy as np
 
 def Time_output(Data_date):
     # Extract hours, minutes, and seconds
@@ -120,38 +121,71 @@ Next_day_result_dataset = [sublist[-12:] for sublist in output]   # Take the las
 # print(len(Image_dataset))
 # print(len(Next_day_result_dataset))
 
+#################################################3
+IS_SCALOGRAM = False
+IS_MTF = False
+IS_SPECTROGRAM = True
+#####################################################
+
+if IS_SCALOGRAM:
+    img_path_prefix = "Dataset/Images_Scalogram/Data_"
+    img_type = 'Scalogram'
+if IS_MTF:
+    img_path_prefix = "Dataset/Images_MTF/Data_"
+    img_type = 'Markov Transition Field'
+if IS_SPECTROGRAM:
+    img_path_prefix = "Dataset/Images_Spectrogram/Data_"
+    img_type = 'Spectrogram'
+
 #json file data
 json_list = []
 
 # count is the each 5 day set we have. $ days of image generation and next day to predict
 count = 0
 for data in Image_dataset:
+    noise_list = np.random.uniform(-0.2, 0.2, 48)
+    data = data + noise_list
+    # print(noise_list)
+
     #Find the average of the 5th day dataset
-    result_avg = round( sum(Next_day_result_dataset[count]) / len(Next_day_result_dataset[count]) , 2)
+    result_avg = int( sum(Next_day_result_dataset[count]) / len(Next_day_result_dataset[count]) )
+    four_day_avg = []
+    four_day_avg.append(int(sum(data[0:12])/12))
+    four_day_avg.append(int(sum(data[12:24])/12))
+    four_day_avg.append(int(sum(data[24:36])/12))
+    four_day_avg.append(int(sum(data[36:48])/12))
     if count%2 == 0:
         m_or_n = 'm'
-        img_path = 'Dataset/Images/Data_' + str(count) + '_' + m_or_n + '.jpg'
+        img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
         data_item = {
-            "id":f"train_{count}",
+            "id":f"id_{count}",
             "image_path": f"{img_path}",
-            "query": f"This is the Scalogram of C0 over 4 days day time data. Based on this, whats the next day approximate average of CO data?",
+            "query": f"Analyze the provided {img_type} of Nitrogen Oxide four day time data. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent day.",
             "answers": f"{result_avg}"
         }
     else:
         m_or_n = 'n'
-        img_path = 'Dataset/Images/Data_' + str(count) + '_' + m_or_n + '.jpg'
+        img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
         data_item = {
-            "id":f"train_{count}",
+            "id":f"id_{count}",
             "image_path": f"{img_path}",
-            "query": f"This is the Scalogram of C0 over 4 days night time data. Based on this, whats the next day approximate average of CO data?",
+            "query": f"Analyze the provided {img_type} of Nitrogen Oxide night time data. Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent night.",
             "answers": f"{result_avg}"
         }
     # str_img = Prediction_date[int(count/2)].replace("/", "_") + '_' + m_or_n
     ############# uncomment below line to save the transformed images ###################
-    # Scalogram_conv_out(data, img_path)
+    # if IS_SCALOGRAM:
+    #     Scalogram_conv_out(data, img_path)
+    # if IS_MTF:
+    #     data = np.array([data])
+    #     MtF_Conv_save(data, img_path)
+    if IS_SPECTROGRAM:
+        data = np.array(data)
+        Spectrogram_conv_save(data, img_path)
 
     json_list.append(data_item)
     count = count+1
+    print(count)
 
 
 json_file_path = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Output_dataset_img.json"
