@@ -122,20 +122,26 @@ Next_day_result_dataset = [sublist[-12:] for sublist in output]   # Take the las
 # print(len(Next_day_result_dataset))
 
 #################################################3
-IS_SCALOGRAM = False
-IS_MTF = False
+IS_SCALOGRAM = True
+IS_MTF = True
 IS_SPECTROGRAM = True
 #####################################################
-
+MORE_CONTEXT_QUERY = True
+################################################
+img_path_prefix = []
 if IS_SCALOGRAM:
-    img_path_prefix = "Dataset/Images_Scalogram/Data_"
-    img_type = 'Scalogram'
+    # img_path_prefix = "Dataset/Images_Scalogram/Data_"
+    img_path_prefix.append("Dataset/Images_Scalogram/Data_")
+    img_type_scalogram = 'Scalogram'
 if IS_MTF:
-    img_path_prefix = "Dataset/Images_MTF/Data_"
-    img_type = 'Markov Transition Field'
+    # img_path_prefix = "Dataset/Images_MTF/Data_"
+    img_path_prefix.append("Dataset/Images_MTF/Data_")
+    img_type_mtf = 'Markov Transition Field'
 if IS_SPECTROGRAM:
-    img_path_prefix = "Dataset/Images_Spectrogram/Data_"
-    img_type = 'Spectrogram'
+    # img_path_prefix = "Dataset/Images_Spectrogram/Data_"
+    img_path_prefix.append("Dataset/Images_Spectrogram/Data_")
+    img_type_spectrogram = 'Spectrogram'
+
 
 #json file data
 json_list = []
@@ -154,22 +160,39 @@ for data in Image_dataset:
     four_day_avg.append(int(sum(data[12:24])/12))
     four_day_avg.append(int(sum(data[24:36])/12))
     four_day_avg.append(int(sum(data[36:48])/12))
+    img_path = []
     if count%2 == 0:
         m_or_n = 'm'
-        img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
+        # img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
+        img_path.append(f"{img_path_prefix[0]}" + str(count) + '_' + m_or_n + '.jpg')
+        img_path.append(f"{img_path_prefix[1]}" + str(count) + '_' + m_or_n + '.jpg')
+        img_path.append(f"{img_path_prefix[2]}" + str(count) + '_' + m_or_n + '.jpg')
         data_item = {
             "id":f"id_{count}",
-            "image_path": f"{img_path}",
-            "query": f"Analyze the provided {img_type} of Nitrogen Oxide four day time data. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent day.",
+            "image_path_scalogram": f"{img_path[0]}",
+            # "query": f"Analyze the provided {img_type} of Nitrogen Oxide four day time data. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent day.",
+            "query_scalogram": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_scalogram} of Nitrogen Dioxide day time data for four days. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+            "image_path_mtf": f"{img_path[1]}",
+            "query_mtf": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_mtf} of Nitrogen Dioxide day time data for four days. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+            "image_path_spectrogram": f"{img_path[2]}",
+            "query_spectrogram": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_spectrogram} of Nitrogen Dioxide day time data for four days. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",         
             "answers": f"{result_avg}"
         }
     else:
         m_or_n = 'n'
-        img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
+        # img_path = f"{img_path_prefix}" + str(count) + '_' + m_or_n + '.jpg'
+        img_path.append(f"{img_path_prefix[0]}" + str(count) + '_' + m_or_n + '.jpg')
+        img_path.append(f"{img_path_prefix[1]}" + str(count) + '_' + m_or_n + '.jpg')
+        img_path.append(f"{img_path_prefix[2]}" + str(count) + '_' + m_or_n + '.jpg')
         data_item = {
             "id":f"id_{count}",
-            "image_path": f"{img_path}",
-            "query": f"Analyze the provided {img_type} of Nitrogen Oxide night time data. Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent night.",
+            "image_path_scalogram": f"{img_path[0]}",
+            # "query": f"Analyze the provided {img_type} of Nitrogen Oxide four day time data. Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Oxide value for the subsequent day.",
+            "query_scalogram": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_scalogram} of Nitrogen Dioxide night time data for four days. Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+            "image_path_mtf": f"{img_path[1]}",
+            "query_mtf": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_mtf} of Nitrogen Dioxide night time data for four days. Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+            "image_path_spectrogram": f"{img_path[2]}",
+            "query_spectrogram": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided {img_type_spectrogram} of Nitrogen Dioxide night time data for four days. Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",         
             "answers": f"{result_avg}"
         }
     # str_img = Prediction_date[int(count/2)].replace("/", "_") + '_' + m_or_n
@@ -179,9 +202,9 @@ for data in Image_dataset:
     # if IS_MTF:
     #     data = np.array([data])
     #     MtF_Conv_save(data, img_path)
-    if IS_SPECTROGRAM:
-        data = np.array(data)
-        Spectrogram_conv_save(data, img_path)
+    # if IS_SPECTROGRAM:
+    #     data = np.array(data)
+    #     Spectrogram_conv_save(data, img_path)
 
     json_list.append(data_item)
     count = count+1
