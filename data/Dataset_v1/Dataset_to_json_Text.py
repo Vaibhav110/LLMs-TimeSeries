@@ -1,8 +1,9 @@
 import csv
 import json
 from Dataset_play.Replacing_200_script import Remove_200_data, read_the_file, save_the_file
-from MTF_GAF import Scalogram_conv_out, MtF_Conv_save, Spectrogram_conv_save
+# from MTF_GAF import Scalogram_conv_out, MtF_Conv_save, Spectrogram_conv_save
 import numpy as np
+import random
 
 def Time_output(Data_date):
     # Extract hours, minutes, and seconds
@@ -123,6 +124,8 @@ Next_day_result_dataset = [sublist[-12:] for sublist in output]   # Take the las
 
 #json file data
 json_list = []
+json_list_train = []
+json_list_test = []
 
 # count is the each 5 day set we have. $ days of image generation and next day to predict
 count = 0
@@ -130,6 +133,8 @@ for data in Image_dataset:
     noise_list = np.random.uniform(-0.2, 0.2, 48)
     data = data + noise_list
     # print(noise_list)
+
+    data = [round(num, 1) for num in data]
 
     #Find the average of the 5th day dataset
     result_avg = int( sum(Next_day_result_dataset[count]) / len(Next_day_result_dataset[count]) )
@@ -141,14 +146,16 @@ for data in Image_dataset:
     if count%2 == 0:
         m_or_n = 'm'
         data_item = {
-            "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+            "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four days is {data[0:12]}, {data[12:24]}, {data[24:36]} and {data[36:48]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+            # "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four days is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
             # "user": f"Average day data of CO on {four_dates[0]} is {four_dates_mdata[0]}, on {four_dates[1]} is {four_dates_mdata[1]}, on {four_dates[2]} is {four_dates_mdata[2]}, on {four_dates[3]} is {four_dates_mdata[3]}. What is average day data the next day? Just tell the answer",
             "assistant": f"{result_avg}"
         }
     else:
         m_or_n = 'n'
         data_item = {
-            "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+            "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four nights is {data[0:12]}, {data[12:24]}, {data[24:36]} and {data[36:48]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+            # "user": f"Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four nights is {four_day_avg[0]}, {four_day_avg[1]}, {four_day_avg[2]} and {four_day_avg[3]}. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
             # "user": f"Average night data of CO on {four_dates[0]} is {four_dates_ndata[0]}, on {four_dates[1]} is {four_dates_ndata[1]}, on {four_dates[2]} is {four_dates_ndata[2]}, on {four_dates[3]} is {four_dates_ndata[3]}. What is average night data the next night? Just tell the answer",
             "assistant": f"{result_avg}"
         }
@@ -157,10 +164,29 @@ for data in Image_dataset:
     count = count+1
     print(count)
 
+def split_list(string_list):
 
-json_file_path = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Output_dataset_text.json"
+  # Get the number of elements to put in the first list
+  num_elements_list1 = int(len(string_list) * 0.8)
+
+  # Randomly select indices for the first list
+  indices_list1 = random.sample(range(len(string_list)), num_elements_list1)
+
+  # Create the two lists
+  list1 = [string_list[i] for i in indices_list1]
+  list2 = [string_list[i] for i in set(range(len(string_list))) - set(indices_list1)]
+
+  return list1, list2
+
+json_list_train, json_list_test = split_list(json_list)
+
+json_file_path_train = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Output_dataset_text_train.json"
+json_file_path_test = r"C:\Users\vaibh\OneDrive\Documents\UCLA_Courses\M202A - Embedded Systems\LLMs_ReadingaMaterial\FineTuning\Output_dataset_text_test.json"
 
 
 # Write to JSON file
-with open(json_file_path, 'w') as json_file:
-    json.dump(json_list, json_file, indent=4)
+with open(json_file_path_train, 'w') as json_file:
+    json.dump(json_list_train, json_file, indent=4)
+
+with open(json_file_path_test, 'w') as json_file:
+    json.dump(json_list_test, json_file, indent=4)
