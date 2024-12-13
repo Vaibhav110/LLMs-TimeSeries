@@ -13,7 +13,7 @@ LLMs, as Large language models, are recognized for their ability to generalize a
 # 1. Introduction
 
 ### 1.1 Motvation and Objective
-Large Language Models (LLMs) are traditionally known for their prowess in handling text data, but their use in time series data analysis has yet to be explored much. Since these models excel at capturing sequential dependencies in text, they may also effectively model the sequential dependencies inherent in time series data. Time series data shares structural similarities with text, involving sequential patterns (e.g., trends, seasonality). Hence, real-time, localised processing for time series tasks on edge devices (e.g., IoT sensors, wearables, and industrial automation) could greatly benefit from LLM deployment. Taking that forward, we plan to enable LLM for time series forecasting on embedded systems. We will use the existing models and fine tune them based on the time series data and understand the result. We chose the Llama 3.2 1B [4] LLM for text models and Llava 1.6 7B [7] for multimodal inputs. Both of these are small pre-trained model that can run on edge devices.
+Large Language Models (LLMs) are traditionally known for their prowess in handling text data, but their use in time series data analysis has yet to be explored much. Since these models excel at capturing sequential dependencies in text, they may also effectively model the sequential dependencies inherent in time series data. Time series data shares structural similarities with text, involving sequential patterns (e.g., trends, seasonality). Hence, real-time, localised processing for time series tasks on edge devices (e.g., IoT sensors, wearables, and industrial automation) could greatly benefit from LLM deployment. Taking that forward, we plan to enable LLM for time series forecasting on embedded systems. We will use the existing models and fine tune them based on the time series data and understand the result. We chose the Llama 3.2 1B [4] LLM for text models and Llava 1.6 7B [8] for multimodal inputs. Both of these are small pre-trained model that can run on edge devices.
 
 ### 1.2 State of the Art & Its Limitations: 
 Large Language Models (LLMs) are currently at the cutting edge of artificial intelligence research. Models such as GPT have demonstrated impressive capabilities in generating coherent and contextually relevant text based on the prompts they receive. However, direct connections between language modelling and time series forecasting is still under research without much positive outcome. This gap stems from challenges like the lack of semantic context in time-series data, computational limitations, and LLMs’ difficulty processing numerical inputs. Also, many time-series LLMs convert the time-series data into text tokens, which could cause a loss in their ability to recognise temporal patterns.
@@ -50,6 +50,7 @@ Based on the usecase, we will use the Llama 3.2 1B and Llava 1.6 7B model which 
 * Familiarity with embedded systems, especially like phones for deep learning models.
 * Proficiency with a variety of programming languages, including C/C++, Python. Applications like Matlab and Android Studio, and environments like Linux and OS.
 * Understanding of the Deep learning models, mainly the LLMs, and the fine-tuning and tokenisation aspects.
+* GPU for fine tuning the LLM Model - 4 Nvidia H100 GPU provided by Mani Sir
 
 ### 1.7 Metrics of Success: 
 Success is to understand how well the model undersand the data, based on the dataset context size and how does adding images help the model to learn the time series pattern. These understandings will be evaluated based on testing the model in 2 different ways:
@@ -67,6 +68,47 @@ There had been some work on the LLMs for time series data but that still needs t
 
 # 3. Technical Approach
 
+The project is divided into 2 different approaches. Both of these approach work on 2 different datasets and can give different insight on how the LLMs understand the time series trends. Strategy I is the basic strategy which was initiated as the start of the project and to understand how the model behaves on the same dataset. Taking the inspiration we came up with Strategy II which will help us understand how well the model can perform for any similar diverse Air Quality dataset. Each approach will go through the same deployment method that is explained below. 
+
+### 3.1 Deployment
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/LoadingModel.png?raw=true)
+
+Based on the dataflow above, out whole project is divided into 3 different parts.
+- Dataset Handling
+This step involves dataset cleaning, formatting the dataset that is readable by the LLM for fine tuning. Hence this step involves data processing to convert the data from csv file to a unique json format seperately for each training and testing. Later this dataset is pushed into Hugging face for better access.
+- Training Phase
+In this phase, we fine tune the model for the specific use case like time series datasets here. Based on the LLM model selected (Llama 3.2 and Llava 1.6 in our case), we load the training data into batches and feed it to the model. For our experiment, we choose 'pyTorch' as the framework and adoped the 'LoRA' as the fine tuning method. Once fine tuned, the model gives out the model pte file and the tokenizer file. These files can be used to run the model on phone.
+ - Testing Phase
+Once the model is fine tuned, we can test the model based on the testing dataset we created based on both the strategy. The model output is thencompared with the ground truth to calculate the mean absolute error and root mean square error.
+
+### 3.2 Time Series to Image Conversion
+There are 3 different time series to image conversion that we are going to use and evaluate how well the model performs as compared with pure text models.
+- Spectrogram
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Spectrogram.jpg?raw=true)
+Its a time-frequency representation, visualizing how the frequency content of a signal changes over time
+- Scalogram
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Scalogram.jpg?raw=true)
+It's a visualizing how the signal's energy content is distributed across different time scales.
+- MTF - Markov Transition Fields
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_MTF.jpg?raw=true)
+ Time series as a sequence of states, where the probability of transitioning to a new state wrt the current state.
+
+### 3.3 Datasets
+We are going to use multiple dataset to analyze all the different resutls.
+- Dataset_v1 (Strategy 1)
+  - Air Quality - UCI Machine Learning Repository [6]
+  - This dataset 9358 instances of hourly averaged over 1 year responses of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device.
+  - We divide this dataset divided into 2 different halves: Training (80%) and Testing (20%). Both text and multimodal will be fine tuned via the training dataset and later tested using the testing dataset
+
+- Dataset_v2 (Strategy 2)
+  - Daily air quality data from the US Environmental Protection Agency [7]
+  - It contains daily data of various pollutant for multiple cities across multiple years
+  - For this, we capture 3 years worth of data for a particular pollutant and a particular city and use it to fine tune the model. Later we will test the fine tuned model using the data from some other city for some other year altogether.
+
+#### 3.3.1 Dataset_v1 Processing and Prompt types
+This dataset contains an hourly values for 1 year from an air quality chemical multisensory Device. It is deployed in a significantly polluted area, at road level, within an Italian city.
+We took NO2 data for our testing as it had the least amount of missing values. All the missing values were calculated based on linear interpolation method. We selected 4 days for input
+
 # 4. Evaluation and Results
 
 # 5. Discussion and Conclusions
@@ -82,9 +124,12 @@ There had been some work on the LLMs for time series data but that still needs t
 
 [5] Executorch by pytorch. https://github.com/pytorch/executorch
 
-[6] Kaggle Temperature Readings: IOT Devices dataset https://www.kaggle.com/datasets/atulanandjha/temperature-readings-iot-devices/data.
+[6] Air Quality - UCI Machine Learning Repository https://archive.ics.uci.edu/dataset/360/air+quality
 
-[7] LLava 1.6 7B 
+[7] US Environmental Protection Agency
+https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+
+[8] LLava 1.6 7B 
 https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf
 
 
