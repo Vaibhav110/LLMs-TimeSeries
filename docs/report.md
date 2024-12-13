@@ -75,10 +75,13 @@ The project is divided into 2 different approaches. Both of these approach work 
 
 Based on the dataflow above, out whole project is divided into 3 different parts.
 - **Dataset Handling**
+
 This step involves dataset cleaning, formatting the dataset that is readable by the LLM for fine tuning. Hence this step involves data processing to convert the data from csv file to a unique json format seperately for each training and testing. Later this dataset is pushed into Hugging face for better access.
 - **Training Phase**
+
 In this phase, we fine tune the model for the specific use case like time series datasets here. Based on the LLM model selected (Llama 3.2 and Llava 1.6 in our case), we load the training data into batches and feed it to the model. For our experiment, we choose 'pyTorch' as the framework and adoped the 'LoRA' as the fine tuning method. Once fine tuned, the model gives out the model pte file and the tokenizer file. These files can be used to run the model on phone.
  - **Testing Phase**
+
 Once the model is fine tuned, we can test the model based on the testing dataset we created based on both the strategy. The model output is thencompared with the ground truth to calculate the mean absolute error and root mean square error.
 
 ### 3.2 Time Series to Image Conversion
@@ -107,6 +110,7 @@ We are going to use multiple dataset to analyze all the different resutls.
 
 #### 3.3.1 Dataset_v1 Processing and Prompt types
 This dataset contains an hourly values for 1 year from an air quality chemical multisensory Device. It is deployed in a significantly polluted area, at road level, within an Italian city. We took the NO2 data as it had the least amount of missing values. All the missing values were calculated based on linear interpolation method.
+
 For each training datapoint, we took 4 days values as the prompt query and get the fifth day as the reponse. We divided each into night and day and seperated them out as different instances. Based on these we had multiple prompts examples to understand how the model perform based on different context.
 
 - **[Text Based model]** Prediction of the next day feature, based on the 4 days average values and context about the data collection - Llama 3.2 1B
@@ -139,6 +143,7 @@ For each training datapoint, we took 4 days values as the prompt query and get t
 #### 3.3.2 Dataset_v2 Processing and Prompt types
 
 This analysis is a bit different then the previous type of testing. Its an AirQuality dataset from the  US Environmental Protection Agency which provides yearly everyday data for single pollutant for a city. We took the NO2 pollutant as it had a good trend of data. The values were in floating values. As undertstood by one of the literature review [3], LLMs find it tough to understand decimal values, hence we multipled all the values by 10 and converted them to interger numbers. We also took a far greater number of days, 10 in our case, as the prompt to detect the next day value.
+
 We fine tuned our model using three years worth of data from Los Angeles city from 2016 to 2018. We created the testing dataset from the same source but used a different city San Fransciso because it has similar weather conditions like LA and a different year, 2023 for instance. We also tried multiple prompts for testing the fine tuned model to understand how well it has understood the trend. The training and testing prompts are mentioned below. I have only mentioned multimodal prompts, text based prompts are also similar to this
 - **[Training Prompt]** Provided 10 days data points as part of the prompt along with details about those days like the days and the season.
 >    {
