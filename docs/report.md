@@ -177,6 +177,19 @@ We fine tuned our model using three years worth of data from Los Angeles city fr
 # 4. Evaluation and Results
 Based on the two different strategy and the 2 different models, one based on pure text prompts and another one being multimodal, we got some interesting results. Here is the summary of them:
 
+| MODEL                                             | PROMPT TYPE                                                        | Image Transform         | MAE (3 tries)         | RMSE (3 tries)        |
+|---------------------------------------------------|--------------------------------------------------------------------|-------------------------|-----------------------|-----------------------|
+| MULTIMODAL MODEL  (Used the Llava 1.6 7B as base) | Type 1: Four day average with less context                         | Scalogram               | 105 , 104.7 , 104.6   | 144.6 , 144.1 , 144.1 |
+|                                                   |                                                                    | MTF                     | 139.6 , 137.9, 136.7  | 183.8, 181.5, 179.9   |
+|                                                   |                                                                    | Spectrogram             | 105.4 , 107.5 , 107.2 | 147.4 , 147.1 , 145.9 |
+|                                                   | Type 2: Four day average with more context                         | Scalogram               | 89.4 , 97.3 , 97.6    | 118.5 , 124.9 , 123.8 |
+|                                                   |                                                                    | MTF                     | 110.9 , 109.4 , 104.2 | 136.1 , 131.6 , 129.1 |
+|                                                   |                                                                    | Spectrogram             | 90.1, 90.5 , 90.1     | 110.7 , 113.1 , 112.9 |
+| TEXT MODELS  (Used the Llama 3.2 1B as base)      | Type 1: Four day average estimating the next day via Llava 1.6 7B  | No image transformation | 114.0, 117.6, 116.8   | 137.9, 142.7, 140.5   |
+|                                                   | Type 2: Four day averages estimating the next day via Llama 3.2 1B | No image transformation | 126.4, 128.9          | 164.1, 166.3          |
+|                                                   | Type 3: Four day values estimating the next day via Llama 3.2 1B   | No image transformation | 138.6, 142.7          | 187.1, 186.5          |
+
+
 
 # 5. Discussion and Conclusions
 
