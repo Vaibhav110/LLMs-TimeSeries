@@ -74,36 +74,33 @@ The project is divided into 2 different approaches. Both of these approach work 
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/LoadingModel.png?raw=true)
 
 Based on the dataflow above, out whole project is divided into 3 different parts.
-- Dataset Handling
+- **Dataset Handling**
 This step involves dataset cleaning, formatting the dataset that is readable by the LLM for fine tuning. Hence this step involves data processing to convert the data from csv file to a unique json format seperately for each training and testing. Later this dataset is pushed into Hugging face for better access.
-- Training Phase
+- **Training Phase**
 In this phase, we fine tune the model for the specific use case like time series datasets here. Based on the LLM model selected (Llama 3.2 and Llava 1.6 in our case), we load the training data into batches and feed it to the model. For our experiment, we choose 'pyTorch' as the framework and adoped the 'LoRA' as the fine tuning method. Once fine tuned, the model gives out the model pte file and the tokenizer file. These files can be used to run the model on phone.
- - Testing Phase
+ - **Testing Phase**
 Once the model is fine tuned, we can test the model based on the testing dataset we created based on both the strategy. The model output is thencompared with the ground truth to calculate the mean absolute error and root mean square error.
 
 ### 3.2 Time Series to Image Conversion
 There are 3 different time series to image conversion that we are going to use and evaluate how well the model performs as compared with pure text models.
-- Spectrogram
+- **Spectrogram**: Its a time-frequency representation, visualizing how the frequency content of a signal changes over time
 
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Spectrogram.jpg?raw=true)
-Its a time-frequency representation, visualizing how the frequency content of a signal changes over time
-- Scalogram
+- **Scalogram**: It's a visualizing how the signal's energy content is distributed across different time scales.
 
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Scalogram.jpg?raw=true)
-It's a visualizing how the signal's energy content is distributed across different time scales.
-- MTF - Markov Transition Fields
+- **MTF - Markov Transition Fields**:  Time series as a sequence of states, where the probability of transitioning to a new state wrt the current state.
 
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_MTF.jpg?raw=true)
- Time series as a sequence of states, where the probability of transitioning to a new state wrt the current state.
 
 ### 3.3 Datasets
 We are going to use multiple dataset to analyze all the different resutls.
-- Dataset_v1 (Strategy 1)
+- **Dataset_v1 (Strategy 1)**
   - Air Quality - UCI Machine Learning Repository [6]
   - This dataset 9358 instances of hourly averaged over 1 year responses of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device.
   - We divide this dataset divided into 2 different halves: Training (80%) and Testing (20%). Both text and multimodal will be fine tuned via the training dataset and later tested using the testing dataset
 
-- Dataset_v2 (Strategy 2)
+- **Dataset_v2 (Strategy 2)**
   - Daily air quality data from the US Environmental Protection Agency [7]
   - It contains daily data of various pollutant for multiple cities across multiple years
   - For this, we capture 3 years worth of data for a particular pollutant and a particular city and use it to fine tune the model. Later we will test the fine tuned model using the data from some other city for some other year altogether.
