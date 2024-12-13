@@ -84,12 +84,15 @@ Once the model is fine tuned, we can test the model based on the testing dataset
 ### 3.2 Time Series to Image Conversion
 There are 3 different time series to image conversion that we are going to use and evaluate how well the model performs as compared with pure text models.
 - Spectrogram
+
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Spectrogram.jpg?raw=true)
 Its a time-frequency representation, visualizing how the frequency content of a signal changes over time
 - Scalogram
+
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_Scalogram.jpg?raw=true)
 It's a visualizing how the signal's energy content is distributed across different time scales.
 - MTF - Markov Transition Fields
+
 ![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Image_MTF.jpg?raw=true)
  Time series as a sequence of states, where the probability of transitioning to a new state wrt the current state.
 
@@ -106,10 +109,72 @@ We are going to use multiple dataset to analyze all the different resutls.
   - For this, we capture 3 years worth of data for a particular pollutant and a particular city and use it to fine tune the model. Later we will test the fine tuned model using the data from some other city for some other year altogether.
 
 #### 3.3.1 Dataset_v1 Processing and Prompt types
-This dataset contains an hourly values for 1 year from an air quality chemical multisensory Device. It is deployed in a significantly polluted area, at road level, within an Italian city.
-We took NO2 data for our testing as it had the least amount of missing values. All the missing values were calculated based on linear interpolation method. We selected 4 days for input
+This dataset contains an hourly values for 1 year from an air quality chemical multisensory Device. It is deployed in a significantly polluted area, at road level, within an Italian city. We took the NO2 data as it had the least amount of missing values. All the missing values were calculated based on linear interpolation method.
+For each training datapoint, we took 4 days values as the prompt query and get the fifth day as the reponse. We divided each into night and day and seperated them out as different instances. Based on these we had multiple prompts examples to understand how the model perform based on different context.
+
+- **[Text Based model]** Prediction of the next day feature, based on the 4 days average values and context about the data collection - Llama 3.2 1B
+> {
+>         "user": "Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four days is 1254, 1134, 1131 and 1317. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+>         "assistant": "1325"
+> },
+ - **[Text Based model]** Prediction of the next day feature value by providing the 4 day hourly data and context about the data collection - Llama 3.2 1B
+>    {
+>        "user": "Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city.  Average value on those four days is [1558.8, ... , 1298.1], [1521.1, ... , 1942.1], [1780.2, ... , 1845.2] and [1673.0,... , 1925.0]. Estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+ >       "assistant": "1784"
+ >   },
+  - **[Text Based model]** Same like the last prompt but will be running on the multimodal model - LLava 1.6 7B (To Compare how images affect the model given the same dataset and the same LLM)
+
+ - **[Multimodal model]** Prediction for next day, based on 4 day average values and image transformed data. - Llava 1.6 7B
+>    {
+>        "id": "id_3",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_3_n.jpg",
+>        "query_spectrogram": "Analyze the provided Spectrogram of Nitrogen Dioxide night time data for four days. Average value on those four nights is 1624, 1730, 1632 and 1601. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+>       "answers": "1590"
+>    },
+ -  **[Text Based model]** Prediction for next day, based on 4 day average, image transformed data and more context about the dataset - Llava 1.6 7B
+>    {
+>        "id": "id_3",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_3_n.jpg",
+>        "query_spectrogram": "Mentioned data is from Air Quality Chemical Multisensory Device which uses tungsten oxide as its sensing material and is designed to detect nitrogen dioxide (NO2) gas. It is deployed in a significantly polluted area, at road level, within an Italian city. Analyze the provided Spectrogram of Nitrogen Dioxide night time data for four days. Average value on those four nights is 1624, 1730, 1632 and 1601. Estimate the expected average Nitrogen Dioxide value for the subsequent night.",
+>       "answers": "1590"
+>    },
+
+#### 3.3.2 Dataset_v2 Processing and Prompt types
+
+This analysis is a bit different then the previous type of testing. Its an AirQuality dataset from the  US Environmental Protection Agency which provides yearly everyday data for single pollutant for a city. We took the NO2 pollutant as it had a good trend of data. The values were in floating values. As undertstood by one of the literature review [3], LLMs find it tough to understand decimal values, hence we multipled all the values by 10 and converted them to interger numbers. We also took a far greater number of days, 10 in our case, as the prompt to detect the next day value.
+We fine tuned our model using three years worth of data from Los Angeles city from 2016 to 2018. We created the testing dataset from the same source but used a different city San Fransciso because it has similar weather conditions like LA and a different year, 2023 for instance. We also tried multiple prompts for testing the fine tuned model to understand how well it has understood the trend. The training and testing prompts are mentioned below. I have only mentioned multimodal prompts, text based prompts are also similar to this
+- **[Training Prompt]** Provided 10 days data points as part of the prompt along with details about those days like the days and the season.
+>    {
+>        "id": "id_3",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_3.jpg",
+>        "query_spectrogram": " Average value on Nitrogen Dioxide in Los Angeles on ten consecutive days Wednesday, Thursday, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday during the Winter season is 179, ... , 507.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+>       "answers": "411"
+>    },
+- **[Testing Prompt 1]** Provide 10 days data without the additional context about the data. This is to understand if the model still require all the context about the data to predict the next day value.
+>    {
+>        "id": "id_1",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_1.jpg",
+>        "query_spectrogram": "Average value on Nitrogen Dioxide on ten consecutive days is 394, .. , 414. Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected average Nitrogen Dioxide value for the subsequent day.",
+>        "answers": "355"
+>    },
+- **[Testing Prompt 2]** This prompt is similar to the training dataset, just the city and the year is differnt.
+>    {
+>        "id": "id_1",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_1.jpg",
+>        "query_spectrogram": " Average value on Nitrogen Dioxide in San Francisco on ten consecutive days Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday during the Winter season is 394, .. , 414.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+>        "answers": "355"
+>    },
+- **[Testing Prompt 3]** Here instead of providing a total of 10 days, we give 6 days of data along with all other context about the data. Main aim is understand how well the model has understood the trend in the data and how well can it relate with the context
+>    {
+>        "id": "id_0",
+>        "image_path_spectrogram": "Dataset/Images_Spectrogram/Data_0.jpg",
+>        "query_spectrogram": " Average value on Nitrogen Dioxide in San Francisco on six consecutive days Friday, Saturday, Sunday, Monday, Tuesday, Wednesday during the Winter season is 145, ... , 238.Analyze the provided Spectrogram of Nitrogen Dioxide for six days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+>       "answers": "249"
+>    },
 
 # 4. Evaluation and Results
+Based on the two different strategy and the 2 different models, one based on pure text prompts and another one being multimodal, we got some interesting results. Here is the summary of them:
+
 
 # 5. Discussion and Conclusions
 
