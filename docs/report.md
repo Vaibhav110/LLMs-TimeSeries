@@ -191,7 +191,36 @@ Based on the two different strategy and the 2 different models, one based on pur
 
 
 
+| MODEL                                             | TESTING PROMPT TYPE: Different City     | MAE              |      |             | RMSE             |       |             |
+|---------------------------------------------------|-----------------------------------------|------------------|------|-------------|------------------|-------|-------------|
+|                                                   |                                         | Scalogram        | MTF  | Spectrogram | Scalogram        | MTF   | Spectrogram |
+| MULTIMODAL MODEL  (Used the Llava 1.6 7B as base) | Type 1: Ten days data with less context | 67.0             | 69.5 | 71.6        | 88.8             | 84.2  | 89.6        |
+|                                                   | Type 2: Ten days data with more context | 66.8             | 74.5 | 77          | 95.0             | 89.8  | 100.4       |
+|                                                   | Type 3: Six days data with more context | 73.5             | 83.9 | 108.32      | 96.33            | 103.7 | 126.12      |
+| TEXT MODELS  (Used the Llama 3.2 1B as base)      | Type 1: Ten days data with less context | Undefined Result |      |             | Undefined Result |       |             |
+|                                                   | Type 2: Ten days data with more context | 80.1             |      |             | 95.2             |       |             |
+|                                                   | Type 3: Six days data with more context | 83.9             |      |             | 103.6            |       |             |
+
+
+### 4.2 Running the Model on Android device
+Executorch is the framework created by pytorch. Its an end-to-end solution for enabling on-device inference capabilities across mobile and edge devices. We used the pytorch to enable the LLM device on an android phone. It is capable to run both llama 3.2 1B and Llava 1.5 model on a high end android phone. The model can be loaded in possible 3 ways for android phones:
+- XNN PACK to run the model on CPU
+- Qualcoomm version which can utilize the GPU present int eh Qualcomm Gen 1,2,3 chips
+- Mediatek version
+
+We used the XNN PACK model and were able to run the Llama model on the Google Pixel 8 phone. The android app provides the capability to load the model pte file and the tokenizer file to the App seperately. Once we fine tune the model as above we can put the generated pte and the tokenizer file on the phone and can use the fine tuned LLM
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Llama_on_phone.jpg?raw=true)
+![alt text](https://github.com/Vaibhav110/LLMs-TimeSeries/blob/main/docs/media/Llama_options.jpg?raw=true)
+
 # 5. Discussion and Conclusions
+Based on both the result we can highligh some points:
+- Adding images along with the texual data do help in better prediction of data to some extent. Which is visible in both the Dataset versions.
+- Scalogram transformations provide better results in predicting the time series values.
+- Adding more context about the data helps the model to better understand the trends, which is visible in both the strategy. On the other hand, testing the model with or without context has not much effect to the outcome.
+  - In comparision, text based model react based on what data tha model was fine tuned in. This can be reasoned out based on the number of parameters in the LLM model. Llama being a smaller model was not able to understand the context efficiently.
+- Llava being a bigger model works better in understanding the trend as compared to the smaller llama model
+
+
 
 # 6. References
 [1] Mingtian Tan, Mike A. Merrill, Vinayak Gupta. (2024). Are Language Models Actually Useful for Time Series Forecasting?
