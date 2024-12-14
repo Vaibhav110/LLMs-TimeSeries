@@ -220,6 +220,14 @@ Based on both the result we can highligh some points:
   - In comparision, text based model react based on what data tha model was fine tuned in. This can be reasoned out based on the number of parameters in the LLM model. Llama being a smaller model was not able to understand the context efficiently.
 - Llava being a bigger model works better in understanding the trend as compared to the smaller llama model
 
+The whole project can be further analyzed and build upon to explore more fundamental questions related to LLMs and Time series forecasting . Few of them being:
+- Test to be carried out on much bigger models or on a bigger dataset for Domain-Specific Optimizations
+- Understand more about how the query and the level on context affect the forecasting
+- We can modify the models tokenization process to refine the model
+- Developing new compression or quantization techniques for edge development
+- Compare the Few-Shot and Zero-Shot Capabilities for any model
+- Can look further into other ways of time series transformation
+
 
 
 # 6. References
