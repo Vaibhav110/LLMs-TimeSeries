@@ -1,0 +1,322 @@
+[
+    {
+        "id": "id_0",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_0.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Wednesday during the Winter 2023 season is 186, 252, 216, 190, 155, 162, 114, 82, 92, 87. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_0.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Wednesday during the Winter 2023 season is 186, 252, 216, 190, 155, 162, 114, 82, 92, 87. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_0.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Wednesday during the Winter 2023 season is 186, 252, 216, 190, 155, 162, 114, 82, 92, 87.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "203"
+    },
+    {
+        "id": "id_1",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_1.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Winter 2023 season is 112, 47, 105, 172, 294, 272, 248, 381, 349, 241. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_1.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Winter 2023 season is 112, 47, 105, 172, 294, 272, 248, 381, 349, 241. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_1.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Winter 2023 season is 112, 47, 105, 172, 294, 272, 248, 381, 349, 241.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "392"
+    },
+    {
+        "id": "id_2",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_2.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Winter 2023 season is 353, 390, 255, 310, 250, 78, 358, 437, 387, 396. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_2.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Winter 2023 season is 353, 390, 255, 310, 250, 78, 358, 437, 387, 396. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_2.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Winter 2023 season is 353, 390, 255, 310, 250, 78, 358, 437, 387, 396.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "289"
+    },
+    {
+        "id": "id_3",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_3.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Winter 2023 season is 236, 94, 317, 341, 381, 343, 305, 296, 266, 183. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_3.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Winter 2023 season is 236, 94, 317, 341, 381, 343, 305, 296, 266, 183. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_3.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Winter 2023 season is 236, 94, 317, 341, 381, 343, 305, 296, 266, 183.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "78"
+    },
+    {
+        "id": "id_4",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_4.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Winter 2023 season is 329, 413, 379, 385, 310, 271, 153, 88, 172, 117. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_4.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Winter 2023 season is 329, 413, 379, 385, 310, 271, 153, 88, 172, 117. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_4.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Winter 2023 season is 329, 413, 379, 385, 310, 271, 153, 88, 172, 117.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "156"
+    },
+    {
+        "id": "id_5",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_5.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Winter 2023 season is 143, 177, 150, 105, 336, 283, 65, 97, 144, 243. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_5.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Winter 2023 season is 143, 177, 150, 105, 336, 283, 65, 97, 144, 243. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_5.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Winter 2023 season is 143, 177, 150, 105, 336, 283, 65, 97, 144, 243.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "154"
+    },
+    {
+        "id": "id_6",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_6.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Winter 2023 season is 265, 121, 214, 84, 127, 86, 336, 189, 205, 234. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_6.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Winter 2023 season is 265, 121, 214, 84, 127, 86, 336, 189, 205, 234. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_6.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Winter 2023 season is 265, 121, 214, 84, 127, 86, 336, 189, 205, 234.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "160"
+    },
+    {
+        "id": "id_7",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_7.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 132, 94, 104, 64, 78, 320, 113, 200, 279, 302. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_7.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 132, 94, 104, 64, 78, 320, 113, 200, 279, 302. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_7.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 132, 94, 104, 64, 78, 320, 113, 200, 279, 302.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "243"
+    },
+    {
+        "id": "id_8",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_8.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Spring 2023 season is 35, 78, 92, 245, 246, 87, 132, 182, 204, 60. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_8.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Spring 2023 season is 35, 78, 92, 245, 246, 87, 132, 182, 204, 60. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_8.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Spring 2023 season is 35, 78, 92, 245, 246, 87, 132, 182, 204, 60.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "86"
+    },
+    {
+        "id": "id_9",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_9.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Spring 2023 season is 223, 82, 36, 32, 51, 128, 126, 326, 299, 94. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_9.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Spring 2023 season is 223, 82, 36, 32, 51, 128, 126, 326, 299, 94. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_9.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Spring 2023 season is 223, 82, 36, 32, 51, 128, 126, 326, 299, 94.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "63"
+    },
+    {
+        "id": "id_10",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_10.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Spring 2023 season is 138, 182, 161, 252, 80, 38, 37, 65, 84, 92. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_10.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Spring 2023 season is 138, 182, 161, 252, 80, 38, 37, 65, 84, 92. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_10.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Spring 2023 season is 138, 182, 161, 252, 80, 38, 37, 65, 84, 92.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "163"
+    },
+    {
+        "id": "id_11",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_11.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Spring 2023 season is 57, 69, 143, 124, 77, 52, 44, 51, 123, 45. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_11.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Spring 2023 season is 57, 69, 143, 124, 77, 52, 44, 51, 123, 45. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_11.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Spring 2023 season is 57, 69, 143, 124, 77, 52, 44, 51, 123, 45.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "65"
+    },
+    {
+        "id": "id_12",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_12.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Spring 2023 season is 100, 46, 42, 40, 28, 23, 60, 56, 61, 38. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_12.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Spring 2023 season is 100, 46, 42, 40, 28, 23, 60, 56, 61, 38. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_12.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Spring 2023 season is 100, 46, 42, 40, 28, 23, 60, 56, 61, 38.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "65"
+    },
+    {
+        "id": "id_13",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_13.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Spring 2023 season is 29, 25, 31, 46, 53, 46, 40, 61, 21, 49. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_13.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Spring 2023 season is 29, 25, 31, 46, 53, 46, 40, 61, 21, 49. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_13.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Spring 2023 season is 29, 25, 31, 46, 53, 46, 40, 61, 21, 49.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "67"
+    },
+    {
+        "id": "id_14",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_14.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 48, 123, 33, 33, 21, 46, 46, 36, 75, 53. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_14.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 48, 123, 33, 33, 21, 46, 46, 36, 75, 53. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_14.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Spring 2023 season is 48, 123, 33, 33, 21, 46, 46, 36, 75, 53.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "31"
+    },
+    {
+        "id": "id_15",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_15.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Friday during the Summer 2023 season is 18, 40, 137, 46, 36, 39, 23, 23, 51, 75. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_15.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Friday during the Summer 2023 season is 18, 40, 137, 46, 36, 39, 23, 23, 51, 75. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_15.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Friday during the Summer 2023 season is 18, 40, 137, 46, 36, 39, 23, 23, 51, 75.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "93"
+    },
+    {
+        "id": "id_16",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_16.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 94, 30, 22, 39, 44, 38, 29, 24, 37, 42. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_16.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 94, 30, 22, 39, 44, 38, 29, 24, 37, 42. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_16.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 94, 30, 22, 39, 44, 38, 29, 24, 37, 42.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "33"
+    },
+    {
+        "id": "id_17",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_17.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Summer 2023 season is 62, 62, 51, 76, 30, 36, 105, 50, 64, 25. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_17.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Summer 2023 season is 62, 62, 51, 76, 30, 36, 105, 50, 64, 25. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_17.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Summer 2023 season is 62, 62, 51, 76, 30, 36, 105, 50, 64, 25.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "35"
+    },
+    {
+        "id": "id_18",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_18.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Summer 2023 season is 48, 34, 33, 36, 27, 44, 35, 36, 30, 42. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_18.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Summer 2023 season is 48, 34, 33, 36, 27, 44, 35, 36, 30, 42. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_18.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Summer 2023 season is 48, 34, 33, 36, 27, 44, 35, 36, 30, 42.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "31"
+    },
+    {
+        "id": "id_19",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_19.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Summer 2023 season is 71, 106, 164, 30, 68, 37, 33, 48, 79, 147. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_19.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Summer 2023 season is 71, 106, 164, 30, 68, 37, 33, 48, 79, 147. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_19.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Summer 2023 season is 71, 106, 164, 30, 68, 37, 33, 48, 79, 147.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "125"
+    },
+    {
+        "id": "id_20",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_20.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Summer 2023 season is 117, 47, 30, 26, 54, 73, 77, 195, 93, 45. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_20.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Summer 2023 season is 117, 47, 30, 26, 54, 73, 77, 195, 93, 45. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_20.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Summer 2023 season is 117, 47, 30, 26, 54, 73, 77, 195, 93, 45.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "36"
+    },
+    {
+        "id": "id_21",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_21.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 41, 62, 114, 249, 47, 51, 84, 36, 27, 70. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_21.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 41, 62, 114, 249, 47, 51, 84, 36, 27, 70. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_21.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Summer 2023 season is 41, 62, 114, 249, 47, 51, 84, 36, 27, 70.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "83"
+    },
+    {
+        "id": "id_22",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_22.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Summer 2023 season is 47, 123, 43, 37, 58, 47, 43, 86, 42, 40. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_22.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Summer 2023 season is 47, 123, 43, 37, 58, 47, 43, 86, 42, 40. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_22.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Summer 2023 season is 47, 123, 43, 37, 58, 47, 43, 86, 42, 40.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "40"
+    },
+    {
+        "id": "id_23",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_23.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Summer 2023 season is 63, 56, 91, 249, 106, 79, 64, 128, 89, 215. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_23.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Summer 2023 season is 63, 56, 91, 249, 106, 79, 64, 128, 89, 215. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_23.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Wednesday during the Summer 2023 season is 63, 56, 91, 249, 106, 79, 64, 128, 89, 215.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "206"
+    },
+    {
+        "id": "id_24",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_24.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Fall 2023 season is 101, 61, 118, 89, 245, 403, 349, 356, 271, 46. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_24.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Fall 2023 season is 101, 61, 118, 89, 245, 403, 349, 356, 271, 46. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_24.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Friday to Sunday during the Fall 2023 season is 101, 61, 118, 89, 245, 403, 349, 356, 271, 46.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "123"
+    },
+    {
+        "id": "id_25",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_25.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Fall 2023 season is 65, 182, 209, 241, 238, 127, 221, 145, 354, 350. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_25.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Fall 2023 season is 65, 182, 209, 241, 238, 127, 221, 145, 354, 350. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_25.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Tuesday to Thursday during the Fall 2023 season is 65, 182, 209, 241, 238, 127, 221, 145, 354, 350.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "97"
+    },
+    {
+        "id": "id_26",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_26.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Fall 2023 season is 176, 55, 129, 178, 75, 137, 259, 182, 299, 341. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_26.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Fall 2023 season is 176, 55, 129, 178, 75, 137, 259, 182, 299, 341. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_26.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Saturday to Monday during the Fall 2023 season is 176, 55, 129, 178, 75, 137, 259, 182, 299, 341.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "414"
+    },
+    {
+        "id": "id_27",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_27.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Fall 2023 season is 384, 390, 311, 152, 148, 48, 162, 241, 239, 344. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_27.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Fall 2023 season is 384, 390, 311, 152, 148, 48, 162, 241, 239, 344. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_27.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Wednesday to Friday during the Fall 2023 season is 384, 390, 311, 152, 148, 48, 162, 241, 239, 344.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "342"
+    },
+    {
+        "id": "id_28",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_28.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 231, 264, 343, 210, 326, 254, 39, 134, 288, 358. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_28.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 231, 264, 343, 210, 326, 254, 39, 134, 288, 358. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_28.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 231, 264, 343, 210, 326, 254, 39, 134, 288, 358.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "396"
+    },
+    {
+        "id": "id_29",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_29.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Fall 2023 season is 273, 303, 239, 310, 401, 410, 247, 224, 223, 116. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_29.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Fall 2023 season is 273, 303, 239, 310, 401, 410, 247, 224, 223, 116. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_29.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Thursday to Saturday during the Fall 2023 season is 273, 303, 239, 310, 401, 410, 247, 224, 223, 116.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "131"
+    },
+    {
+        "id": "id_30",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_30.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Friday during the Fall 2023 season is 254, 277, 348, 271, 238, 236, 231, 340, 385, 362. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_30.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Friday during the Fall 2023 season is 254, 277, 348, 271, 238, 236, 231, 340, 385, 362. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_30.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Monday to Friday during the Fall 2023 season is 254, 277, 348, 271, 238, 236, 231, 340, 385, 362.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "412"
+    },
+    {
+        "id": "id_31",
+        "image_path_scalogram": "Dataset_SF_10/Images_Scalogram/Data_31.jpg",
+        "query_scalogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 358, 195, 139, 245, 313, 215, 233, 229, 218, 325. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_SF_10/Images_MTF/Data_31.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 358, 195, 139, 245, 313, 215, 233, 229, 218, 325. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_SF_10/Images_Spectrogram/Data_31.jpg",
+        "query_spectrogram": "Value on Nitrogen Dioxide in San Francisco on ten consecutive days from Sunday to Tuesday during the Fall 2023 season is 358, 195, 139, 245, 313, 215, 233, 229, 218, 325.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "272"
+    }
+]

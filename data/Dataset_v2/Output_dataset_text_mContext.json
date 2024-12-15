@@ -1,0 +1,722 @@
+[
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2016 season is 145, 298, 307, 368, 258, 238, 249. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "347"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2016 season is 246, 201, 287, 394, 474, 357, 226. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "275"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Winter 2016 season is 333, 315, 259, 235, 414, 355, 381. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "271"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Winter 2016 season is 218, 329, 320, 497, 430, 317, 79. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "227"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Tuesday during the Winter 2016 season is 269, 179, 198, 153, 43, 4, 292. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "588"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2016 season is 742, 587, 507, 411, 306, 387, 352. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "289"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2016 season is 284, 291, 307, 371, 462, 214, 479. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "485"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2016 season is 363, 288, 492, 545, 503, 435, 353. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "215"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Sunday during the Winter 2016 season is 88, 208, 256, 411, 250, 126, 107. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "197"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2016 season is 388, 311, 472, 320, 212, 245, 214. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "230"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2016 season is 222, 289, 406, 219, 116, 145, 193. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "181"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2016 season is 269, 231, 399, 322, 393, 455, 476. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "389"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2016 season is 232, 190, 149, 209, 221, 193, 192. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "210"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Sunday during the Spring 2016 season is 164, 116, 503, 426, 224, 95, 159. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "144"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2016 season is 290, 160, 193, 212, 129, 144, 243. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "334"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2016 season is 232, 168, 132, 113, 86, 221, 220. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "221"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2016 season is 283, 247, 132, 133, 193, 200, 231. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "187"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2016 season is 187, 122, 94, 117, 161, 183, 192. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "237"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2016 season is 185, 105, 133, 197, 273, 445, 403. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "301"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2016 season is 211, 254, 242, 248, 265, 189, 131. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "129"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Spring 2016 season is 168, 185, 244, 231, 473, 335, 274. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "480"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2016 season is 324, 308, 288, 189, 139, 164, 296. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "382"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2016 season is 385, 208, 171, 116, 112, 145, 159. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "182"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2016 season is 211, 286, 270, 201, 186, 226, 246. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "301"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Friday during the Summer 2016 season is 266, 157, 162, 289, 363, 417, 396. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "405"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2016 season is 218, 208, 299, 356, 324, 314, 179. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "158"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2016 season is 186, 227, 207, 223, 250, 220, 177. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "159"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2016 season is 180, 210, 180, 198, 228, 259, 417. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "440"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2016 season is 489, 372, 286, 223, 288, 269, 428. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "386"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2016 season is 325, 191, 174, 191, 313, 385, 422. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "352"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2016 season is 207, 128, 160, 165, 263, 357, 201. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "260"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2016 season is 267, 213, 131, 139, 270, 314, 374. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "369"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2016 season is 288, 417, 351, 261, 240, 290, 251. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "201"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2016 season is 198, 269, 359, 410, 398, 327, 221. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "247"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2016 season is 182, 204, 488, 355, 356, 319, 437. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "251"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2016 season is 280, 345, 318, 256, 129, 236, 335. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "309"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2016 season is 263, 547, 325, 317, 304, 275, 378. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "604"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2016 season is 333, 319, 248, 286, 233, 430, 458. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "467"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2016 season is 382, 292, 666, 577, 309, 378, 427. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "386"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2016 season is 268, 583, 626, 420, 252, 338, 508. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "392"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2016 season is 277, 369, 423, 257, 275, 224, 169. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "276"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2016 season is 318, 409, 303, 170, 321, 392, 359. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "333"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2016 season is 418, 471, 322, 271, 328, 391, 489. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "608"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2016 season is 190, 221, 354, 247, 420, 336, 270. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "137"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2016 season is 132, 153, 180, 300, 228, 341, 383. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "192"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Winter 2017 season is 152, 155, 249, 352, 260, 288, 252. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "249"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Winter 2017 season is 265, 207, 164, 169, 367, 331, 100. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "241"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2017 season is 364, 362, 142, 126, 152, 175, 174. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "235"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2017 season is 239, 187, 394, 273, 137, 415, 443. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "447"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2017 season is 432, 380, 141, 211, 240, 202, 267. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "408"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2017 season is 280, 224, 237, 378, 359, 301, 384. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "251"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2017 season is 136, 85, 237, 303, 290, 184, 252. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "179"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Sunday during the Winter 2017 season is 134, 447, 292, 188, 412, 281, 145. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "239"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2017 season is 497, 385, 444, 483, 461, 415, 484. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "462"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2017 season is 441, 475, 460, 299, 217, 167, 232. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "176"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2017 season is 206, 201, 159, 139, 140, 218, 430. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "388"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2017 season is 158, 229, 235, 195, 370, 453, 439. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "232"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2017 season is 126, 294, 338, 444, 292, 240, 162. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "398"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2017 season is 286, 331, 147, 147, 210, 462, 476. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "180"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Spring 2017 season is 159, 152, 280, 255, 238, 244, 183. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "465"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2017 season is 470, 348, 251, 236, 67, 87, 199. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "162"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2017 season is 206, 204, 226, 134, 70, 172, 116. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "223"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2017 season is 277, 241, 237, 260, 379, 319, 324. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "122"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2017 season is 116, 121, 137, 139, 175, 216, 226. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "252"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2017 season is 156, 151, 181, 174, 186, 257, 255. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "131"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2017 season is 116, 186, 259, 425, 350, 367, 315. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "256"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Spring 2017 season is 345, 415, 384, 188, 201, 200, 225. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "367"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2017 season is 379, 287, 159, 209, 194, 138, 219. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "280"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2017 season is 337, 299, 422, 361, 145, 244, 184. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "244"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2017 season is 244, 319, 294, 137, 209, 255, 297. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "267"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2017 season is 246, 216, 129, 274, 210, 187, 225. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "237"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2017 season is 139, 123, 233, 286, 332, 346, 247. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "200"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2017 season is 124, 262, 275, 306, 271, 266, 262. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "140"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2017 season is 188, 128, 178, 209, 240, 162, 110. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "153"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2017 season is 210, 176, 186, 189, 206, 262, 303. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "375"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2017 season is 504, 448, 414, 433, 64, 76, 206. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "222"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2017 season is 299, 250, 190, 234, 348, 346, 196. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "212"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2017 season is 166, 128, 172, 228, 222, 189, 169. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "212"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2017 season is 172, 142, 204, 463, 375, 564, 405. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "340"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2017 season is 121, 219, 209, 418, 421, 480, 280. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "344"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2017 season is 109, 365, 430, 244, 284, 340, 264. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "412"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2017 season is 371, 479, 220, 144, 232, 209, 422. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "366"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2017 season is 361, 384, 447, 385, 237, 151, 138. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "176"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2017 season is 242, 126, 149, 158, 295, 319, 317. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "176"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Friday during the Fall 2017 season is 192, 225, 327, 510, 471, 642, 336. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "344"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2017 season is 252, 538, 400, 276, 293, 265, 350. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "284"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2017 season is 217, 461, 511, 605, 468, 363, 314. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "239"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2017 season is 332, 427, 389, 444, 188, 206, 398. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "307"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2017 season is 466, 605, 439, 302, 222, 355, 497. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "372"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2017 season is 317, 363, 380, 440, 425, 490, 656. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "356"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2018 season is 580, 381, 317, 336, 696, 456, 585. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "434"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2018 season is 278, 363, 268, 125, 240, 332, 429. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "134"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Winter 2018 season is 157, 568, 497, 369, 604, 296, 202. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "180"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Winter 2018 season is 248, 231, 419, 305, 182, 164, 278. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "360"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2018 season is 349, 522, 647, 708, 495, 426, 411. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "403"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2018 season is 383, 481, 492, 146, 185, 147, 240. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "316"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2018 season is 370, 313, 282, 177, 134, 399, 291. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "174"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2018 season is 132, 149, 268, 290, 270, 234, 194. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "234"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2018 season is 179, 90, 180, 411, 526, 447, 356. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "151"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Sunday during the Winter 2018 season is 94, 235, 239, 170, 122, 105, 181. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "283"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2018 season is 375, 348, 239, 245, 105, 69, 143. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "343"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2018 season is 300, 419, 437, 372, 135, 156, 224. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "263"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2018 season is 213, 249, 140, 261, 382, 394, 399. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "137"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2018 season is 218, 327, 174, 150, 313, 158, 201. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "329"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2018 season is 267, 303, 382, 245, 212, 197, 171. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "95"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Spring 2018 season is 153, 117, 168, 311, 329, 281, 266. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "249"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2018 season is 251, 229, 192, 153, 92, 77, 128. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "190"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2018 season is 158, 119, 143, 106, 127, 198, 181. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "226"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2018 season is 172, 164, 115, 116, 160, 189, 172. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "113"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2018 season is 290, 248, 172, 220, 144, 141, 218. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "267"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2018 season is 203, 123, 276, 302, 254, 248, 231. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "133"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2018 season is 88, 154, 188, 167, 191, 165, 130. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "108"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2018 season is 174, 232, 220, 184, 112, 105, 107. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "143"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2018 season is 186, 184, 308, 499, 322, 115, 291. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "206"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2018 season is 179, 156, 181, 211, 194, 268, 115. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "157"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2018 season is 272, 268, 203, 235, 255, 121, 145. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "269"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2018 season is 298, 268, 279, 306, 299, 231, 399. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "452"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2018 season is 293, 285, 344, 136, 170, 210, 207. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "158"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2018 season is 159, 186, 170, 133, 148, 166, 163. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "190"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2018 season is 203, 135, 116, 195, 249, 306, 305. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "305"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2018 season is 196, 75, 96, 142, 171, 222, 351. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "347"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Tuesday during the Summer 2018 season is 261, 195, 464, 324, 283, 411, 484. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "330"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2018 season is 318, 277, 267, 265, 192, 237, 303. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "420"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2018 season is 272, 192, 256, 312, 334, 195, 173. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "203"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2018 season is 213, 95, 208, 172, 140, 178, 313. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "148"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2018 season is 157, 161, 389, 331, 225, 375, 267. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "287"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2018 season is 251, 298, 373, 460, 625, 507, 348. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "449"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2018 season is 389, 331, 498, 471, 368, 328, 347. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "280"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2018 season is 225, 154, 484, 355, 244, 318, 393. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "294"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2018 season is 372, 563, 366, 244, 688, 473, 319. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "114"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2018 season is 227, 161, 245, 334, 479, 303, 161. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "205"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2018 season is 152, 191, 254, 270, 369, 253, 245. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "218"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2018 season is 150, 390, 433, 306, 297, 408, 396. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "374"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2018 season is 337, 331, 441, 535, 536, 477, 414. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "320"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2019 season is 116, 414, 272, 360, 183, 241, 254. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "169"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2019 season is 317, 345, 418, 324, 228, 295, 220. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "360"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2019 season is 365, 352, 310, 129, 200, 152, 216. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "264"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2019 season is 270, 125, 201, 303, 260, 401, 319. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "215"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2019 season is 353, 231, 488, 597, 317, 318, 300. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "191"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Winter 2019 season is 101, 208, 172, 183, 306, 302, 95. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "116"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Winter 2019 season is 141, 260, 421, 149, 180, 119, 140. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "217"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Winter 2019 season is 343, 248, 234, 266, 184, 231, 420. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "391"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Winter 2019 season is 317, 296, 329, 338, 117, 188, 353. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "155"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Winter 2019 season is 235, 157, 107, 106, 238, 218, 175. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "374"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Winter 2019 season is 388, 463, 126, 331, 380, 129, 134. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "227"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Winter 2019 season is 109, 121, 302, 434, 260, 173, 196. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "242"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Spring 2019 season is 166, 393, 294, 192, 139, 123, 127. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "275"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Spring 2019 season is 329, 315, 185, 310, 196, 255, 216. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "302"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2019 season is 191, 223, 302, 362, 106, 101, 202. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "313"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2019 season is 288, 270, 229, 130, 120, 166, 169. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "259"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2019 season is 304, 216, 150, 100, 167, 134, 193. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "180"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Spring 2019 season is 149, 215, 104, 179, 169, 158, 116. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "137"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Spring 2019 season is 147, 59, 135, 143, 238, 137, 168. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "203"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Sunday during the Spring 2019 season is 65, 82, 151, 201, 146, 122, 110. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "167"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Spring 2019 season is 182, 188, 182, 184, 140, 166, 363. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "334"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Spring 2019 season is 230, 168, 165, 125, 90, 168, 195. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "157"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Spring 2019 season is 159, 136, 92, 100, 182, 157, 181. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "184"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2019 season is 227, 303, 214, 286, 192, 137, 164. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "163"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2019 season is 136, 85, 185, 226, 304, 282, 339. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "245"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2019 season is 166, 370, 333, 176, 150, 173, 137. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "209"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2019 season is 269, 354, 377, 346, 307, 338, 217. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "267"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Summer 2019 season is 214, 251, 346, 375, 302, 201, 305. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "264"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Summer 2019 season is 241, 316, 334, 285, 145, 254, 353. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "393"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Summer 2019 season is 315, 272, 146, 131, 256, 310, 403. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "351"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Summer 2019 season is 194, 272, 212, 348, 305, 195, 298. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "342"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Summer 2019 season is 290, 188, 163, 335, 392, 421, 272. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "290"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Summer 2019 season is 183, 181, 115, 234, 389, 478, 393. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "319"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Summer 2019 season is 302, 259, 262, 197, 197, 232, 240. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "298"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2019 season is 357, 348, 164, 211, 169, 115, 196. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "153"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2019 season is 285, 433, 362, 248, 333, 544, 440. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "251"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2019 season is 378, 229, 317, 256, 210, 418, 464. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "412"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2019 season is 252, 256, 325, 233, 339, 461, 498. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "215"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2019 season is 218, 98, 277, 401, 356, 210, 436. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "469"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Sunday to Saturday during the Fall 2019 season is 290, 499, 551, 460, 509, 440, 422. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "assistant": "368"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Monday to Sunday during the Fall 2019 season is 371, 498, 433, 401, 380, 350, 302. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "assistant": "551"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Tuesday to Monday during the Fall 2019 season is 452, 155, 214, 276, 179, 228, 269. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "assistant": "258"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Wednesday to Tuesday during the Fall 2019 season is 229, 60, 131, 68, 198, 468, 432. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "assistant": "336"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Thursday to Wednesday during the Fall 2019 season is 195, 322, 105, 104, 277, 272, 393. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "assistant": "467"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Friday to Thursday during the Fall 2019 season is 553, 166, 183, 279, 263, 308, 283. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "assistant": "269"
+    },
+    {
+        "user": "Value on Nitrogen Dioxide in Los Angeles on seven consecutive days from Saturday to Friday during the Fall 2019 season is 232, 266, 191, 216, 82, 147, 215. Estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "assistant": "142"
+    }
+]

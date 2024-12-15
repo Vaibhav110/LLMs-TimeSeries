@@ -1,0 +1,1312 @@
+[
+    {
+        "id": "id_0",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_0.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2016 season is 145, 298, 307, 368, 258, 238, 249, 347, 246, 201. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_0.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2016 season is 145, 298, 307, 368, 258, 238, 249, 347, 246, 201. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_0.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Winter 2016 season is 145, 298, 307, 368, 258, 238, 249, 347, 246, 201.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "287"
+    },
+    {
+        "id": "id_1",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_1.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2016 season is 394, 474, 357, 226, 275, 333, 315, 259, 235, 414. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_1.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2016 season is 394, 474, 357, 226, 275, 333, 315, 259, 235, 414. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_1.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Winter 2016 season is 394, 474, 357, 226, 275, 333, 315, 259, 235, 414.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "355"
+    },
+    {
+        "id": "id_2",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_2.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2016 season is 381, 271, 218, 329, 320, 497, 430, 317, 79, 227. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_2.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2016 season is 381, 271, 218, 329, 320, 497, 430, 317, 79, 227. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_2.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Winter 2016 season is 381, 271, 218, 329, 320, 497, 430, 317, 79, 227.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "269"
+    },
+    {
+        "id": "id_3",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_3.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Saturday  during the Winter 2016 season is 179, 198, 153, 43, 4, 292, 588, 742, 587, 507. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_3.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Saturday  during the Winter 2016 season is 179, 198, 153, 43, 4, 292, 588, 742, 587, 507. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_3.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Saturday during the Winter 2016 season is 179, 198, 153, 43, 4, 292, 588, 742, 587, 507.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "411"
+    },
+    {
+        "id": "id_4",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_4.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2016 season is 306, 387, 352, 289, 284, 291, 307, 371, 462, 214. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_4.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2016 season is 306, 387, 352, 289, 284, 291, 307, 371, 462, 214. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_4.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Winter 2016 season is 306, 387, 352, 289, 284, 291, 307, 371, 462, 214.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "479"
+    },
+    {
+        "id": "id_5",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_5.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2016 season is 485, 363, 288, 492, 545, 503, 435, 353, 215, 88. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_5.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2016 season is 485, 363, 288, 492, 545, 503, 435, 353, 215, 88. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_5.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Winter 2016 season is 485, 363, 288, 492, 545, 503, 435, 353, 215, 88.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "208"
+    },
+    {
+        "id": "id_6",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_6.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday  during the Winter 2016 season is 256, 411, 250, 126, 107, 197, 388, 311, 472, 320. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_6.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday  during the Winter 2016 season is 256, 411, 250, 126, 107, 197, 388, 311, 472, 320. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_6.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday during the Winter 2016 season is 256, 411, 250, 126, 107, 197, 388, 311, 472, 320.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "212"
+    },
+    {
+        "id": "id_7",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_7.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2016 season is 245, 214, 230, 222, 289, 406, 219, 116, 145, 193. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_7.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2016 season is 245, 214, 230, 222, 289, 406, 219, 116, 145, 193. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_7.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Winter 2016 season is 245, 214, 230, 222, 289, 406, 219, 116, 145, 193.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "181"
+    },
+    {
+        "id": "id_8",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_8.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2016 season is 269, 231, 399, 322, 393, 455, 476, 389, 232, 190. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_8.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2016 season is 269, 231, 399, 322, 393, 455, 476, 389, 232, 190. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_8.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Spring 2016 season is 269, 231, 399, 322, 393, 455, 476, 389, 232, 190.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "149"
+    },
+    {
+        "id": "id_9",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_9.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Friday  during the Spring 2016 season is 209, 221, 193, 192, 210, 164, 116, 503, 426, 224. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_9.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Friday  during the Spring 2016 season is 209, 221, 193, 192, 210, 164, 116, 503, 426, 224. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_9.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Friday during the Spring 2016 season is 209, 221, 193, 192, 210, 164, 116, 503, 426, 224.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "95"
+    },
+    {
+        "id": "id_10",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_10.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2016 season is 159, 144, 290, 160, 193, 212, 129, 144, 243, 334. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_10.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2016 season is 159, 144, 290, 160, 193, 212, 129, 144, 243, 334. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_10.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Spring 2016 season is 159, 144, 290, 160, 193, 212, 129, 144, 243, 334.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "232"
+    },
+    {
+        "id": "id_11",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_11.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2016 season is 168, 132, 113, 86, 221, 220, 221, 283, 247, 132. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_11.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2016 season is 168, 132, 113, 86, 221, 220, 221, 283, 247, 132. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_11.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Spring 2016 season is 168, 132, 113, 86, 221, 220, 221, 283, 247, 132.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "133"
+    },
+    {
+        "id": "id_12",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_12.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2016 season is 193, 200, 231, 187, 187, 122, 94, 117, 161, 183. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_12.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2016 season is 193, 200, 231, 187, 187, 122, 94, 117, 161, 183. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_12.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Spring 2016 season is 193, 200, 231, 187, 187, 122, 94, 117, 161, 183.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "192"
+    },
+    {
+        "id": "id_13",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_13.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2016 season is 237, 185, 105, 133, 197, 273, 445, 403, 301, 211. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_13.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2016 season is 237, 185, 105, 133, 197, 273, 445, 403, 301, 211. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_13.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Spring 2016 season is 237, 185, 105, 133, 197, 273, 445, 403, 301, 211.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "254"
+    },
+    {
+        "id": "id_14",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_14.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2016 season is 242, 248, 265, 189, 131, 129, 168, 185, 244, 231. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_14.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2016 season is 242, 248, 265, 189, 131, 129, 168, 185, 244, 231. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_14.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2016 season is 242, 248, 265, 189, 131, 129, 168, 185, 244, 231.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "473"
+    },
+    {
+        "id": "id_15",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_15.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2016 season is 335, 274, 480, 324, 308, 288, 189, 139, 164, 296. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_15.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2016 season is 335, 274, 480, 324, 308, 288, 189, 139, 164, 296. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_15.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Spring 2016 season is 335, 274, 480, 324, 308, 288, 189, 139, 164, 296.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "382"
+    },
+    {
+        "id": "id_16",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_16.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2016 season is 385, 208, 171, 116, 112, 145, 159, 182, 211, 286. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_16.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2016 season is 385, 208, 171, 116, 112, 145, 159, 182, 211, 286. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_16.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2016 season is 385, 208, 171, 116, 112, 145, 159, 182, 211, 286.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "270"
+    },
+    {
+        "id": "id_17",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_17.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday  during the Summer 2016 season is 201, 186, 226, 246, 301, 266, 157, 162, 289, 363. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_17.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday  during the Summer 2016 season is 201, 186, 226, 246, 301, 266, 157, 162, 289, 363. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_17.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday during the Summer 2016 season is 201, 186, 226, 246, 301, 266, 157, 162, 289, 363.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "417"
+    },
+    {
+        "id": "id_18",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_18.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2016 season is 396, 405, 218, 208, 299, 356, 324, 314, 179, 158. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_18.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2016 season is 396, 405, 218, 208, 299, 356, 324, 314, 179, 158. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_18.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Summer 2016 season is 396, 405, 218, 208, 299, 356, 324, 314, 179, 158.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "186"
+    },
+    {
+        "id": "id_19",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_19.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2016 season is 227, 207, 223, 250, 220, 177, 159, 180, 210, 180. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_19.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2016 season is 227, 207, 223, 250, 220, 177, 159, 180, 210, 180. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_19.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Summer 2016 season is 227, 207, 223, 250, 220, 177, 159, 180, 210, 180.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "198"
+    },
+    {
+        "id": "id_20",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_20.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2016 season is 228, 259, 417, 440, 489, 372, 286, 223, 288, 269. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_20.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2016 season is 228, 259, 417, 440, 489, 372, 286, 223, 288, 269. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_20.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Summer 2016 season is 228, 259, 417, 440, 489, 372, 286, 223, 288, 269.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "428"
+    },
+    {
+        "id": "id_21",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_21.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2016 season is 386, 325, 191, 174, 191, 313, 385, 422, 352, 207. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_21.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2016 season is 386, 325, 191, 174, 191, 313, 385, 422, 352, 207. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_21.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2016 season is 386, 325, 191, 174, 191, 313, 385, 422, 352, 207.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "128"
+    },
+    {
+        "id": "id_22",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_22.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2016 season is 160, 165, 263, 357, 201, 260, 267, 213, 131, 139. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_22.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2016 season is 160, 165, 263, 357, 201, 260, 267, 213, 131, 139. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_22.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Summer 2016 season is 160, 165, 263, 357, 201, 260, 267, 213, 131, 139.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "270"
+    },
+    {
+        "id": "id_23",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_23.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2016 season is 314, 374, 369, 288, 417, 351, 261, 240, 290, 251. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_23.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2016 season is 314, 374, 369, 288, 417, 351, 261, 240, 290, 251. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_23.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Summer 2016 season is 314, 374, 369, 288, 417, 351, 261, 240, 290, 251.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "201"
+    },
+    {
+        "id": "id_24",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_24.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2016 season is 198, 269, 359, 410, 398, 327, 221, 247, 182, 204. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_24.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2016 season is 198, 269, 359, 410, 398, 327, 221, 247, 182, 204. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_24.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Fall 2016 season is 198, 269, 359, 410, 398, 327, 221, 247, 182, 204.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "488"
+    },
+    {
+        "id": "id_25",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_25.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2016 season is 355, 356, 319, 437, 251, 280, 345, 318, 256, 129. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_25.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2016 season is 355, 356, 319, 437, 251, 280, 345, 318, 256, 129. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_25.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Fall 2016 season is 355, 356, 319, 437, 251, 280, 345, 318, 256, 129.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "236"
+    },
+    {
+        "id": "id_26",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_26.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2016 season is 335, 309, 263, 547, 325, 317, 304, 275, 378, 604. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_26.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2016 season is 335, 309, 263, 547, 325, 317, 304, 275, 378, 604. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_26.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2016 season is 335, 309, 263, 547, 325, 317, 304, 275, 378, 604.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "333"
+    },
+    {
+        "id": "id_27",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_27.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2016 season is 319, 248, 286, 233, 430, 458, 467, 382, 292, 666. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_27.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2016 season is 319, 248, 286, 233, 430, 458, 467, 382, 292, 666. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_27.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Fall 2016 season is 319, 248, 286, 233, 430, 458, 467, 382, 292, 666.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "577"
+    },
+    {
+        "id": "id_28",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_28.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2016 season is 309, 378, 427, 386, 268, 583, 626, 420, 252, 338. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_28.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2016 season is 309, 378, 427, 386, 268, 583, 626, 420, 252, 338. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_28.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Fall 2016 season is 309, 378, 427, 386, 268, 583, 626, 420, 252, 338.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "508"
+    },
+    {
+        "id": "id_29",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_29.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2016 season is 392, 277, 369, 423, 257, 275, 224, 169, 276, 318. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_29.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2016 season is 392, 277, 369, 423, 257, 275, 224, 169, 276, 318. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_29.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2016 season is 392, 277, 369, 423, 257, 275, 224, 169, 276, 318.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "409"
+    },
+    {
+        "id": "id_30",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_30.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Fall 2016 season is 303, 170, 321, 392, 359, 333, 418, 471, 322, 271. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_30.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Fall 2016 season is 303, 170, 321, 392, 359, 333, 418, 471, 322, 271. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_30.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday during the Fall 2016 season is 303, 170, 321, 392, 359, 333, 418, 471, 322, 271.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "328"
+    },
+    {
+        "id": "id_31",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_31.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2016 season is 391, 489, 608, 190, 221, 354, 247, 420, 336, 270. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_31.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2016 season is 391, 489, 608, 190, 221, 354, 247, 420, 336, 270. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_31.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2016 season is 391, 489, 608, 190, 221, 354, 247, 420, 336, 270.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "137"
+    },
+    {
+        "id": "id_32",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_32.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2017 season is 132, 153, 180, 300, 228, 341, 383, 192, 152, 155. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_32.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2017 season is 132, 153, 180, 300, 228, 341, 383, 192, 152, 155. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_32.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Winter 2017 season is 132, 153, 180, 300, 228, 341, 383, 192, 152, 155.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "249"
+    },
+    {
+        "id": "id_33",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_33.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2017 season is 352, 260, 288, 252, 249, 265, 207, 164, 169, 367. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_33.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2017 season is 352, 260, 288, 252, 249, 265, 207, 164, 169, 367. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_33.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Winter 2017 season is 352, 260, 288, 252, 249, 265, 207, 164, 169, 367.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "331"
+    },
+    {
+        "id": "id_34",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_34.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2017 season is 100, 241, 364, 362, 142, 126, 152, 175, 174, 235. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_34.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2017 season is 100, 241, 364, 362, 142, 126, 152, 175, 174, 235. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_34.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Winter 2017 season is 100, 241, 364, 362, 142, 126, 152, 175, 174, 235.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "239"
+    },
+    {
+        "id": "id_35",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_35.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2017 season is 187, 394, 273, 137, 415, 443, 447, 432, 380, 141. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_35.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2017 season is 187, 394, 273, 137, 415, 443, 447, 432, 380, 141. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_35.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Winter 2017 season is 187, 394, 273, 137, 415, 443, 447, 432, 380, 141.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "211"
+    },
+    {
+        "id": "id_36",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_36.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2017 season is 240, 202, 267, 408, 280, 224, 237, 378, 359, 301. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_36.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2017 season is 240, 202, 267, 408, 280, 224, 237, 378, 359, 301. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_36.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Winter 2017 season is 240, 202, 267, 408, 280, 224, 237, 378, 359, 301.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "384"
+    },
+    {
+        "id": "id_37",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_37.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2017 season is 251, 136, 85, 237, 303, 290, 184, 252, 179, 134. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_37.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2017 season is 251, 136, 85, 237, 303, 290, 184, 252, 179, 134. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_37.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Winter 2017 season is 251, 136, 85, 237, 303, 290, 184, 252, 179, 134.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "447"
+    },
+    {
+        "id": "id_38",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_38.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday  during the Winter 2017 season is 292, 188, 412, 281, 145, 239, 497, 385, 444, 483. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_38.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday  during the Winter 2017 season is 292, 188, 412, 281, 145, 239, 497, 385, 444, 483. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_38.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Friday during the Winter 2017 season is 292, 188, 412, 281, 145, 239, 497, 385, 444, 483.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "461"
+    },
+    {
+        "id": "id_39",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_39.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2017 season is 415, 484, 462, 441, 475, 460, 299, 217, 167, 232. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_39.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2017 season is 415, 484, 462, 441, 475, 460, 299, 217, 167, 232. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_39.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Winter 2017 season is 415, 484, 462, 441, 475, 460, 299, 217, 167, 232.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "176"
+    },
+    {
+        "id": "id_40",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_40.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2017 season is 206, 201, 159, 139, 140, 218, 430, 388, 158, 229. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_40.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2017 season is 206, 201, 159, 139, 140, 218, 430, 388, 158, 229. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_40.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Spring 2017 season is 206, 201, 159, 139, 140, 218, 430, 388, 158, 229.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "235"
+    },
+    {
+        "id": "id_41",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_41.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2017 season is 195, 370, 453, 439, 232, 126, 294, 338, 444, 292. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_41.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2017 season is 195, 370, 453, 439, 232, 126, 294, 338, 444, 292. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_41.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Spring 2017 season is 195, 370, 453, 439, 232, 126, 294, 338, 444, 292.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "240"
+    },
+    {
+        "id": "id_42",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_42.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2017 season is 162, 398, 286, 331, 147, 147, 210, 462, 476, 180. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_42.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2017 season is 162, 398, 286, 331, 147, 147, 210, 462, 476, 180. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_42.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Spring 2017 season is 162, 398, 286, 331, 147, 147, 210, 462, 476, 180.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "159"
+    },
+    {
+        "id": "id_43",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_43.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2017 season is 152, 280, 255, 238, 244, 183, 465, 470, 348, 251. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_43.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2017 season is 152, 280, 255, 238, 244, 183, 465, 470, 348, 251. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_43.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2017 season is 152, 280, 255, 238, 244, 183, 465, 470, 348, 251.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "236"
+    },
+    {
+        "id": "id_44",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_44.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2017 season is 67, 87, 199, 162, 206, 204, 226, 134, 70, 172. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_44.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2017 season is 67, 87, 199, 162, 206, 204, 226, 134, 70, 172. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_44.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Spring 2017 season is 67, 87, 199, 162, 206, 204, 226, 134, 70, 172.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "116"
+    },
+    {
+        "id": "id_45",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_45.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2017 season is 223, 277, 241, 237, 260, 379, 319, 324, 122, 116. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_45.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2017 season is 223, 277, 241, 237, 260, 379, 319, 324, 122, 116. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_45.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Spring 2017 season is 223, 277, 241, 237, 260, 379, 319, 324, 122, 116.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "121"
+    },
+    {
+        "id": "id_46",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_46.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2017 season is 137, 139, 175, 216, 226, 252, 156, 151, 181, 174. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_46.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2017 season is 137, 139, 175, 216, 226, 252, 156, 151, 181, 174. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_46.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Spring 2017 season is 137, 139, 175, 216, 226, 252, 156, 151, 181, 174.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "186"
+    },
+    {
+        "id": "id_47",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_47.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2017 season is 257, 255, 131, 116, 186, 259, 425, 350, 367, 315. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_47.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2017 season is 257, 255, 131, 116, 186, 259, 425, 350, 367, 315. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_47.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Spring 2017 season is 257, 255, 131, 116, 186, 259, 425, 350, 367, 315.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "256"
+    },
+    {
+        "id": "id_48",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_48.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2017 season is 345, 415, 384, 188, 201, 200, 225, 367, 379, 287. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_48.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2017 season is 345, 415, 384, 188, 201, 200, 225, 367, 379, 287. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_48.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Spring 2017 season is 345, 415, 384, 188, 201, 200, 225, 367, 379, 287.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "159"
+    },
+    {
+        "id": "id_49",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_49.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2017 season is 209, 194, 138, 219, 280, 337, 299, 422, 361, 145. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_49.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2017 season is 209, 194, 138, 219, 280, 337, 299, 422, 361, 145. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_49.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Summer 2017 season is 209, 194, 138, 219, 280, 337, 299, 422, 361, 145.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "244"
+    },
+    {
+        "id": "id_50",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_50.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2017 season is 184, 244, 244, 319, 294, 137, 209, 255, 297, 267. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_50.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2017 season is 184, 244, 244, 319, 294, 137, 209, 255, 297, 267. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_50.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Summer 2017 season is 184, 244, 244, 319, 294, 137, 209, 255, 297, 267.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "246"
+    },
+    {
+        "id": "id_51",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_51.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2017 season is 216, 129, 274, 210, 187, 225, 237, 139, 123, 233. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_51.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2017 season is 216, 129, 274, 210, 187, 225, 237, 139, 123, 233. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_51.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Summer 2017 season is 216, 129, 274, 210, 187, 225, 237, 139, 123, 233.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "286"
+    },
+    {
+        "id": "id_52",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_52.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2017 season is 332, 346, 247, 200, 124, 262, 275, 306, 271, 266. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_52.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2017 season is 332, 346, 247, 200, 124, 262, 275, 306, 271, 266. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_52.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2017 season is 332, 346, 247, 200, 124, 262, 275, 306, 271, 266.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "262"
+    },
+    {
+        "id": "id_53",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_53.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2017 season is 140, 188, 128, 178, 209, 240, 162, 110, 153, 210. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_53.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2017 season is 140, 188, 128, 178, 209, 240, 162, 110, 153, 210. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_53.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Summer 2017 season is 140, 188, 128, 178, 209, 240, 162, 110, 153, 210.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "176"
+    },
+    {
+        "id": "id_54",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_54.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2017 season is 186, 189, 206, 262, 303, 375, 504, 448, 414, 433. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_54.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2017 season is 186, 189, 206, 262, 303, 375, 504, 448, 414, 433. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_54.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Summer 2017 season is 186, 189, 206, 262, 303, 375, 504, 448, 414, 433.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "64"
+    },
+    {
+        "id": "id_55",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_55.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2017 season is 76, 206, 222, 299, 250, 190, 234, 348, 346, 196. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_55.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2017 season is 76, 206, 222, 299, 250, 190, 234, 348, 346, 196. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_55.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Summer 2017 season is 76, 206, 222, 299, 250, 190, 234, 348, 346, 196.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "212"
+    },
+    {
+        "id": "id_56",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_56.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2017 season is 166, 128, 172, 228, 222, 189, 169, 212, 172, 142. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_56.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2017 season is 166, 128, 172, 228, 222, 189, 169, 212, 172, 142. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_56.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Summer 2017 season is 166, 128, 172, 228, 222, 189, 169, 212, 172, 142.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "204"
+    },
+    {
+        "id": "id_57",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_57.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2017 season is 463, 375, 564, 405, 340, 121, 219, 209, 418, 421. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_57.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2017 season is 463, 375, 564, 405, 340, 121, 219, 209, 418, 421. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_57.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2017 season is 463, 375, 564, 405, 340, 121, 219, 209, 418, 421.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "480"
+    },
+    {
+        "id": "id_58",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_58.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2017 season is 280, 344, 109, 365, 430, 244, 284, 340, 264, 412. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_58.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2017 season is 280, 344, 109, 365, 430, 244, 284, 340, 264, 412. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_58.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Fall 2017 season is 280, 344, 109, 365, 430, 244, 284, 340, 264, 412.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "371"
+    },
+    {
+        "id": "id_59",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_59.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2017 season is 479, 220, 144, 232, 209, 422, 366, 361, 384, 447. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_59.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2017 season is 479, 220, 144, 232, 209, 422, 366, 361, 384, 447. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_59.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Fall 2017 season is 479, 220, 144, 232, 209, 422, 366, 361, 384, 447.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "385"
+    },
+    {
+        "id": "id_60",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_60.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2017 season is 237, 151, 138, 176, 242, 126, 149, 158, 295, 319. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_60.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2017 season is 237, 151, 138, 176, 242, 126, 149, 158, 295, 319. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_60.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2017 season is 237, 151, 138, 176, 242, 126, 149, 158, 295, 319.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "317"
+    },
+    {
+        "id": "id_61",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_61.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Fall 2017 season is 176, 192, 225, 327, 510, 471, 642, 336, 344, 252. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_61.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Fall 2017 season is 176, 192, 225, 327, 510, 471, 642, 336, 344, 252. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_61.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday during the Fall 2017 season is 176, 192, 225, 327, 510, 471, 642, 336, 344, 252.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "538"
+    },
+    {
+        "id": "id_62",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_62.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2017 season is 400, 276, 293, 265, 350, 284, 217, 461, 511, 605. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_62.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2017 season is 400, 276, 293, 265, 350, 284, 217, 461, 511, 605. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_62.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2017 season is 400, 276, 293, 265, 350, 284, 217, 461, 511, 605.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "468"
+    },
+    {
+        "id": "id_63",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_63.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2017 season is 363, 314, 239, 332, 427, 389, 444, 188, 206, 398. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_63.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2017 season is 363, 314, 239, 332, 427, 389, 444, 188, 206, 398. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_63.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Fall 2017 season is 363, 314, 239, 332, 427, 389, 444, 188, 206, 398.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "307"
+    },
+    {
+        "id": "id_64",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_64.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2017 season is 466, 605, 439, 302, 222, 355, 497, 372, 317, 363. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_64.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2017 season is 466, 605, 439, 302, 222, 355, 497, 372, 317, 363. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_64.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Fall 2017 season is 466, 605, 439, 302, 222, 355, 497, 372, 317, 363.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "380"
+    },
+    {
+        "id": "id_65",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_65.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2018 season is 440, 425, 490, 656, 356, 580, 381, 317, 336, 696. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_65.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2018 season is 440, 425, 490, 656, 356, 580, 381, 317, 336, 696. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_65.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Winter 2018 season is 440, 425, 490, 656, 356, 580, 381, 317, 336, 696.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "456"
+    },
+    {
+        "id": "id_66",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_66.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2018 season is 585, 434, 278, 363, 268, 125, 240, 332, 429, 134. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_66.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2018 season is 585, 434, 278, 363, 268, 125, 240, 332, 429, 134. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_66.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Winter 2018 season is 585, 434, 278, 363, 268, 125, 240, 332, 429, 134.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "157"
+    },
+    {
+        "id": "id_67",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_67.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2018 season is 568, 497, 369, 604, 296, 202, 180, 248, 231, 419. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_67.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2018 season is 568, 497, 369, 604, 296, 202, 180, 248, 231, 419. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_67.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Winter 2018 season is 568, 497, 369, 604, 296, 202, 180, 248, 231, 419.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "305"
+    },
+    {
+        "id": "id_68",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_68.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2018 season is 182, 164, 278, 360, 349, 522, 647, 708, 495, 426. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_68.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2018 season is 182, 164, 278, 360, 349, 522, 647, 708, 495, 426. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_68.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Winter 2018 season is 182, 164, 278, 360, 349, 522, 647, 708, 495, 426.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "411"
+    },
+    {
+        "id": "id_69",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_69.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2018 season is 403, 383, 481, 492, 146, 185, 147, 240, 316, 370. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_69.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2018 season is 403, 383, 481, 492, 146, 185, 147, 240, 316, 370. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_69.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Winter 2018 season is 403, 383, 481, 492, 146, 185, 147, 240, 316, 370.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "313"
+    },
+    {
+        "id": "id_70",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_70.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2018 season is 282, 177, 134, 399, 291, 174, 132, 149, 268, 290. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_70.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2018 season is 282, 177, 134, 399, 291, 174, 132, 149, 268, 290. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_70.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Winter 2018 season is 282, 177, 134, 399, 291, 174, 132, 149, 268, 290.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "270"
+    },
+    {
+        "id": "id_71",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_71.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2018 season is 234, 194, 234, 179, 90, 180, 411, 526, 447, 356. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_71.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2018 season is 234, 194, 234, 179, 90, 180, 411, 526, 447, 356. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_71.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Winter 2018 season is 234, 194, 234, 179, 90, 180, 411, 526, 447, 356.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "151"
+    },
+    {
+        "id": "id_72",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_72.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday  during the Winter 2018 season is 94, 235, 239, 170, 122, 105, 181, 283, 375, 348. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_72.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday  during the Winter 2018 season is 94, 235, 239, 170, 122, 105, 181, 283, 375, 348. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_72.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Wednesday during the Winter 2018 season is 94, 235, 239, 170, 122, 105, 181, 283, 375, 348.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "239"
+    },
+    {
+        "id": "id_73",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_73.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2018 season is 245, 105, 69, 143, 343, 300, 419, 437, 372, 135. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_73.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2018 season is 245, 105, 69, 143, 343, 300, 419, 437, 372, 135. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_73.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Spring 2018 season is 245, 105, 69, 143, 343, 300, 419, 437, 372, 135.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "156"
+    },
+    {
+        "id": "id_74",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_74.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2018 season is 224, 263, 213, 249, 140, 261, 382, 394, 399, 137. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_74.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2018 season is 224, 263, 213, 249, 140, 261, 382, 394, 399, 137. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_74.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2018 season is 224, 263, 213, 249, 140, 261, 382, 394, 399, 137.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "218"
+    },
+    {
+        "id": "id_75",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_75.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2018 season is 327, 174, 150, 313, 158, 201, 329, 267, 303, 382. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_75.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2018 season is 327, 174, 150, 313, 158, 201, 329, 267, 303, 382. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_75.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Spring 2018 season is 327, 174, 150, 313, 158, 201, 329, 267, 303, 382.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "245"
+    },
+    {
+        "id": "id_76",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_76.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2018 season is 212, 197, 171, 95, 153, 117, 168, 311, 329, 281. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_76.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Spring 2018 season is 212, 197, 171, 95, 153, 117, 168, 311, 329, 281. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_76.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Spring 2018 season is 212, 197, 171, 95, 153, 117, 168, 311, 329, 281.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "266"
+    },
+    {
+        "id": "id_77",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_77.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2018 season is 249, 251, 229, 192, 153, 92, 77, 128, 190, 158. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_77.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Spring 2018 season is 249, 251, 229, 192, 153, 92, 77, 128, 190, 158. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_77.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Spring 2018 season is 249, 251, 229, 192, 153, 92, 77, 128, 190, 158.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "119"
+    },
+    {
+        "id": "id_78",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_78.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2018 season is 143, 106, 127, 198, 181, 226, 172, 164, 115, 116. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_78.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2018 season is 143, 106, 127, 198, 181, 226, 172, 164, 115, 116. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_78.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Spring 2018 season is 143, 106, 127, 198, 181, 226, 172, 164, 115, 116.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "160"
+    },
+    {
+        "id": "id_79",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_79.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2018 season is 189, 172, 113, 290, 248, 172, 220, 144, 141, 218. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_79.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2018 season is 189, 172, 113, 290, 248, 172, 220, 144, 141, 218. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_79.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2018 season is 189, 172, 113, 290, 248, 172, 220, 144, 141, 218.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "267"
+    },
+    {
+        "id": "id_80",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_80.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2018 season is 203, 123, 276, 302, 254, 248, 231, 133, 88, 154. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_80.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2018 season is 203, 123, 276, 302, 254, 248, 231, 133, 88, 154. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_80.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Spring 2018 season is 203, 123, 276, 302, 254, 248, 231, 133, 88, 154.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "188"
+    },
+    {
+        "id": "id_81",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_81.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2018 season is 167, 191, 165, 130, 108, 174, 232, 220, 184, 112. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_81.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2018 season is 167, 191, 165, 130, 108, 174, 232, 220, 184, 112. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_81.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Spring 2018 season is 167, 191, 165, 130, 108, 174, 232, 220, 184, 112.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "105"
+    },
+    {
+        "id": "id_82",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_82.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Saturday  during the Summer 2018 season is 107, 143, 186, 184, 308, 499, 322, 115, 291, 206. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_82.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Saturday  during the Summer 2018 season is 107, 143, 186, 184, 308, 499, 322, 115, 291, 206. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_82.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Saturday during the Summer 2018 season is 107, 143, 186, 184, 308, 499, 322, 115, 291, 206.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "179"
+    },
+    {
+        "id": "id_83",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_83.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2018 season is 156, 181, 211, 194, 268, 115, 157, 272, 268, 203. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_83.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2018 season is 156, 181, 211, 194, 268, 115, 157, 272, 268, 203. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_83.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Summer 2018 season is 156, 181, 211, 194, 268, 115, 157, 272, 268, 203.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "235"
+    },
+    {
+        "id": "id_84",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_84.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2018 season is 255, 121, 145, 269, 298, 268, 279, 306, 299, 231. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_84.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2018 season is 255, 121, 145, 269, 298, 268, 279, 306, 299, 231. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_84.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Summer 2018 season is 255, 121, 145, 269, 298, 268, 279, 306, 299, 231.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "399"
+    },
+    {
+        "id": "id_85",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_85.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2018 season is 452, 293, 285, 344, 136, 170, 210, 207, 158, 159. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_85.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2018 season is 452, 293, 285, 344, 136, 170, 210, 207, 158, 159. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_85.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Summer 2018 season is 452, 293, 285, 344, 136, 170, 210, 207, 158, 159.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "186"
+    },
+    {
+        "id": "id_86",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_86.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2018 season is 170, 133, 148, 166, 163, 190, 203, 135, 116, 195. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_86.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2018 season is 170, 133, 148, 166, 163, 190, 203, 135, 116, 195. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_86.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Summer 2018 season is 170, 133, 148, 166, 163, 190, 203, 135, 116, 195.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "249"
+    },
+    {
+        "id": "id_87",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_87.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2018 season is 306, 305, 305, 196, 75, 96, 142, 171, 222, 351. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_87.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2018 season is 306, 305, 305, 196, 75, 96, 142, 171, 222, 351. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_87.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2018 season is 306, 305, 305, 196, 75, 96, 142, 171, 222, 351.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "347"
+    },
+    {
+        "id": "id_88",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_88.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Friday  during the Summer 2018 season is 261, 195, 464, 324, 283, 411, 484, 330, 318, 277. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_88.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Friday  during the Summer 2018 season is 261, 195, 464, 324, 283, 411, 484, 330, 318, 277. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_88.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Friday during the Summer 2018 season is 261, 195, 464, 324, 283, 411, 484, 330, 318, 277.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "267"
+    },
+    {
+        "id": "id_89",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_89.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2018 season is 265, 192, 237, 303, 420, 272, 192, 256, 312, 334. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_89.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2018 season is 265, 192, 237, 303, 420, 272, 192, 256, 312, 334. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_89.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2018 season is 265, 192, 237, 303, 420, 272, 192, 256, 312, 334.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "195"
+    },
+    {
+        "id": "id_90",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_90.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2018 season is 173, 203, 213, 95, 208, 172, 140, 178, 313, 148. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_90.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2018 season is 173, 203, 213, 95, 208, 172, 140, 178, 313, 148. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_90.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Fall 2018 season is 173, 203, 213, 95, 208, 172, 140, 178, 313, 148.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "157"
+    },
+    {
+        "id": "id_91",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_91.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2018 season is 161, 389, 331, 225, 375, 267, 287, 251, 298, 373. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_91.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2018 season is 161, 389, 331, 225, 375, 267, 287, 251, 298, 373. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_91.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Fall 2018 season is 161, 389, 331, 225, 375, 267, 287, 251, 298, 373.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "460"
+    },
+    {
+        "id": "id_92",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_92.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2018 season is 625, 507, 348, 449, 389, 331, 498, 471, 368, 328. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_92.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2018 season is 625, 507, 348, 449, 389, 331, 498, 471, 368, 328. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_92.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Fall 2018 season is 625, 507, 348, 449, 389, 331, 498, 471, 368, 328.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "347"
+    },
+    {
+        "id": "id_93",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_93.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2018 season is 280, 225, 154, 484, 355, 244, 318, 393, 294, 372. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_93.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2018 season is 280, 225, 154, 484, 355, 244, 318, 393, 294, 372. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_93.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2018 season is 280, 225, 154, 484, 355, 244, 318, 393, 294, 372.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "563"
+    },
+    {
+        "id": "id_94",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_94.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2018 season is 366, 244, 688, 473, 319, 114, 227, 161, 245, 334. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_94.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2018 season is 366, 244, 688, 473, 319, 114, 227, 161, 245, 334. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_94.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Fall 2018 season is 366, 244, 688, 473, 319, 114, 227, 161, 245, 334.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "479"
+    },
+    {
+        "id": "id_95",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_95.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2018 season is 303, 161, 205, 152, 191, 254, 270, 369, 253, 245. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_95.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2018 season is 303, 161, 205, 152, 191, 254, 270, 369, 253, 245. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_95.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Fall 2018 season is 303, 161, 205, 152, 191, 254, 270, 369, 253, 245.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "218"
+    },
+    {
+        "id": "id_96",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_96.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2018 season is 150, 390, 433, 306, 297, 408, 396, 374, 337, 331. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_96.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2018 season is 150, 390, 433, 306, 297, 408, 396, 374, 337, 331. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_96.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2018 season is 150, 390, 433, 306, 297, 408, 396, 374, 337, 331.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "441"
+    },
+    {
+        "id": "id_97",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_97.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2018 season is 535, 536, 477, 414, 320, 116, 414, 272, 360, 183. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_97.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2018 season is 535, 536, 477, 414, 320, 116, 414, 272, 360, 183. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_97.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Fall 2018 season is 535, 536, 477, 414, 320, 116, 414, 272, 360, 183.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "241"
+    },
+    {
+        "id": "id_98",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_98.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2019 season is 254, 169, 317, 345, 418, 324, 228, 295, 220, 360. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_98.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2019 season is 254, 169, 317, 345, 418, 324, 228, 295, 220, 360. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_98.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Winter 2019 season is 254, 169, 317, 345, 418, 324, 228, 295, 220, 360.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "365"
+    },
+    {
+        "id": "id_99",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_99.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2019 season is 352, 310, 129, 200, 152, 216, 264, 270, 125, 201. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_99.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Winter 2019 season is 352, 310, 129, 200, 152, 216, 264, 270, 125, 201. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_99.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Winter 2019 season is 352, 310, 129, 200, 152, 216, 264, 270, 125, 201.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "303"
+    },
+    {
+        "id": "id_100",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_100.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2019 season is 260, 401, 319, 215, 353, 231, 488, 597, 317, 318. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_100.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Winter 2019 season is 260, 401, 319, 215, 353, 231, 488, 597, 317, 318. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_100.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Winter 2019 season is 260, 401, 319, 215, 353, 231, 488, 597, 317, 318.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "300"
+    },
+    {
+        "id": "id_101",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_101.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2019 season is 191, 101, 208, 172, 183, 306, 302, 95, 116, 141. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_101.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Winter 2019 season is 191, 101, 208, 172, 183, 306, 302, 95, 116, 141. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_101.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Winter 2019 season is 191, 101, 208, 172, 183, 306, 302, 95, 116, 141.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "260"
+    },
+    {
+        "id": "id_102",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_102.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2019 season is 421, 149, 180, 119, 140, 217, 343, 248, 234, 266. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_102.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Winter 2019 season is 421, 149, 180, 119, 140, 217, 343, 248, 234, 266. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_102.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Winter 2019 season is 421, 149, 180, 119, 140, 217, 343, 248, 234, 266.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "184"
+    },
+    {
+        "id": "id_103",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_103.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2019 season is 231, 420, 391, 317, 296, 329, 338, 117, 188, 353. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_103.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Winter 2019 season is 231, 420, 391, 317, 296, 329, 338, 117, 188, 353. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_103.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Winter 2019 season is 231, 420, 391, 317, 296, 329, 338, 117, 188, 353.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "155"
+    },
+    {
+        "id": "id_104",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_104.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2019 season is 235, 157, 107, 106, 238, 218, 175, 374, 388, 463. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_104.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Winter 2019 season is 235, 157, 107, 106, 238, 218, 175, 374, 388, 463. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_104.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Winter 2019 season is 235, 157, 107, 106, 238, 218, 175, 374, 388, 463.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "126"
+    },
+    {
+        "id": "id_105",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_105.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2019 season is 331, 380, 129, 134, 227, 109, 121, 302, 434, 260. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_105.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Winter 2019 season is 331, 380, 129, 134, 227, 109, 121, 302, 434, 260. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_105.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Winter 2019 season is 331, 380, 129, 134, 227, 109, 121, 302, 434, 260.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "173"
+    },
+    {
+        "id": "id_106",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_106.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2019 season is 196, 242, 166, 393, 294, 192, 139, 123, 127, 275. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_106.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Spring 2019 season is 196, 242, 166, 393, 294, 192, 139, 123, 127, 275. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_106.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Spring 2019 season is 196, 242, 166, 393, 294, 192, 139, 123, 127, 275.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "329"
+    },
+    {
+        "id": "id_107",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_107.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2019 season is 315, 185, 310, 196, 255, 216, 302, 191, 223, 302. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_107.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2019 season is 315, 185, 310, 196, 255, 216, 302, 191, 223, 302. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_107.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2019 season is 315, 185, 310, 196, 255, 216, 302, 191, 223, 302.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "362"
+    },
+    {
+        "id": "id_108",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_108.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2019 season is 106, 101, 202, 313, 288, 270, 229, 130, 120, 166. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_108.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2019 season is 106, 101, 202, 313, 288, 270, 229, 130, 120, 166. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_108.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Spring 2019 season is 106, 101, 202, 313, 288, 270, 229, 130, 120, 166.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "169"
+    },
+    {
+        "id": "id_109",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_109.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2019 season is 259, 304, 216, 150, 100, 167, 134, 193, 180, 149. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_109.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Spring 2019 season is 259, 304, 216, 150, 100, 167, 134, 193, 180, 149. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_109.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Spring 2019 season is 259, 304, 216, 150, 100, 167, 134, 193, 180, 149.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "215"
+    },
+    {
+        "id": "id_110",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_110.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2019 season is 104, 179, 169, 158, 116, 137, 147, 59, 135, 143. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_110.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Spring 2019 season is 104, 179, 169, 158, 116, 137, 147, 59, 135, 143. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_110.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Spring 2019 season is 104, 179, 169, 158, 116, 137, 147, 59, 135, 143.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "238"
+    },
+    {
+        "id": "id_111",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_111.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Spring 2019 season is 137, 168, 203, 65, 82, 151, 201, 146, 122, 110. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_111.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday  during the Spring 2019 season is 137, 168, 203, 65, 82, 151, 201, 146, 122, 110. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_111.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Sunday during the Spring 2019 season is 137, 168, 203, 65, 82, 151, 201, 146, 122, 110.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "167"
+    },
+    {
+        "id": "id_112",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_112.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2019 season is 182, 188, 182, 184, 140, 166, 363, 334, 230, 168. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_112.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Spring 2019 season is 182, 188, 182, 184, 140, 166, 363, 334, 230, 168. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_112.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Spring 2019 season is 182, 188, 182, 184, 140, 166, 363, 334, 230, 168.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "165"
+    },
+    {
+        "id": "id_113",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_113.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2019 season is 125, 90, 168, 195, 157, 159, 136, 92, 100, 182. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_113.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Spring 2019 season is 125, 90, 168, 195, 157, 159, 136, 92, 100, 182. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_113.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Spring 2019 season is 125, 90, 168, 195, 157, 159, 136, 92, 100, 182.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "157"
+    },
+    {
+        "id": "id_114",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_114.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2019 season is 181, 184, 227, 303, 214, 286, 192, 137, 164, 163. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_114.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2019 season is 181, 184, 227, 303, 214, 286, 192, 137, 164, 163. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_114.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2019 season is 181, 184, 227, 303, 214, 286, 192, 137, 164, 163.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "136"
+    },
+    {
+        "id": "id_115",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_115.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2019 season is 85, 185, 226, 304, 282, 339, 245, 166, 370, 333. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_115.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Summer 2019 season is 85, 185, 226, 304, 282, 339, 245, 166, 370, 333. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_115.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Summer 2019 season is 85, 185, 226, 304, 282, 339, 245, 166, 370, 333.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "176"
+    },
+    {
+        "id": "id_116",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_116.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2019 season is 150, 173, 137, 209, 269, 354, 377, 346, 307, 338. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_116.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Summer 2019 season is 150, 173, 137, 209, 269, 354, 377, 346, 307, 338. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_116.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Summer 2019 season is 150, 173, 137, 209, 269, 354, 377, 346, 307, 338.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "217"
+    },
+    {
+        "id": "id_117",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_117.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2019 season is 267, 214, 251, 346, 375, 302, 201, 305, 264, 241. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_117.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Summer 2019 season is 267, 214, 251, 346, 375, 302, 201, 305, 264, 241. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_117.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Summer 2019 season is 267, 214, 251, 346, 375, 302, 201, 305, 264, 241.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "316"
+    },
+    {
+        "id": "id_118",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_118.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2019 season is 334, 285, 145, 254, 353, 393, 315, 272, 146, 131. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_118.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Summer 2019 season is 334, 285, 145, 254, 353, 393, 315, 272, 146, 131. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_118.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Summer 2019 season is 334, 285, 145, 254, 353, 393, 315, 272, 146, 131.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "256"
+    },
+    {
+        "id": "id_119",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_119.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2019 season is 310, 403, 351, 194, 272, 212, 348, 305, 195, 298. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_119.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Summer 2019 season is 310, 403, 351, 194, 272, 212, 348, 305, 195, 298. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_119.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Summer 2019 season is 310, 403, 351, 194, 272, 212, 348, 305, 195, 298.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "342"
+    },
+    {
+        "id": "id_120",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_120.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2019 season is 290, 188, 163, 335, 392, 421, 272, 290, 183, 181. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_120.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Summer 2019 season is 290, 188, 163, 335, 392, 421, 272, 290, 183, 181. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_120.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Summer 2019 season is 290, 188, 163, 335, 392, 421, 272, 290, 183, 181.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "115"
+    },
+    {
+        "id": "id_121",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_121.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2019 season is 234, 389, 478, 393, 319, 302, 259, 262, 197, 197. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_121.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Summer 2019 season is 234, 389, 478, 393, 319, 302, 259, 262, 197, 197. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_121.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Summer 2019 season is 234, 389, 478, 393, 319, 302, 259, 262, 197, 197.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "232"
+    },
+    {
+        "id": "id_122",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_122.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2019 season is 240, 298, 357, 348, 164, 211, 169, 115, 196, 153. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_122.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2019 season is 240, 298, 357, 348, 164, 211, 169, 115, 196, 153. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_122.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2019 season is 240, 298, 357, 348, 164, 211, 169, 115, 196, 153.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "285"
+    },
+    {
+        "id": "id_123",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_123.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2019 season is 433, 362, 248, 333, 544, 440, 251, 378, 229, 317. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_123.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2019 season is 433, 362, 248, 333, 544, 440, 251, 378, 229, 317. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_123.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Fall 2019 season is 433, 362, 248, 333, 544, 440, 251, 378, 229, 317.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "256"
+    },
+    {
+        "id": "id_124",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_124.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2019 season is 210, 418, 464, 412, 252, 256, 325, 233, 339, 461. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_124.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday  during the Fall 2019 season is 210, 418, 464, 412, 252, 256, 325, 233, 339, 461. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_124.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Monday to Wednesday during the Fall 2019 season is 210, 418, 464, 412, 252, 256, 325, 233, 339, 461.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Thursday.",
+        "answers": "498"
+    },
+    {
+        "id": "id_125",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_125.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2019 season is 215, 218, 98, 277, 401, 356, 210, 436, 469, 290. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_125.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday  during the Fall 2019 season is 215, 218, 98, 277, 401, 356, 210, 436, 469, 290. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_125.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Friday to Sunday during the Fall 2019 season is 215, 218, 98, 277, 401, 356, 210, 436, 469, 290.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Monday.",
+        "answers": "499"
+    },
+    {
+        "id": "id_126",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_126.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2019 season is 551, 460, 509, 440, 422, 368, 371, 498, 433, 401. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_126.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday  during the Fall 2019 season is 551, 460, 509, 440, 422, 368, 371, 498, 433, 401. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_126.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Tuesday to Thursday during the Fall 2019 season is 551, 460, 509, 440, 422, 368, 371, 498, 433, 401.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Friday.",
+        "answers": "380"
+    },
+    {
+        "id": "id_127",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_127.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2019 season is 350, 302, 551, 452, 155, 214, 276, 179, 228, 269. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_127.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday  during the Fall 2019 season is 350, 302, 551, 452, 155, 214, 276, 179, 228, 269. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_127.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Saturday to Monday during the Fall 2019 season is 350, 302, 551, 452, 155, 214, 276, 179, 228, 269.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Tuesday.",
+        "answers": "258"
+    },
+    {
+        "id": "id_128",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_128.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2019 season is 229, 60, 131, 68, 198, 468, 432, 336, 195, 322. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_128.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday  during the Fall 2019 season is 229, 60, 131, 68, 198, 468, 432, 336, 195, 322. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_128.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Wednesday to Friday during the Fall 2019 season is 229, 60, 131, 68, 198, 468, 432, 336, 195, 322.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Saturday.",
+        "answers": "105"
+    },
+    {
+        "id": "id_129",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_129.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2019 season is 104, 277, 272, 393, 467, 553, 166, 183, 279, 263. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_129.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday  during the Fall 2019 season is 104, 277, 272, 393, 467, 553, 166, 183, 279, 263. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_129.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Sunday to Tuesday during the Fall 2019 season is 104, 277, 272, 393, 467, 553, 166, 183, 279, 263.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Wednesday.",
+        "answers": "308"
+    },
+    {
+        "id": "id_130",
+        "image_path_scalogram": "Dataset_LA_10/Images_Scalogram/Data_130.jpg",
+        "query_scalogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2019 season is 283, 269, 232, 266, 191, 216, 82, 147, 215, 142. Analyze the provided Scalogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_mtf": "Dataset_LA_10/Images_MTF/Data_130.jpg",
+        "query_mtf": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday  during the Fall 2019 season is 283, 269, 232, 266, 191, 216, 82, 147, 215, 142. Analyze the provided Markov Transition Field of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "image_path_spectrogram": "Dataset_LA_10/Images_Spectrogram/Data_130.jpg",
+        "query_spectrogram": " Value on Nitrogen Dioxide in Los Angeles on ten consecutive days from Thursday to Saturday during the Fall 2019 season is 283, 269, 232, 266, 191, 216, 82, 147, 215, 142.Analyze the provided Spectrogram of Nitrogen Dioxide for ten days and estimate the expected Nitrogen Dioxide value for the subsequent day that is Sunday.",
+        "answers": "288"
+    }
+]
